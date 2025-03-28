@@ -1,4 +1,11 @@
-_cache
+*.gem
+.bundle
+.sass-cache
 _site
-.idea/
-/.vs/
+Gemfile.lock
+.idea
+.DS_Store
+node_modules/*
+!node_modules/bulma
+!node_modules/bulma-block-list
+.vs
