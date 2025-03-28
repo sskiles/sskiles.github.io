@@ -14,7 +14,7 @@ rss: RSS
 url: https://sskiles.github.io
 baseurl: /sskiles.github.io
 
-permalink: pretty
+permalink: /posts/:slug
 
 theme: minima
 
