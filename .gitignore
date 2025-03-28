@@ -1,10 +1,4 @@
-.jekyll-cache/
-.sass-cache/
-.jekyll-metadata
-
-.bundle/
-vendor/
-
-_site/
-
-/.vs/sskiles.github.io/FileContentIndex
+_cache
+_site
+.idea/
+/.vs/
