@@ -1,36 +1,96 @@
-@use '../abstracts/breakpoints' as bp;
-@use '../abstracts/variables' as v;
-@use '../abstracts/mixins' as mx;
-@use '../abstracts/placeholders';
+/* ==========================================================================
+   FOOTER
+   ========================================================================== */
 
-footer {
-  background-color: var(--main-bg);
-  height: v.$footer-height;
-  border-top: 1px solid var(--main-border-color);
+.page__footer {
+  @include clearfix;
+  background-color: var(--global-bg-color);
+  color: var(--global-text-color-light);
 
-  @extend %text-xs;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+  clear: both;
 
-  @include bp.lt(bp.get(lg)) {
-    @include mx.slide;
+  /* sticky footer fix start */
+  position: absolute;
+  bottom: 0em;
+  height: auto;
+  /* sticky footer fix end */
 
-    height: v.$footer-height-large;
-    padding: 1.5rem 0;
-  }
+  margin-top: 3em;
 
-  a {
-    @extend %text-highlight;
+  -webkit-animation: intro 0.3s both;
+          animation: intro 0.3s both;
+  -webkit-animation-delay: 0.45s;
+          animation-delay: 0.45s;
+  border-top: 1px solid var(var(--global-border-color));
 
-    &:hover {
-      @extend %link-hover;
+  footer {
+    @include clearfix;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    max-width: 100%;
+    padding: 0 1em 1em;
+
+    @include breakpoint($x-large) {
+      max-width: $x-large;
     }
   }
 
-  em {
-    @extend %text-highlight;
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 
-  p {
-    text-align: center;
-    margin-bottom: 0;
+  .fas,
+  .fab,
+  .far,
+  .fal {
+    color: var(--global-text-color-light);
+  }
+}
+
+.page__footer-copyright {
+  font-family: $global-font-family;
+  font-size: $type-size-7;
+}
+
+.page__footer-follow {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+
+  li {
+    display: inline-block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-6;
+    text-transform: uppercase;
+  }
+
+  li + li:before {
+    content: "";
+    padding-right: 5px;
+  }
+
+  a {
+    padding-right: 10px;
+    font-weight: bold;
+  }
+
+  .social-icons {
+    a {
+      white-space: nowrap;
+    }
   }
 }
