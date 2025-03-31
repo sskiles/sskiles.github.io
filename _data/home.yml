@@ -9,9 +9,9 @@ navbar_entries:
     url: about
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Geospatial Analysis 101
+    url: geospatial-analysis-101
+    desc: A short overview of/introduction to geospatial analysis.
 
   - title: Project 2
     url: overview-post
