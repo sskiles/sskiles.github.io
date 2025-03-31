@@ -1,17 +1,17 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: website
+    url: https://sskiles.github.io
 
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: about
+    url: about
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Geospatial Analysis 101
+    url: geospatial-analysis-101
+    desc: A short introduction some of the possible uses of geospatial analysis.
 
   - title: Project 2
     url: overview-post
