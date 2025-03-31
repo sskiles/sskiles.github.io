@@ -1,12 +1,8 @@
----
+﻿---
 layout: post
 author: Shane Skiles
 tags: [geospatial, analysis, paper]
 ---
-
-Here is the paper I was telling you about the other day. Let me know what you think.
-
----------------------------------------
 
 Geospatial Analysis 101: A Place and Time for Business Data
 
@@ -40,6 +36,6 @@ Practically any type of business can benefit from spatial analysis for better de
 
 - Oil and gas companies can easily visualize company and competitor assets along with existing and permitted wells using GIS systems. By combining that data with existing gas analysis, geology, shale and gas play formation data they can make more informed decisions more easily using geospatial analysis.
 
-- Trucking companies use geospatial analysis techniques to help plan routes and delivery schedules to save on mileage and monitor driver safety. These techniques are used so extensively that Jack Levis, UPS Director of Process Management, is quoted as saying, "We�ve moved from being a trucking company that has technology, to a technology company that just happens to have trucks."
+- Trucking companies use geospatial analysis techniques to help plan routes and delivery schedules to save on mileage and monitor driver safety. These techniques are used so extensively that Jack Levis, UPS Director of Process Management, is quoted as saying, "We’ve moved from being a trucking company that has technology, to a technology company that just happens to have trucks."
 
-The world as we know it has not changed dramatically since we first started making maps. However, in the past 30 years, our knowledge of the world and our ability to utilize maps has taken great leaps forward. The concepts behind geospatial analysis are not difficult to grasp, but the information that can be gleaned is significant. It is a very powerful tool that has only started to be used by business communities.  We have barely begun to utilize this business paradigm and the possible applications are virtually limitless.
+The world as we know it has not changed dramatically since we first started making maps. However, in the past 30 years, our knowledge of the world and our ability to utilize maps has taken great leaps forward. The concepts behind geospatial analysis are not difficult to grasp, but the information that can be gleaned is significant. It is a very powerful tool that has only started to be used by business communities.  We have barely begun to utilize this business paradigm and the possible applications are virtually limitless.	
