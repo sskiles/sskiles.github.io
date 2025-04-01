@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 author: Shane Skiles
+title: "geospatial analysis 101"
 tags: [geospatial, analysis, paper]
 ---
 

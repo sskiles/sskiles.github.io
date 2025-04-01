@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 author: Shane Skiles
+title: "context collapse"
 tags: [ai, analysis, paper]
 ---
 
