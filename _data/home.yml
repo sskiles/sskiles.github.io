@@ -9,7 +9,7 @@ navbar_entries:
     url: about
 
 project_entries:
-  - title: AI - Context Collapse
+  - title: AI Context Collapse
     url: context-collapse
     desc: This will be part of an ongoing series on AI and its implications.
     highlight: WIP
@@ -19,7 +19,7 @@ project_entries:
     desc: A short introduction some of the possible uses of geospatial analysis.
     highlight: NEW
 
-  - title: Context Collapse 2
+  - title: AI Context Collapse
     url: context-collapse
     desc: Projects in card layout
 
@@ -27,7 +27,7 @@ project_entries:
 
 
 old_project_entries:
-  - title: AI - Context Collapse
+  - title: AI Context Collapse
     url: context-collapse
     desc: This will be part of an ongoing series on AI and its implications.
     highlight: WIP
