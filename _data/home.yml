@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: AI Context Collapse
-    url: context-collapse
+    url: ai-context-collapse
     desc: This will be part of an ongoing series on AI and its implications.
     highlight: WIP
 
@@ -20,7 +20,7 @@ project_entries:
     highlight: NEW
 
   - title: AI Context Collapse
-    url: context-collapse
+    url: ai-context-collapse
     desc: Projects in card layout
 
 
@@ -28,7 +28,7 @@ project_entries:
 
 old_project_entries:
   - title: AI Context Collapse
-    url: context-collapse
+    url: ai-context-collapse
     desc: This will be part of an ongoing series on AI and its implications.
     highlight: WIP
 
