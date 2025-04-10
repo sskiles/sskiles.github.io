@@ -4,6 +4,9 @@ navbar_entries:
 
   - title: blog
     url: blog
+    
+  - title: links
+    url: links
 
   - title: about
     url: about
