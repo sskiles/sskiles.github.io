@@ -7,7 +7,7 @@ A collection of links to websites I often forget to check regularly.
 The content on these sites is updated on a fairly regular basis, 
 so I should visit them more often. 
 Most are technical, though some are simply interesting. 
-There's probably something here to make you think — or at least give you a laugh.
+There's probably something here to make you think â€” or at least give you a laugh.
 
 ### various
 
@@ -51,7 +51,7 @@ See how code is transformed into IL and JIT Asm (Native Assembly Code),
 helps understand the compiler's workings.
 
 <a href="https://publicdomainreview.org/">Public Domain Review</a> - Dedicated 
-to the exploration of the history of art, literature, and ideas – focusing on 
+to the exploration of the history of art, literature, and ideas â€“ focusing on 
 works now fallen into the public domain.
 Material that everyone is free to enjoy, share, and build upon without restrictions.
 
