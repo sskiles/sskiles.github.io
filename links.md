@@ -47,7 +47,7 @@ of Visual Studio Code and GitHub. Create a workspace, sign in anywhere, and star
 
 <a href="https://sharplab.io/">SharpLab</a> -  A .NET code playground designed 
 to showcase the compiling of C#, Visual Basic, and F# code. 
-See how code is transformed into IL and JIT Asm (Native Assembly Code), 
+See how code is transformed into IL and JIT Asm, 
 helps understand the compiler's workings.
 
 <a href="https://publicdomainreview.org/">Public Domain Review</a> - Dedicated 
@@ -72,7 +72,7 @@ Roko's Basilisk</a>.
 ### blog - coding
 
 <a href="https://codeblog.jonskeet.uk/">John Skeet's coding blog</a> - 
-Usually a Microsoft MVP, prominent C# community personality. Smart guy.
+Usually a Microsoft MVP, Jon Skeet is a prominent personality in the C# community. Smart guy.
 
 <a href="https://devblogs.microsoft.com/">Microsoft Developer Blogs</a> - Focus by
 language, tool, technology... a good place to find the latest news and updates.
