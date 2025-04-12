@@ -15,7 +15,11 @@ title: links
 
 <a href="https://www.technologyreview.com/">MIT Technology Review</a>
 
+<a href="https://mindmatters.ai/">MindMatters</a>
+
 Misc
+<a href="https://ofemwire.com/">OfemWire</a>
+
 <a href="https://vscode.dev/">VS Code Workspace</a>
 
 <a href="https://sharplab.io/">SharpLab</a>
