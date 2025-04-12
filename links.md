@@ -16,10 +16,10 @@ Causal Inference, and Social Science</a> - An interesting mix of authors coverin
 a wide range of topics in stats, machine learning, social, political, cognitive,
 behavioral, and data sciences. One or two new articles are posted almost daily.
 
-<a href="https://www.lesswrong.com/">LessWrong</a> - A self described "online 
+<a href="https://www.lesswrong.com/">LessWrong</a> - A self described online 
 forum and community aimed at improving human reasoning, rationality, and 
 decision-making, with the goal of helping its users hold more accurate beliefs 
-and achieve their personal objectives."
+and achieve their personal objectives.
 
 <a href="https://www.janes.com/osint-insights/defence-news">Janes Defence News</a> - 
 International defence and security news and analysis that provide impartial 
@@ -89,7 +89,7 @@ aspects of software development, including the humorous and sometimes
 terrifying side of coding. 
 
 <a href="https://www.theregister.com/offbeat/bofh/">The Register - BOFH</a> - 
-The "Bastard Operator from Hell" - still going strong after 20+ years by 
+The 'Bastard Operator from Hell' - still going strong after 20+ years by 
 Simon Travaglia.
 
 <a href="https://thedailywtf.com/">The Daily WTF</a> - A how-not-to guide 
