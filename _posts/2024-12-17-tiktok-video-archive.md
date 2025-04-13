@@ -9,7 +9,7 @@ in April 2025, but it was given another chance again. For those of you who are
 content creators, and would like to download your videos, here is a PowerShell 
 script to automate the process once you have requested your activity in json format.
 
-```powershell
+```
 $data = ".\user_data_tiktok.json"
 $outputdirectory = ".\TikTokVideos"
 
