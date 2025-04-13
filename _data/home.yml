@@ -34,11 +34,16 @@ old_project_entries:
     url: ai-context-collapse
     desc: This will be part of an ongoing series on AI and its implications.
     highlight: WIP
+    
+  - title: Dispose Patterns
+    url: dispose-patterns
+    desc: Personal reference for a simple sync/async ready to implement dispose pattern.
+    highlight: NEW
 
   - title: Geospatial Analysis 101
     url: geospatial-analysis-101
     desc: A short introduction some of the possible uses of geospatial analysis.
-    highlight: NEW
+
 
 
 
