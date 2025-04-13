@@ -22,9 +22,9 @@ project_entries:
     desc: A short introduction some of the possible uses of geospatial analysis.
     highlight: NEW
 
-  - title: AI Context Collapse
-    url: ai-context-collapse
-    desc: Projects in card layout
+  - title: TikTok Video Archive
+    url: tiktok-video-archive
+    desc: A PowerShell script to download your TikTok videos and save locally.
 
 
 

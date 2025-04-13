@@ -5,7 +5,7 @@ description: > # description of the site (multiple lines allowed)
   This site is the personal blog of Shane Skiles. 
   It is a place for me to record and explore my thoughts on varying topics.
   You will probably find posts on software development, snippits of code, 
-    and other random thoughts.
+  and other random thoughts.
   Take everything you see here with a grain of salt, and don't cite me for anything.
   If I give you a new perspective, or help you solve a problem, I'm glad.
   If you find something that is just plain wrong, let me know.
@@ -40,10 +40,10 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: Portfolio
-    title_misc_list: Misc
-    title_blog: Blog
-    title_old_projects: Older Projects
+    title_projects: papers
+    title_misc_list: misc 
+    title_blog: blog
+    title_old_projects: older papers
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
