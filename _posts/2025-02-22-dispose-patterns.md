@@ -20,15 +20,6 @@ public class DisposableCore : IDisposable, IAsyncDisposable
     private static readonly List<IDisposable> _disposables = [];
     private bool _disposed;
 
-#if USE_FINALIZER
-    // If a finalizer is needed, it should call Dispose(false) 
-    // to release unmanaged resources.
-    /// <summary>
-    /// Finalizes an instance of the <see cref="DisposableCore"/> class.
-    /// </summary>
-    ~DisposableCore() => Dispose(false);
-#endif
-
     /// <inheritdoc/>
     public void Dispose()
     {
@@ -85,5 +76,14 @@ public class DisposableCore : IDisposable, IAsyncDisposable
 
         await Task.CompletedTask.ConfigureAwait(false);
     }
+    
+#if USE_FINALIZER
+    // If a finalizer is needed, it should call Dispose(false) 
+    // to release unmanaged resources.
+    /// <summary>
+    /// Finalizes an instance of the <see cref="DisposableCore"/> class.
+    /// </summary>
+    ~DisposableCore() => Dispose(false);
+#endif
 }
 ```
