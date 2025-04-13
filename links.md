@@ -47,8 +47,12 @@ of Visual Studio Code and GitHub. Create a workspace, sign in anywhere, and star
 
 <a href="https://sharplab.io/">SharpLab</a> -  A .NET code playground designed 
 to showcase the compiling of C#, Visual Basic, and F# code. 
-See how code is transformed into IL and JIT Asm, 
-helps understand the compiler's workings.
+See how code is transformed into IL and JIT Asm, helps understand the 
+compiler's workings and how code is lowered.
+
+<a href="https://dotnetfiddle.net/">.NET Fiddle</a> - Another .NET playground 
+for C#, VB.NET, and F#. Focused more on collaboration and sharing code snippets 
+rather than the compiler's workings.
 
 <a href="https://publicdomainreview.org/">Public Domain Review</a> - Dedicated 
 to the exploration of the history of art, literature, and ideas – focusing on 
