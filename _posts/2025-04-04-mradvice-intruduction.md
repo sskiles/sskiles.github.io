@@ -48,3 +48,68 @@ Method MrAdviceSampleMethod is being advised.
 Running MrAdvice tests...
 Method MrAdviceSampleMethod has completed.
 ```
+
+<p>I have been doing a lot of work with asynchronous services recently and have been
+creating a lot of boilerplate code to handle the async/await patterns. Here are a 
+couple of ideas I have for using MrAdvice to help with this.</p>
+
+```
+public class AsyncLoopUntilCanceled : Attribute, IMethodAsyncAdvice
+{
+    public async Task Advise(MethodAsyncAdviceContext context)
+    {
+        var cancellationToken = context.Arguments.OfType<CancellationToken>()
+            .FirstOrDefault();
+        while (!cancellationToken.IsCancellationRequested)
+        {
+            await context.ProceedAsync();
+        }
+    }
+}
+
+public class AsyncOperationCanceledHandler : Attribute, IMethodAsyncAdvice
+{
+    public async Task Advise(MethodAsyncAdviceContext context)
+    {
+        try
+        {
+            await context.ProceedAsync();
+        }
+        catch (OperationCanceledException)
+        {
+        }
+    }
+}
+```
+<p>I definitely plan to explore this further and see what I can come up with. However,
+I do have some concerns about readability and maintainability, possibly performace - 
+especially in a team environment.</p>
+
+<p>For the readability part, it seems like it might become difficult to follow 
+or cause issues when just reading the code. Although, it might become second nature 
+to just look for the attributes. I guess it would depend on how much you use it and
+how much it end up being used.</p>
+
+<p>As for maintainability, it could be difficult or impossible to make nuanced 
+changes to code that is being affected by aspects. Fixing an aspect could cause issues
+elsewhere. Creating a new aspect just adds confusion. Removing the aspect to make the 
+change defeats the purpose of using it in the first place. Also, accidentally stacking
+multiple aspects in the wrong order could definitely cause a lot of confusion.</p>
+
+<p>Performance could become an issue especially if you are stacking multiple aspects
+on a single method. Especially if looping or recursion is involved. Going back to the
+maintainability issue, if you have multiple aspects on a single method, getting the
+stack order wrong could cause performance issues.</p>
+
+<p>Overall, I think MrAdvice is a great project and I will definitely be exploring 
+it more. I think it is a great way to reduce boilerplate code and there are a lot of 
+possible use cases. I will using it in some personal projects that I have.
+That being said, I do not see this being deployed (by me) in a production environment 
+anytime soon. </p>
+
+<p>I think it is a great tool for learning and exploring, but I have issues with 
+"code weaving" in general. I know that the guys working on these projects are top-notch.
+I know the Roslyn team is top-notch. I just see the possibility of edge cases creeping in
+and hiding in the corners as new versions the weavers and compiler are released. I know 
+that under the hood, the resulting code and image is the same as if you had written it
+yourself. But I just like to see the code and know what is going on.</p>
