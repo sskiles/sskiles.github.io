@@ -17,10 +17,10 @@ project_entries:
     desc: This will be part of an ongoing series on AI and its implications.
     highlight: WIP
 
-  - title: Geospatial Analysis 101
-    url: geospatial-analysis-101
-    desc: A short introduction some of the possible uses of geospatial analysis.
-    highlight: NEW
+#  - title: Geospatial Analysis 101
+#    url: geospatial-analysis-101
+#    desc: A short introduction some of the possible uses of geospatial analysis.
+#    highlight: NEW
 
   - title: TikTok Video Archive
     url: tiktok-video-archive
