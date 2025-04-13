@@ -51,7 +51,7 @@ soopr:
 highlighter: rouge
 
 sass:
-  style: compressed # compressed or expanded
+  style: :compressed
 
 plugins:
   - jekyll-feed
