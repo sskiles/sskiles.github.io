@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 author: Shane Skiles
-tags: [geospatial, analysis, paper]
+tags: [c#, dispose, sync, async]
 ---
 
 I always need to refer back to something when implementing a sync/async 
