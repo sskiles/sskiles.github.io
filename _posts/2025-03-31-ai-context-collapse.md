@@ -4,10 +4,7 @@ author: Shane Skiles
 title: AI Context Collapse
 tags: [ai, analysis, paper]
 ---
-
-AI Context Collapse
-
-<i>This will be our starting point for this post. I’m not sure where it will go, 
+<i>This will be the starting point for this post. I’m not sure where it will go, 
 but it’s starting here.</i>
 
 I know I'm a little late to the show in saying "AI is here!" but yet, here we are. 
@@ -64,5 +61,3 @@ and intentions of the content? Or do we fundamentally have to accept that the
 lines between human and machine have blurred and this is the new normal?
 
 I'm not sure where this will go, but here we are.
-
-
