@@ -53,7 +53,7 @@ I have been doing a lot of work with asynchronous services recently and have bee
 creating a lot of boilerplate code to handle the async/await patterns. Here are a 
 couple of ideas I have for using MrAdvice to help with this.
 
-```
+```csharp
 public class AsyncLoopUntilCanceled : Attribute, IMethodAsyncAdvice
 {
     public async Task Advise(MethodAsyncAdviceContext context)
