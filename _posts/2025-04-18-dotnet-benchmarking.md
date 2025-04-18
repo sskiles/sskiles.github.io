@@ -29,11 +29,12 @@ memory usage, garbage collection, and other metrics. There are over 60 different
 samples in the documentation labeled as "intro" to show you how to use BenchmarkDotNet.
 I told you the documentation was outstanding.
 
-It is also possible to export the results to numerous formats from 
+It is also possible to export the results to numerous formats ranging from 
 AsciiDoc to XmlFullCompressed. Side note: if you have experience with graphing in R, 
 `RPlotExporter` is a beautiful way to visualize the results. BenchmarkDotNet uses
 the <a href="https://github.com/AndreyAkinshin/perfolizer">perfolizer</a> 
-performance analysis toolkit/ statistical engine.
+performance analysis toolkit / statistical engine, so any data you want to crunch
+or pull out should be within reach.
 
 Often times, I will actively tweak code in benchmarks to see how different changes can 
 affect performance or memory usage. This is a great tool for that. One thing that
