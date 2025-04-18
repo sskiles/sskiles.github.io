@@ -1,7 +1,8 @@
 ﻿---
 layout: post
 author: Shane Skiles
-tags: [napkin, thoughts]
+title: The ContinuousQueue
+tags: [iasyncenumerable, semaphoreslim, concurrentqueue, c#]
 ---
 
 I recently ran across an interesting problem. I had a service that needed serialized
@@ -64,13 +65,13 @@ public sealed class FbContinuousQueue<T> : IDisposable
 Using it would look something like this...
 ```csharp
 // Populate the queue with items
-var continuousQueue = new FbContinuousQueue<string>();
-continuousQueue.Enqueue("Test Item");
+var continuousQueue = new FbContinuousQueue<T>();
+continuousQueue.Enqueue((T)TestItem);
 
 ...
 
 // Process the items elsewhere
-await foreach (var item in continuousQueue.Items())
+await foreach (T item in continuousQueue.Items())
 {
     Process(item);
 }
@@ -78,12 +79,13 @@ await foreach (var item in continuousQueue.Items())
 
 Add in a `CancellationToken` to the `Items` method (don't forget the 
 `[EnumeratorCancellation]` attribute), to break out of the loop if needed.
-No need for an error handler in there since the `SemaphoreSlim` will throw the exception
-which is exactly what we want. The foreach loop should handle the exception since it will
-be handling the cancellation token.
+No need for an error handler in there since the `SemaphoreSlim` will probably 
+throw the cancellation exception unless it exits the loop which is exactly what 
+we want. The foreach loop should handle the exception since it will be handling the 
+cancellation token anyway. 
 
-Throw in a `Dispose` method to clean up the semaphore, mark the class `sealed` for now
-until we decide if we want to do anything else to it. There are definitely improvements 
+Throw in a simple `Dispose` method to clean up the semaphore, mark the class `sealed` for 
+now until we decide if we want to do anything else to it. There are definitely improvements 
 that could be made. Adding in a `Stop`/`Start`/`Pause` to control flow through the queue
 would probably be a good idea. Possibly a mechanism to ensure the queue is empty before
 disposing of the queue. But, for now, this works.
