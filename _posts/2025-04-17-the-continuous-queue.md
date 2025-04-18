@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 author: Shane Skiles
-title: The ContinuousQueue
+title: The Continuous Queue
 tags: [iasyncenumerable, semaphoreslim, concurrentqueue, c#]
 ---
 
