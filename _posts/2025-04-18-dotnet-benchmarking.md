@@ -43,12 +43,11 @@ to release for benchmarking. Sometimes other code changes are needed to switch
 back and forth. Here is a quick and dirty way to simplify this process.
 
 ```csharp
-#define TEST_BENCHMARK
-
 using System;
 using System.Collections.Generic;
 using System.Reflection;
 using BenchmarkConsole.Benchmarks;
+using BenchmarkDotNet.Attributes;
 using BenchmarkDotNet.Running;
 
 /// <summary>
@@ -58,9 +57,7 @@ internal static class Program
 {
     private static async Task Main()
     {
-#if TEST_BENCHMARK
         await MainType<TestBenchmark>();
-#endif
     }
 
     private static async Task MainType<T>()
@@ -68,13 +65,13 @@ internal static class Program
     {
 #if !DEBUG
         BenchmarkRunner.Run<T>();
-        await Task.CompletedTask;
 #else
         await ValidateBenchMarks<T>();
 #endif
         Console.WriteLine("\n...Complete\n");
+        await Task.CompletedTask;
     }
-#if DEBUG
+
     private static async Task ValidateBenchMarks<T>()
         where T : class
     {
@@ -89,26 +86,25 @@ internal static class Program
         foreach (var method in methods)
         {
             object? result = method.Invoke(instance, null);
+
+            // Replace this logic depending on expected test results.
             object? readableResult = null;
-#if TEST_BENCHMARK
             if (result != null)
             {
                 readableResult = ((List<int>)result)[^1];
             }
-#endif
+
             Console.WriteLine(
                 "Method "
                     + $"{new string(' ', maxNameLength - method.Name.Length)}"
                     + $"{method.Name}: {readableResult ?? result}");
         }
     }
-#endif
 }
 ```
 This code will run the benchmarks in release mode, but will run each method 
-individually in debug mode to change, evaluate and compare. As an example, 
-running the code against `TestBenchmark` class (determined by `TEST_BENCHMARK`) 
-will output the following in release mode:
+individually in debug mode to change, evaluate and compare. As an example, running 
+the code against `TestBenchmark` class will output the following in release mode:
 ```
 | Method         | N   | Mean       | Error     | StdDev    | Median     | Ratio | RatioSD | Gen0   | Allocated | Alloc Ratio |
 |--------------- |---- |-----------:|----------:|----------:|-----------:|------:|--------:|-------:|----------:|------------:|
@@ -139,7 +135,7 @@ paramenter `N` from 100 to 750. `GenPrimesNaive` is set as the baseline which th
 other methods' timing and memory usage are compared against. The debug results show
 the result of the last member of each of the lists the test methods return. 
 
-That's all I have to add to world on BenchmarkDotNet. A quick and dirty way to
+That's all I have to add to the world of BenchmarkDotNet. A quick and dirty way to
 switch between debug and release while testing and benchmarking. Everything else
 is in the documentation. I hope you find this useful.
 
