@@ -10,15 +10,15 @@ Whatever your opinion is, you are going to need to have measurements to compare.
 The de facto standard for .NET benchmarking is 
 <a href="https://benchmarkdotnet.org/">BenchmarkDotNet</a>. Available via NuGet,
 BenchmarkDotNet is a reliable, high precision library for benchmarking .NET code. 
-If you ever need to measurements of code perfomance, BenchmarkDotNet is the way to go.
+If you ever need to have measurements of code perfomance, BenchmarkDotNet is the way to go.
 
 I will not even attempt to cover all the features of BenchmarkDotNet, but I will 
 point you in the right direction(s). I will say that BenchmarkDotNet has some of 
-the BEST documentation I have ever seen. A quick 
+the best documentation I have ever seen. A quick 
 <a href="https://benchmarkdotnet.org/articles/overview.html">overview</a> from their 
 site shows you how to get started. The example code has a class with methods to 
 benchmark, marking the test methods with the `[Benchmark]` attribute. Then
-running the benchmark with `BenchmarkRunner.Run<MyClass>()` will out the results 
+running the benchmark with `BenchmarkRunner.Run<MyClass>()` will output the results 
 to the console.
 
 You can only run benchmarks in release mode, ensuring optimized production ready code 
@@ -75,7 +75,6 @@ internal static class Program
     private static async Task ValidateBenchMarks<T>()
         where T : class
     {
-        await Task.Yield();
         var type = typeof(T);
         var methods = type.GetMethods(
                 BindingFlags.DeclaredOnly | BindingFlags.Instance | BindingFlags.Public)
@@ -87,7 +86,7 @@ internal static class Program
         {
             object? result = method.Invoke(instance, null);
 
-            // Replace this logic depending on expected test results.
+            // Replace this logic to fit your expected test results.
             object? readableResult = null;
             if (result != null)
             {
