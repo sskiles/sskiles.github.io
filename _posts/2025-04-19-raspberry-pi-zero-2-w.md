@@ -87,14 +87,30 @@ that it had syntax highlighting for C# out of the box. I still remembered the ba
 `vi` commands, including how to get out of it.
 
 The next couple of days were spent just getting things set up and playing around.
-I always need to set up `cls`... `ln -s /usr/bin/clear bin/cls`. Why do most 
+I always need to set up `cls` -> `ln -s /usr/bin/clear bin/cls`. Why do most 
 common Unix shell commands get abbreviated to 2 letters except for `clear`!? 
 It's nice to have a little *nix environment to play around with. Getting used to
 command line `Git` took/is taking a little getting used to. I have always used
 it on Windows with a GUI of some sort. Even then I can create merge conflicts
 when I'm the only one working on a repo.
 
-
+A while back I had been doing some work on Azure VMs and I had remote desktop 
+set up on my iPad for ease of access. For that work, I had purchased an 
+<a href="https://www.google.com/search?q=arteck+hb030b&oq=arteck+hb030b">Arteck HB030B</a>
+keyboard. I decided this would be a good chance to break that out again, and if I could
+find a good SSH client for an iPad, which I did - 
+<a href="https://termius.com/free-ssh-client-for-ipad">Termius</a>, I could combine 
+everything together, you have a nice little Linux workstation on an iPad. Which I
+now have. I love my iPad, but it always annoyed me that there were never any
+good apps for development or testing. Trying to develop in the iPad GUI or remoting 
+in to another GUI is just kludgy. Being able to just type at a terminal feels natural.
+So, a good portion of the interaction I have with zero is actually through an iPad.
+Weird.
 
 I still haven't done any "benchmarking" on Zero. That's not really the point of 
-having him.
+having him. I wanted a little *nix machine I could work with and play with - 
+and he fits the bill. I think if he's under full load he pulls just over a watt,
+so power consumption and heat aren't really that big of a concern. If you ever 
+want to try something new on one of these, you can swap out microSD cards 
+and have a different computer. If you've ever wanted to play with a small SBC, 
+a Pi Zero is a fun, inexpensive way to get started.
