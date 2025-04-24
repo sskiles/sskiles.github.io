@@ -17,7 +17,6 @@ could reappropriate it for something more fun. The first thing that came to mind
 would be to use it for filtering like you would pipe something through grep in a shell.
 
 *Insert disclaimer text. 
-
 Do not use this for anything other than experimentation and laughs.*
 
 I thought it would be neat to be able to get an `IEnumerable<T>` pipe it `|` 
@@ -53,7 +52,20 @@ Either way, we shouldn't be doing this for any reason other than because we can.
 `var filter1 = new Pipe<IEnumerable<T>, IEnumerable<T>>(func1);`
 
 ```csharp
-IEnumerable<T> data = ...
-IEnumerable<T> filtered = data | filter1
+IEnumerable<T> data = ...;
+IEnumerable<T> filtered = data | filter1;
+```
+Since filter takes and returns `IEnumerable<T>` we can chain those together.
+```csharp
+Func<IEnumerable<T>, IEnumerable<T>> func1 = x => x.Where(x => ...);
+Func<IEnumerable<T>, IEnumerable<T>> func2 = x => x.Where(x => ...);
+var filter1 = new Pipe<IEnumerable<T>, IEnumerable<T>>(func1);
+var filter2 = new Pipe<IEnumerable<T>, IEnumerable<T>>(func2);
+
+IEnumerable<T> data = ...;
+IEnumerable<T> filtered = data | filter1 | filter2;
 ```
 
+If you have a lot of commonly used filters, this is a great way to be able to
+mix and match them together for isolating targeted data sets - when you are TESTING.
+Remember, this is just a fun experiment. Don't use this in production code.
