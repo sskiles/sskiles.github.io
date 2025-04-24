@@ -100,7 +100,7 @@ set up on my iPad for ease of access. For that work, I had purchased an
 keyboard. I decided this would be a good chance to break that out again, and if I could
 find a good SSH client for an iPad, which I did - 
 <a href="https://termius.com/free-ssh-client-for-ipad">Termius</a>, I could combine 
-everything together, you have a nice little Linux workstation on an iPad. Which I
+everything together and have a nice little Linux workstation on an iPad. Which I
 now have. I love my iPad, but it always annoyed me that there were never any
 good apps for development or testing. Trying to develop in the iPad GUI or remoting 
 in to another GUI is just kludgy. Being able to just type at a terminal feels natural.
@@ -108,7 +108,7 @@ So, a good portion of the interaction I have with zero is actually through an iP
 Weird.
 
 I still haven't done any "benchmarking" on Zero. That's not really the point of 
-having him. I wanted a little *nix machine I could work with and play with - 
+having him. I wanted a little *nix machine I could work and play with - 
 and he fits the bill. I think if he's under full load he pulls just over a watt,
 so power consumption and heat aren't really that big of a concern. If you ever 
 want to try something new on one of these, you can swap out microSD cards 
