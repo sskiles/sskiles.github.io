@@ -58,7 +58,9 @@ IEnumerable<T> filtered = data | filter1;
 Since filter takes and returns `IEnumerable<T>` we can chain those together.
 ```csharp
 Func<IEnumerable<T>, IEnumerable<T>> func1 = x => x.Where(x => ...);
-Func<IEnumerable<T>, IEnumerable<T>> func2 = x => x.Where(x => ...);
+// Different filter and format.
+var func2 = (IEnumerable<T> x) => x.Where(x => ...);
+
 var filter1 = new Pipe<IEnumerable<T>, IEnumerable<T>>(func1);
 var filter2 = new Pipe<IEnumerable<T>, IEnumerable<T>>(func2);
 

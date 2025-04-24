@@ -3,6 +3,6 @@
 .jekyll-cache
 .sass-cache
 _site
-.vs/*
 .vs/
 .vs
+.vs/*
