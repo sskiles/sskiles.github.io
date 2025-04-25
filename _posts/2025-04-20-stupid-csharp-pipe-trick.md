@@ -55,7 +55,7 @@ Either way, we shouldn't be doing this for any reason other than because we can.
 IEnumerable<T> data = ...;
 IEnumerable<T> filtered = data | filter1;
 ```
-Since filter takes and returns `IEnumerable<T>` we can chain those together.
+Since the definition filter takes and returns `IEnumerable<T>` we can chain those together.
 ```csharp
 Func<IEnumerable<T>, IEnumerable<T>> func1 = x => x.Where(x => ...);
 // Different filter and format.
