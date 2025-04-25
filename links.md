@@ -9,7 +9,7 @@ so I should visit them more often.
 Most are technical, though some are simply interesting. 
 There's probably something here to make you think — or at least give you a laugh.
 
-### various
+## various
 
 <a href="https://statmodeling.stat.columbia.edu/">Statistical Modeling, 
 Causal Inference, and Social Science</a> - An interesting mix of authors covering 
@@ -40,7 +40,7 @@ and political impacts.
 of artificial and natural intelligence. 
 Articles exploring the nature of intelligence, consciousness, and the mind.
 
-### more misc
+## more misc
 
 <a href="https://vscode.dev/">VS Code Workspace</a> - A browser-based version 
 of Visual Studio Code and GitHub. Create a workspace, sign in anywhere, and start coding.
@@ -73,7 +73,7 @@ chatbots in a head-to-head format. Choose the best chatbot for your needs.
 Be on the right side of <a href="https://en.wikipedia.org/wiki/Roko%27s_basilisk#">
 Roko's Basilisk</a>.
 
-### blog - coding
+## blog - coding
 
 <a href="https://codeblog.jonskeet.uk/">John Skeet's coding blog</a> - 
 Usually a Microsoft MVP, Jon Skeet is a prominent personality in the C# community. Smart guy.
@@ -93,7 +93,7 @@ aspects of software development, including the humorous and sometimes
 terrifying side of coding. 
 
 <a href="https://www.theregister.com/offbeat/bofh/">The Register - BOFH</a> - 
-The 'Bastard Operator from Hell' - still going strong after 20+ years by 
+The "Bastard Operator From Hell" - still going strong after 20+ years by 
 Simon Travaglia.
 
 <a href="https://thedailywtf.com/">The Daily WTF</a> - A how-not-to guide 
