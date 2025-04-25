@@ -3,18 +3,15 @@ layout: default
 ---
 
 <header>
-    {% if site.theme_config.show_navbar == true %}
-    <div style="float:left;margin-right:-28px;margin-bottom:16px;">
-        <a href="/"><img src="/assets/images/logo64.png" alt="sskiles devblog" /></a>
-    </div>
-    {% include horizontal_list.html collection=site.data.home.navbar_entries %}
-    <div class="dashed"></div>
-    {% endif %}
+{% if site.theme_config.show_navbar == true %}
+  {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+  <div class="dashed"></div>
+{% endif %}
 
-    <h1>{{ site.title }}</h1>
-    {% if site.theme_config.show_description == true %}
+  <h1>{{ site.title }}</h1>
+  {% if site.theme_config.show_description == true %}
     <p>{{ site.description }}</p>
-    {% endif %}
+  {% endif %}
 </header>
 
 {{ content }}
