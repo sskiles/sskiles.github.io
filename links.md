@@ -71,7 +71,7 @@ video sharing, and more.
 test different chatbots. Compare the performance of various 
 chatbots in a head-to-head format. Choose the best chatbot for your needs. 
 Be on the right side of <a href="https://en.wikipedia.org/wiki/Roko%27s_basilisk#">
-Roko's Basilisk</a>.
+Roko's Basilisk</a>!
 
 ## blog - coding
 
