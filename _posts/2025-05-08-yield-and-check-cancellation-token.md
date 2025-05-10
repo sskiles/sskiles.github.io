@@ -14,7 +14,7 @@ method to continue on its context and the new method to run on its own context (
 polite way to force a method to run async).
 
 That made me think it would be nice to have a method that would check for cancellation 
-and yield at the same time. Basically, just put this in a single function: 
+and yield at the same time. Basically, just put them in a single function: 
 
 ```csharp
 public static async Task YieldCancelCheck(CancellationToken cancellationToken)
@@ -24,13 +24,13 @@ public static async Task YieldCancelCheck(CancellationToken cancellationToken)
 }
 ```
 
-That would work, but it would be nice to know where the cancellation happened. The 
-function would always be at the top of the call stack, so it would be nice to have the
-caller's information at the top of the stack. I thought about trying to use 
-`ExceptionDispatchInfo`, but that would need to be in the caller, defeating the 
-purpose. Passing the caller's information to the function would seem to be the best
-solution. This way, the function can throw an `OperationCanceledException` with the caller's
-information in the message.
+That would work, but it would be nice to know where the cancellation happened. This 
+function would always be at the top of the call stack. It would be nice to have the
+caller's information at the top of the stack instead of digging for it. I thought about 
+trying to use `ExceptionDispatchInfo`, but that would need to be in the calling function, 
+defeating the purpose. Passing the caller's information to the function would seem to 
+be the best solution. This way, the function can throw an `OperationCanceledException` 
+with the caller's information in the message.
 
 ```csharp
 public static async Task YieldCancelCheck(
@@ -92,5 +92,5 @@ public static YieldAwaitable Yield(
 Never let `CompilerServices` internal comments like `intended for compiler use only` 
 stop you from using it. Live dangerously! I mean, what could possibly go wrong?
 
-*Insert stupid code trick disclaimer - *
+*Insert stupid code trick disclaimer* -
 Remember, this is just a fun little experiment. Don't use this in production code.
