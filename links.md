@@ -54,6 +54,10 @@ compiler's workings and how code is lowered.
 for C#, VB.NET, and F#. Focused more on collaboration and sharing code snippets 
 rather than the compiler's workings.
 
+<a href="https://excalidraw.com/">Excalidraw</a> - A whiteboard tool for 
+sketching diagrams and whatnot. It has a nice hand-drawn look and feel - 
+great for brainstorming.
+
 <a href="https://publicdomainreview.org/">Public Domain Review</a> - Dedicated 
 to the exploration of the history of art, literature, and ideas – focusing on 
 works now fallen into the public domain.
