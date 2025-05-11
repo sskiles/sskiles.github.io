@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 author: Shane Skiles
-title: ToChunkedList()
+title: ToChunkedListAsync()
 tags: [c#, enumerable, iasyncenumerable, list]
 ---
 
@@ -12,9 +12,9 @@ This is a simple extension method on `IEnumerable<T>` that returns it as
 multiple `List<T>` objects from a `IAsyncEnumerable<List<T>>`. 
 The chunk size is configurable, and the method is cancellable.
 
-I present to you the `ToChunkedList` extension method:
+I present to you the `ToChunkedListAsync` extension method:
 ```csharp
-public static async IAsyncEnumerable<List<T>> ToChunkedList<T>(
+public static async IAsyncEnumerable<List<T>> ToChunkedListAsync<T>(
     this IEnumerable<T> enumerable,
     int chunkSize = 100,
     [EnumeratorCancellation] CancellationToken token = default)
@@ -45,7 +45,7 @@ time on the distribution than the actual processing. This seemed to be a quick a
 way to break it into chunks get the job done. It's also lowers the memory pressure as
 opposed to a single huge `ToList`. Here's a simple example of how to use it:
 ```csharp
-await foreach (var chunk in Enumerable.Range(1, 42).ToChunkedList(10))
+await foreach (var chunk in Enumerable.Range(1, 42).ToChunkedListAsync(10))
 {
     Console.WriteLine($"Chunk: {string.Join(", ", chunk)}");
 }
