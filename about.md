@@ -4,6 +4,8 @@ title: about
 ---
 
   This site is the personal blog of Shane Skiles. 
+
+<a href="https://docs.google.com/document/d/1flo61b0tF_vhoJR9NNA4ipICbEiRzAMwG_9zmi9ROIY/edit?tab=t.0">Resume</a> |
   It is a place for me to record and explore my thoughts on varying topics.
   You will probably find posts on software development, snippits of code, 
   and other random thoughts.
