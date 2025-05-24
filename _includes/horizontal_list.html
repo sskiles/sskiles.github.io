@@ -1,16 +1,13 @@
+<a href="/">
+    <font style="font-size: 1.5em;">sskiles devblog</font>
+</a>
 <ul class="horizontal-list">
+    {% for item in include.collection %}
     <li>
-        <a href="/">
-            <font style="font-size: 1.5em;">sskiles devblog</font>
+        <a href="{{ item.url }}">
+            {{ item.title }}
         </a>
         &nbsp;&nbsp;
     </li>
-  {% for item in include.collection %}
-    <li>
-      <a href="{{ item.url }}">
-        {{ item.title }}
-      </a>
-      &nbsp;&nbsp;
-    </li>
-  {% endfor %}
+    {% endfor %}
 </ul>
