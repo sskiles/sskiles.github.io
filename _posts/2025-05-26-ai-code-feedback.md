@@ -12,5 +12,5 @@ unavoidable in the software development world.
 <img src="/assets/images/excalidraw-example.png" alt="Excalidraw example" 
 style="max-width:100%; height:auto;">
 <img src="/assets/images/excalidraw-example.png" alt="Excalidraw example" 
-style="max-width:50%; height:auto;>
+style="max-width:50%; height:auto;">
 
