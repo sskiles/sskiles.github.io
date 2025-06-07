@@ -25,10 +25,6 @@ and achieve their personal objectives.
 International defence and security news and analysis that provide impartial 
 and independent insight into the latest developments.
 
-<a href="https://www.bbva.com/en/">BBVA</a> - A Spanish multinational financial
-services company. They have a great blog with articles on finance, economics, etc..
-It looks like they have changed their format a bit, I may need to revisit this one.
-
 <a href="https://polymarket.com/">Polymarket</a> - A decentralized prediction 
 market that allows you to speculate on the outcome of real world events.
 
@@ -54,6 +50,10 @@ compiler's workings and how code is lowered.
 for C#, VB.NET, and F#. Focused more on collaboration and sharing code snippets 
 rather than the compiler's workings.
 
+<a href="https://glot.io/">glot.io</a> - an open source pastebin with runnable 
+snippets and API. A language playground with 40-ish languages ranging from
+assembly to Zig to play around with.
+
 <a href="https://excalidraw.com/">Excalidraw</a> - A whiteboard tool for 
 sketching diagrams and whatnot. It has a nice hand-drawn look and feel - 
 great for brainstorming.
@@ -62,10 +62,6 @@ great for brainstorming.
 to the exploration of the history of art, literature, and ideas – focusing on 
 works now fallen into the public domain.
 Material that everyone is free to enjoy, share, and build upon without restrictions.
-
-<a href="https://ofemwire.com/">OfemWire</a> - A new AI review site aiming to 
-help businesses and individuals make informed decisions. New to me, but looks 
-interesting.
 
 <a href="https://fediverse.party/">Fediverse Party</a> - a decentralized network 
 of social platforms to communicate and share content. Microblogging, photo sharing,
