@@ -9,6 +9,7 @@ have run across some of it here and there. I have worked in a variety of compani
 from "mom and pop"s to startups to fortune 50 corporations, in a variety of
 roles, in a variety of sectors.
 
+<!--
 Global Industry Classification Standard (GICS), are: 
 Communication Services - Check - ISPs
 Consumer Discretionary - Check - eCommerces, other retail
@@ -21,7 +22,7 @@ Information Technology - Check - RealInsight/Hilton Financials
 Materials - Never
 Real Estate - Check - RealInsight
 Utilities - Check - Electric Utilities
-
+-->
 
 <a href="https://docs.google.com/document/d/1flo61b0tF_vhoJR9NNA4ipICbEiRzAMwG_9zmi9ROIY/edit?tab=t.0">Resume</a> 
-|
+
