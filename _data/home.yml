@@ -12,15 +12,21 @@ navbar_entries:
     url: about
 
 project_entries:
+
+  - title: Planning the Epochalypse
+    url: planning-the-epochalypse
+    desc: Looking forward and planning ahead.
+    highlight: WIP
+
+  - title: Rubber Duck Vibe
+    url: rubber-duck-vibe
+    desc: Is AI assisted coding the new rubber duck debugging?
+    highlight: NEW
+
   - title: AI Context Collapse
     url: ai-context-collapse
     desc: This will be part of an ongoing series on AI and its implications.
 #    highlight: WIP
-
-#  - title: Geospatial Analysis 101
-#    url: geospatial-analysis-101
-#    desc: A short introduction some of the possible uses of geospatial analysis.
-#    highlight: NEW
 
   - title: TikTok Video Archive
     url: tiktok-video-archive
@@ -42,7 +48,7 @@ old_project_entries:
     
   - title: Geospatial Analysis 101
     url: geospatial-analysis-101
-    desc: A short introduction some of the possible uses of geospatial analysis.
+    desc: A short introduction to some of the possible uses of geospatial analysis.
 
 
 
