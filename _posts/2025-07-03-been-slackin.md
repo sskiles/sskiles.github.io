@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 author: Shane Skiles
+title: been slackin'
 tags: 
 ---
 
