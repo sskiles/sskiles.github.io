@@ -10,8 +10,8 @@ description: > # description of the site (multiple lines allowed)
   If I give you a new perspective, or help you solve a problem, I'm glad.
   If you find something that is just plain wrong, let me know.
   Until then, I hope you enjoy your stay.
-
-  -- Shane Skiles
+  <br><br>
+  - Shane Skiles
 
 
 permalink: /:slug
