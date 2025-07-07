@@ -7,7 +7,7 @@ tags: [Shane Skiles, Github]
 Welcome to the site, my name is Shane. 
 
 I've been a software developer (or engineer depending on who you ask)
-for quite a while now — over 25 years. 
+for quite a while now - over 25 years. 
 I don't write ground breaking or flashy, exciting software, but you may 
 have run across some of it here and there, working quietly behind the scenes.
 
