@@ -34,13 +34,13 @@ are most likely to be sacrificed in the name of progress.
 The sleepwalkers are the ones who are most likely to be left behind
 when the dust settles. They are the ones who are most likely to be forgotten.
 
-
 - Earth - Academic Research - History, Sociology, Psychology, Philosophy, and Ethics
 - Moon - Seleno Industrial Mine - 
 - Hohmann Station - Earth/Mars -
 - * skip Mars - LIP Mining Colony X -
 - Phobos Station - orbiting Mars -
 - Terrapin Station - areostationary orbit
+- Europa Outpost - potential for life ?
 
 Kirkwood Gaps, Hecuba Gap, Alinda Asteroid, Cybele asteroids
 
