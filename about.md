@@ -16,7 +16,7 @@ You'll find a collection of technical notes, and things I find interesting.
 You probably won't see many of my personal projects - most are just tinkering and 
 proof of concept experiments, but some may evolve into larger projects.
 
-This is more of a digital notebook, a place to tinker with ideas and store 
+This is more of a digital notebook, a place to experiment with ideas and store 
 miscellaneous odds and ends. Have fun looking around, and if you find something useful,
 take it and make it your own. 
 If you see anything that is flat out wrong, please let me know - 
@@ -40,8 +40,7 @@ Utilities - Check - Electric Utilities
 -->
 
 -- Shane Skiles
-
 <a 
-style="font-size: 0.8em;"
+style="font-size: 0.8em;text-align: right;"
 href="https://docs.google.com/document/d/1flo61b0tF_vhoJR9NNA4ipICbEiRzAMwG_9zmi9ROIY/edit?tab=t.0">Resume</a> 
 
