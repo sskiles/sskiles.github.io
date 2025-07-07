@@ -39,5 +39,9 @@ Real Estate - Check - RealInsight
 Utilities - Check - Electric Utilities
 -->
 
-<a href="https://docs.google.com/document/d/1flo61b0tF_vhoJR9NNA4ipICbEiRzAMwG_9zmi9ROIY/edit?tab=t.0">Resume</a> 
+-- Shane Skiles
+
+<a 
+style="font-size: 0.8em;"
+href="https://docs.google.com/document/d/1flo61b0tF_vhoJR9NNA4ipICbEiRzAMwG_9zmi9ROIY/edit?tab=t.0">Resume</a> 
 
