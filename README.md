@@ -14,6 +14,8 @@ I am a software developer or engineer depending on who you ask. You won't find m
 exciting here, it's mostly just a place for me to store miscellaneous odds and ends. 
 I do have some things rattling around that I may release some time, but not now.
 
+This space serves as my digital notebook and a place to share occasional thoughts.
+
 I have been a software developer for over 25 years, and I have worked in a variety of
 roles and industries. 
 
