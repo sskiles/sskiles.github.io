@@ -40,6 +40,6 @@ Utilities - Check - Electric Utilities
 -->
 
 -- Shane Skiles
-<div style="font-size: 0.8em;text-align: right;margin-top: -3em;margin-bottom: -2em; display:block;">
+<div style="font-size: 0.8em;text-align: right;margin-top: -3.5em;margin-bottom: -1em; display:block;">
 <a href="https://docs.google.com/document/d/1flo61b0tF_vhoJR9NNA4ipICbEiRzAMwG_9zmi9ROIY/edit?tab=t.0">Resume</a> 
 </div>
