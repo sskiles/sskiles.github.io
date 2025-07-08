@@ -53,7 +53,7 @@ Console.WriteLine(jsonString);
 Granted, for this example it is a bit overkill, but if you need to create a more complex
 object without a good JSON editor, this is a great way to do it. Of course, create proper
 classes if you are going to be doing this a lot, but for quick and easy JSON, this works.
-Combine this with Visual Studio's "Paste JSON as Classes" feature, and you can quickly
+Combine this with Visual Studio's "Paste JSON as Classes" feature and you can quickly
 prototype a class and then use that in your code.
 
 This has been your semi-regular diversion into "stupid C# tricks".
