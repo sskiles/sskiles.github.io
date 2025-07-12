@@ -33,6 +33,8 @@ This file provides context for the ongoing short story project to facilitate eas
 5.  Wilkins shows Milo to Roberts's ship, the *Wanderer*, explaining its mysterious nature.
 6.  Milo boards the *Wanderer*. The interior is unnervingly clean and minimalist.
 7.  The ship departs, demonstrating its silent, instantaneous travel and unique method of acceleration.
+8.  **The First Walk:** Roberts takes Milo to the Hecuba Gap, a profoundly empty region of space. Milo learns that the purpose of the "walks" is to find and experience true silence.
+9.  **Encountering Others:** On a second walk, they travel to a Lagrange point and encounter a silent gathering of other sleepwalkers in their unique, self-built ships. This reveals a loose, non-verbal community exists.
 
 ## File & Formatting Conventions
 
