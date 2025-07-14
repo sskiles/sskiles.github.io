@@ -1,7 +1,8 @@
 ---
 layout: post
 author: Shane Skiles
-tags: 
+title: The First Walk
+tags: [dream of the 20 watt sleepwalker]
 ---
 Our first "walk" was a journey into the heart of silence. The *Wanderer* moved with a purpose that felt less like navigation and more like a form of meditation. The forward view was a constantly shifting tapestry of distorted starlight, the universe bending around us. There was no sense of time in the conventional way; hours could have been minutes, or minutes days. My own internal clock, so used to the rigid 24.7-hour cycle of Mars, was hopelessly lost. I was untethered not just from gravity, but from time itself.
 

@@ -3,15 +3,20 @@ navbar_entries:
     url: https://sskiles.github.io/
 
   - title: blog
-    url: blog
+    url: /blog
     
   - title: links
-    url: links
+    url: /links
 
   - title: about
-    url: about
+    url: /about
 
 project_entries:
+
+  - title: Dream of the 20 Watt Sleepwalker
+    url: planning-the-epochalypse
+    desc: An ongoing fiction writing experiment.
+    highlight: WIP
 
   - title: Planning the Epochalypse
     url: planning-the-epochalypse
