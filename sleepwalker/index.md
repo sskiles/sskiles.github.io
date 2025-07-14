@@ -9,7 +9,7 @@ tags: [dream of the 20 watt sleepwalker]
 
 [Joining the Sleepwalker](2-joining-the-sleepwalker)
 
-[The First Walk](3-the-first-walk)]
+[The First Walk](3-the-first-walk)
 
 [Onboard the Wanderer](4-onboard-the-wanderer)
 
