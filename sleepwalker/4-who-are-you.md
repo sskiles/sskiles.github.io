@@ -24,4 +24,12 @@ The sphere drifted closer to the forward view, where the distant, glittering bel
 
 "He trusts individuals," Echo corrected. "He trusts Wilkins to be a cynical, greedy, but ultimately reliable mechanic. He trusts the other sleepwalkers to respect the silence. He trusted you to come aboard with an open mind." The sphere's blue lens fixed on me. "The question he has been asking himself is not who you trust, Milo. It is, 'Who are you?' Are you a mouthpiece for Mars? A writer looking for an angle? Or are you something else?"
 
-The question hung in the silent air, more profound and unsettling than any I had ever been asked. I was a writer. My identity was tied to the stories I told. But here, in the absolute quiet, stripped of the narratives of my home world, I wasn't sure I knew the answer. I was just a man in a small ship, a long way from home, beginning to understand that everything I thought I knew was just one story among many. And the most important story, the one I had to write, was my own.
+The question hung in the silent air, more profound and unsettling than any I had ever been asked. I looked at my datapad, its screen dark. I was a writer. My identity was tied to the stories I told. But what if the stories themselves were the cage?
+
+"The Wires... they control the signals, don't they?" I asked, the thought forming as I spoke it. "The news feeds, the station announcements, the ads... they filter everything."
+
+"They are very good at their job," Echo confirmed. "They have optimized the flow of information to ensure stability."
+
+A new, electrifying thought struck me. "They control the distribution," I said, looking at my datapad with new eyes. "But they don't control the creation. Not yet." My purpose, my real purpose, crystallized in that moment. It wasn't just to tell Roberts's story. It was to tell the story the Wires were trying to erase. My datapad wasn't just a tool for corporate narratives; it was a weapon. "I'm a writer," I said again, but this time, the words tasted different. "And I know who I am now."
+
+Echo's blue lens seemed to brighten, and I felt, for the first time, the silent, focused attention of Roberts shift from the cosmos and onto me.

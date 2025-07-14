@@ -20,7 +20,7 @@ I felt like an intruder, a loud, clumsy creature from another world. My movement
 
 "I'm a writer," I said. "I'm looking for a man named Roberts."
 
-Wilkins' expression didn't change, but a flicker of something—amusement, perhaps—danced in his eyes. "A writer. Well, I'll be. We don't get many of your kind out here. Too quiet for most. As for Roberts... you're not the first to ask. He's become something of a local legend. The man who truly unplugged." He paused, looking me over again. "Why him?"
+Wilkins' expression didn't change, but a flicker of something—amusement, perhaps—danced in his eyes. "A writer. Well, I'll be. We don't get many of your kind out here. Too quiet for most. As for Roberts... you're not the first to ask. He's become something of a local legend. The man who truly unplugged. Not just from the data streams, but from the Wires themselves." He tapped a nearby conduit. "Thinks they're always listening." Wilkins leaned in conspiratorially. "And they are. So we try not to give them anything worth hearing." He paused, looking me over again. "Why him?"
 
 "I want to understand his story," I said simply. "Why he chose this."
 

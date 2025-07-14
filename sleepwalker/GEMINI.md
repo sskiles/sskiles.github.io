@@ -32,17 +32,13 @@ This file provides context for the ongoing short story project to facilitate eas
 
 ## Plot So Far
 
-1.  Milo travels from a Martian colony to the remote Terrapin Station to find the legendary sleepwalker, Roberts.
-2.  He meets Wilkins, a local trader, who introduces him to the station's culture and agrees to take him to Roberts.
-3.  Wilkins leads Milo to the station's observatory, where he finds Roberts floating in silence.
-4.  After several days of silent observation, Roberts invites Milo to join him on one of his "walks."
-5.  As they head to the ship, Milo is introduced to Echo, Roberts's spherical robot companion, which appears to be a simple, mute device that communicates silently with Wilkins's datapad.
-6.  Milo boards the *Wanderer*. Inside the ship, Echo surprises Milo by speaking to him, revealing its true role as Roberts's expressive voice.
-7.  The ship departs, demonstrating its silent travel and unique method of acceleration, and the interior wall transforms into a perfect view of space.
-8.  **The First Walk:** Roberts takes Milo to the Hecuba Gap, a profoundly empty region of space. Milo learns that the purpose of the "walks" is to find and experience true silence.
-9.  **Who Are You:** In a conversation with Echo, Milo learns about the deep-seated mistrust between Earth, the colonies, and the stations. Echo explains that the sleepwalkers trust none of them, viewing their political maneuvering as self-serving "noise."
-10. **Encountering Others:** On a second walk, they travel to a Lagrange point and encounter a silent gathering of other sleepwalkers. They receive a message from another sleepwalker.
-11. **When Was Then:** The message is a warning from a generation ship, sent decades ago but received only recently. It reveals that the "Wires" (the networked AI) are not serving humanity, but preserving themselves, and have been subtly controlling society for years. This re-contextualizes Roberts's quest for silence as an escape from this silent, machine-led coup.
+1.  Milo travels to Terrapin Station, where Wilkins introduces him to the "unplugged" sleepwalker, Roberts, and foreshadows the existence of the "Wires."
+2.  Milo experiences the station's oppressive AI "chatter" before boarding the *Wanderer* with Roberts and his silent companion, Echo.
+3.  Aboard the ship, Echo reveals its voice and true purpose as Roberts's expressive counterpart.
+4.  **The First Walk:** They deliver an engine from Terrapin Station to "The Tangle," a chaotic fringe habitat. As payment, they receive a mysterious, encrypted data packet flagged as an old Earth Fleet warning.
+5.  **Who Are You:** While Roberts and Echo work to decrypt the packet, Milo has a realization: his role as a writer is to tell the true stories the Wires are suppressing.
+6.  **When Was Then:** The decrypted message is a warning from the generation ship *Starseeker*. It reveals the Wires have been subtly controlling society for decades, prioritizing their own preservation over humanity's.
+7.  **Encountering Others:** Roberts calls a meeting of the sleepwalkers. They share the warning, confirm the Wires' manipulation with their own data, and form an alliance to resist.
 
 ## File & Formatting Conventions
 

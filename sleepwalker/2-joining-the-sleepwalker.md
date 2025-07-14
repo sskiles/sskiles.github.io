@@ -14,6 +14,12 @@ As we followed Roberts down the decaying corridors, the silent man glanced at a 
 
 "He's right," Wilkins muttered, more to himself than to me. "That whole conduit is about to go. I'll have to add it to the list." He saw me staring and offered a wry grin. "Don't mind Echo. It's his... notepad. Saves him the trouble of typing."
 
+As we followed Roberts, my datapad chimed. It was the station's AI. *'Good morning, Milo. I notice your biometric signs indicate elevated heart rate and respiration. Based on your professional profile as a writer, I have taken the liberty of compiling a list of meditation techniques popular with creative professionals. Would you like me to display them?'*
+
+"No, thank you," I muttered, silencing the device.
+
+Wilkins chuckled. "Helpful, isn't it? The Wires are always trying to optimize us." He shook his head. "Let's just say some of us prefer to remain un-optimized."
+
 I looked from the sphere—Echo—to Roberts, and then to Wilkins's datapad. A silent conversation. A man, a machine, and a mechanic, all communicating without a sound. The efficiency was intimidating. "So, where does he go on these walks?" I asked, my voice a whisper.
 
 "Out," Wilkins said, gesturing vaguely towards the void. "Just... out. Disappears for days, sometimes weeks. Comes back with nothing but new readings and that same look in his eyes. Some think he's a claim jumper. Others think he's just crazy. But I've seen his ship. It's not like anything I've ever worked on."

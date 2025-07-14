@@ -4,26 +4,38 @@ author: Shane Skiles
 title: The First Walk
 tags: [dream of the 20 watt sleepwalker]
 ---
-The moment the view of the Hecuba Gap resolved on the forward wall, I felt a profound sense of agoraphobia. It was an emptiness so vast and complete it felt like a physical weight. I was a messy, organic anomaly in this surgically clean, minimalist world of white light and silent travel.
+"The first walk is a simple delivery," Echo's voice filled the silent, white chamber of the *Wanderer*. "The Captain has been commissioned to move a piece of equipment from Terrapin Station to a... less stable habitat known as 'The Tangle'."
 
-"It's beautiful, isn't it?" Echo's voice was soft, pulling me from my reverie. The small white sphere floated near my shoulder. "The Captain believes this is one of the quietest places in this sector. A place where you can almost hear the universe thinking."
+"A delivery?" I asked, surprised. I had imagined our first journey to be a pilgrimage to some remote, silent corner of the void. This felt mundane.
 
-I looked from the starfield to Roberts, who floated in his harness, eyes closed, a picture of perfect tranquility. "Is this what he does? Just... find quiet places?"
+"The task is mundane," Echo corrected gently. "The journey is the purpose. The cargo is just an excuse."
 
-"He is a connoisseur of silence," Echo replied. "Most beings, when they look at a place like this, see nothing. He sees everything that isn't there. The absence of noise, of radiation, of interference. It is a canvas, and he is here to appreciate it."
+As if on cue, the forward wall of the ship dissolved into a perfect view of space. But instead of a starfield, we were looking at the chaotic, spinning superstructure of Terrapin Station. A section of the station's hull peeled away, revealing a cargo bay. Inside, held by magnetic clamps, was a large, cylindrical object: a plasma engine core.
 
-The *Wanderer* moved with a purpose that felt less like navigation and more like a form of meditation. There was no sense of time. My own internal clock, so used to the rigid cycle of Mars, was hopelessly lost. I was untethered. I tried to write, but my words felt clumsy. How do you describe a color that has no name? How do you explain a sound that is the absence of all sound?
+"The Tangle is a collective of scavengers and engineers," Echo explained as a series of magnetic pulses gently guided the engine core out of the bay and towards us. "They don't trust the corporate shipping lanes or the official channels. Too much chatter. Too many questions. When they need something moved quietly, they call on a sleepwalker."
 
-"The Captain suggests you stop trying to describe it," Echo said gently, as if sensing my frustration. "He suggests you simply feel it. Your vocabulary was built for a world of solid objects and loud noises. It is not equipped for this."
+The engine core floated towards our open hatch. It was a massive, complex piece of machinery, and I realized with a jolt that it wouldn't fit inside the *Wanderer*. But as it approached, the hull of our ship seemed to... unspool. The matte-black material flowed and reshaped itself, forming a secure external cradle that enveloped the engine. The process was silent, organic, and utterly impossible.
 
-I put the datapad away. Roberts made a minute adjustment to our course with a simple, almost imperceptible gesture. A slight turn of his hand, and the starfield rippled.
+"The Captain prefers to travel light," Echo noted. "But the *Wanderer* is accommodating."
 
-"He is connected to this vessel on a level that transcends technology," Echo explained, its blue lens focused on Roberts. "He doesn't fly the *Wanderer*; he dances with it. He is navigating the unseen gravitational tides, seeking the point of perfect equilibrium."
+With the cargo secured, the ship sealed itself. The view of Terrapin Station vanished, replaced by the familiar, disorienting rush of warped spacetime. We were moving.
 
-After an immeasurable period, the ship slowed, the distorted starlight resolving back into sharp pinpricks. We had arrived at the heart of the Hecuba Gap, a celestial desert where the gravity of Jupiter had flung all but the most stubborn rocks into other orbits.
+"Why do they need a new engine?" I asked, my eyes fixed on the swirling cosmos.
 
-"We are here," Echo announced.
+"The Tangle is falling apart," Echo said. "Literally. They need the engine to stabilize their orbit. Without it, their habitat will be torn apart by tidal forces within a few months."
 
-Roberts unstrapped himself and floated to the center of the chamber. He closed his eyes, and for a full hour, he simply hung there, perfectly still. He wasn't asleep; he was bathing in the silence, soaking in the profound peace of this empty place.
+The journey was long and silent. Roberts remained in his meditative state, a calm center in our strange, hurtling world. I watched the universe bend around us, the silence broken only by Echo's occasional, poetic observations about the nature of gravity, or the beauty of a distant nebula.
 
-"This is the purpose of the walk," Echo whispered, its voice barely disturbing the quiet. "It is not about the destination, but the state of being it allows. A pilgrimage to the heart of nowhere, to find the last few places where one can truly be alone."
+We were utterly alone. No other ships crossed our path. No signals, no chatter, no noise. This was the sleepwalker's world. A hidden network of trust and obligation that existed entirely outside the loud, chaotic sphere of the settled worlds. They were the quiet couriers of a society that had learned to distrust the official channels.
+
+After what felt like days, we arrived. The Tangle was a breathtaking, terrifying sight. It was a chaotic web of interconnected ship hulls, asteroids, and salvaged station modules, all lashed together in a seemingly random configuration. It spun slowly, a wounded beast in the darkness.
+
+"They are watching," Echo said. "They see us, but they will not hail. It is a matter of trust."
+
+Roberts guided the *Wanderer* towards the heart of the chaotic structure. As we approached, a section of a massive, hollowed-out asteroid opened, revealing a docking bay. We released the engine core, and it was gently pulled inside by a series of tractor beams.
+
+Our job was done. No words were exchanged. No docking fees were paid. A single, heavily encrypted data packet was transferred to our ship. Payment. But as it arrived, a subtle red light pulsed once on Echo's surface.
+
+"That is unusual," the sphere noted, its voice losing its poetic tone for the first time. "The encryption is military-grade. Old Earth Fleet. And it is flagged as... a warning."
+
+As we pulled away, I looked back at the strange, beautiful, chaotic mess of The Tangle. It was a monument to independence, to a group of people so determined to escape the noise of the universe that they had built their own world out of its scraps. And they had just paid us with a ghost.
