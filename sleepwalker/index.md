@@ -11,6 +11,8 @@ tags: [dream of the 20 watt sleepwalker]
 
 [The First Walk](3-the-first-walk)
 
-[Onboard the Wanderer](4-onboard-the-wanderer)
+[Who Are You](4-who-are-you)
 
 [Encountering the Others](5-encountering-the-others)
+
+[When Was Then](6-when-was-then)
