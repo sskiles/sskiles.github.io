@@ -14,12 +14,12 @@ navbar_entries:
 project_entries:
 
   - title: Dream of the 20 Watt Sleepwalker
-    url: planning-the-epochalypse
+    url: /sleepwalker
     desc: An ongoing fiction writing experiment.
     highlight: WIP
 
   - title: Planning the Epochalypse
-    url: planning-the-epochalypse
+    url: planning-the-epochalypse-i
     desc: Looking forward and planning ahead.
     highlight: WIP
 
