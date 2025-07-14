@@ -1,7 +1,8 @@
 ---
 layout: post
 author: Shane Skiles
-tags: 
+title: Meeting the Sleepwalker
+tags: [dream of the 20 watt sleepwalker]
 ---
 The shuttle from the Phobos transit hub was little more than a tin can, a relic of a bygone era of Martian colonization that prioritized function over any semblance of comfort. For me, a writer whose entire life had been spent in the climate-controlled, recycled air of the domed colonies, the journey was a necessary torment. I was chasing a ghost, a whisper in the data streams about a man named Roberts, a "sleepwalker." The story had become an obsession, a potential masterpiece that promised an escape from the formulaic corporate-sponsored narratives I was usually paid to write. This was a story of true independence, a concept so alien to my life in the rigidly structured Martian society that it felt like a myth.
 

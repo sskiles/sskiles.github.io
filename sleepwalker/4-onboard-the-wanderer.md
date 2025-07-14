@@ -1,7 +1,8 @@
 ---
 layout: post
 author: Shane Skiles
-tags: 
+title: Onboard the Wanderer
+tags: [dream of the 20 watt sleepwalker]
 ---
 The moment I passed through the circular opening, the matte-black material of the hull flowed silently back into place behind me, sealing with a seamless perfection that left no trace of a door. The transition was instantaneous and absolute. One moment I was in the dusty, metallic-smelling cargo bay of Terrapin Station; the next, I was enveloped in a soft, uniform, sourceless light. The oppressive hum of the station's life support was gone, replaced by a silence so profound it felt like a physical presence. It wasn't the dead silence of a vacuum, but the clean, crisp silence of a place perfectly ordered.
 

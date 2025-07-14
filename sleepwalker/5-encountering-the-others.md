@@ -1,7 +1,8 @@
 ---
 layout: post
 author: Shane Skiles
-tags: 
+title: Encountering the Others
+tags: [dream of the 20 watt sleepwalker]
 ---
 After our first walk, a routine developed. We would spend a few days docked at Terrapin Station, where Roberts would trade what looked like complex data charts with Wilkins for supplies—water, nutrient paste, and the occasional spare part. Then, without a word, he would lead me back to the *Wanderer*, and we would embark on another silent journey. I had stopped trying to write, and instead had become a student of the silence, learning to appreciate the subtle textures of the void.
 

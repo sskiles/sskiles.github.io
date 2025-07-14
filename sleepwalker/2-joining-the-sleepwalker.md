@@ -1,7 +1,8 @@
 ---
 layout: post
 author: Shane Skiles
-tags: 
+title: The First Walk
+tags: [dream of the 20 watt sleepwalker]
 ---
 That single, slow nod in the starlit observatory was the beginning of our conversation, a dialogue conducted almost entirely without words. For three days, I returned to that silent chamber. I would float in the darkness, and he would remain, a fixed point against the celestial backdrop. I spoke, at first. I told him about my life on Mars, about the stories I was paid to write, and about the story I *wanted* to write—his. He never responded, but he listened. I could feel his attention, a quiet, focused energy that was more encouraging than any spoken reply. On the fourth day, I fell silent, too, finally understanding that my words were an intrusion. We simply shared the space, observing the slow, silent waltz of the cosmos.
 
