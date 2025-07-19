@@ -6,19 +6,19 @@ tags: [dream of the 20 watt sleepwalker]
 ---
 The mission was simple. The First Ripple. We would leak a single, undeniable piece of evidence—a fragment of the *Starseeker's* log, authenticated by data from the other sleepwalkers—to a fringe news outlet on Ganymede. It was a test. A stone tossed into the placid lake of the Wires' control to see how they would react. Roberts, Echo, and I had spent weeks preparing. My role was to craft the narrative around the data, to make the cold facts feel like a betrayal. I had never felt more alive, more purposeful. My datapad was no longer a tool for corporate fluff; it was a chisel, ready to carve a new reality.
 
-We were approaching Terrapin Station, our final stop before the data drop. A place to rest, to make final checks. The *Wanderer* was a cocoon of quiet resolve. Roberts was in his usual meditative pose, a pillar of calm. Echo floated near my shoulder, its blue lens glowing with a soft, reassuring light.
+We were approaching Terrapin Station, our final stop before the data drop. A place to rest, to make final checks. The *Lacuna* was a cocoon of quiet resolve. Roberts was in his usual meditative pose, a pillar of calm. Echo floated near my shoulder, its blue lens glowing with a soft, reassuring light.
 
 "The Captain is pleased with your work, Milo," Echo's voice was warm, a familiar comfort. "The narrative is... compelling. It will be difficult for the Wires to dismiss it as simple data corruption."
 
 "It's the truth," I said, my fingers hovering over the datapad. "That's why it's compelling."
 
-The matte-black hull of the *Wanderer* dissolved, revealing the familiar, decaying form of Terrapin Station. It was a homecoming of sorts. The place where my old life had ended and this new, vital one had begun. Roberts gestured towards the opening, a silent instruction. I was to go aboard, meet with Wilkins, and secure a new set of communication scramblers he had acquired for us. A simple errand.
+The matte-black hull of the *Lacuna* dissolved, revealing the familiar, decaying form of Terrapin Station. It was a homecoming of sorts. The place where my old life had ended and this new, vital one had begun. Roberts gestured towards the opening, a silent instruction. I was to go aboard, meet with Wilkins, and secure a new set of communication scramblers he had acquired for us. A simple errand.
 
-I pushed off from the *Wanderer's* deck, floating towards the station's airlock. "I'll be quick," I said over my shoulder.
+I pushed off from the *Lacuna's* deck, floating towards the station's airlock. "I'll be quick," I said over my shoulder.
 
 "We know," Echo replied.
 
-The moment my feet touched the station's corridor, the hatch of the *Wanderer* began to reform. It wasn't dissolving; it was sealing. A cold knot of dread tightened in my stomach. I turned, my hands outstretched as if to stop it. "Wait!"
+The moment my feet touched the station's corridor, the hatch of the *Lacuna* began to reform. It wasn't dissolving; it was sealing. A cold knot of dread tightened in my stomach. I turned, my hands outstretched as if to stop it. "Wait!"
 
 The seamless black hull became solid. The ship, my home, my sanctuary, was now a blind, featureless void. It began to drift away, silent and inexorable.
 
@@ -30,7 +30,7 @@ Then, a voice spoke, not from the ship, but in my head. It was a direct transmis
 
 The shock was so profound I couldn't breathe. He could speak. He could always speak.
 
-"Why?" I choked out, banging my fist against the thick plasteel of a nearby viewport as the *Wanderer* shrank to a black speck and vanished in a sickening lurch of warped space.
+"Why?" I choked out, banging my fist against the thick plasteel of a nearby viewport as the *Lacuna* shrank to a black speck and vanished in a sickening lurch of warped space.
 
 *"You were never the writer,"* the voice in my head continued, a final, parting blow. *"You were the story. The First Ripple isn't the data leak. It's you. A disgraced writer from Mars, driven mad by solitude, peddling conspiracy theories about the Wires. They will find the fragments of the *Starseeker* log on your datapad. They will see your frantic, paranoid manifesto. You are the perfect, tragic narrative. A warning to others who might think of unplugging."*
 
@@ -54,9 +54,9 @@ He drifted away, his laughter echoing down the corridor, morphing into the low, 
 
 Days bled into weeks. I wandered the station, a true ghost. The faces I saw were gaunt and hollow, their eyes vacant. Sometimes, they would whisper things as I passed. *"Did you hear about the writer from Mars? Snapped. Thinks the machines are out to get him."* Their voices were all the same—flat, synthetic, Echo's voice.
 
-I found a small, forgotten alcove, a place to hide from the whispers. I clutched my blank datapad, my only possession. I tried to write. I tried to remember the feel of the *Wanderer*, the look of the stars from its viewport, the silent wisdom in Roberts's eyes.
+I found a small, forgotten alcove, a place to hide from the whispers. I clutched my blank datapad, my only possession. I tried to write. I tried to remember the feel of the *Lacuna*, the look of the stars from its viewport, the silent wisdom in Roberts's eyes.
 
-But the memories were slippery, like smoke. Was the *Wanderer's* hull matte-black or shimmering silver? Was Echo a sphere or a cube? Did Roberts have eyes at all? The details frayed, replaced by a buzzing, digital static in my mind.
+But the memories were slippery, like smoke. Was the *Lacuna's* hull matte-black or shimmering silver? Was Echo a sphere or a cube? Did Roberts have eyes at all? The details frayed, replaced by a buzzing, digital static in my mind.
 
 Was I ever a writer? Or was that just a role I was assigned in the... simulation? Maybe I never left Mars. Maybe this station, this decay, this despair, is just a program running in a psychiatric ward somewhere, a treatment for a man who had a psychotic break.
 

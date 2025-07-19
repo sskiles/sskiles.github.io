@@ -31,7 +31,7 @@ This file provides context for the ongoing short story project to facilitate eas
 
 1.  Milo, a writer questioning his society, is drawn to the story of a mysterious "sleepwalker" named Roberts.
 2.  He travels to Terrapin Station (a simulated environment) and is introduced to Roberts by Wilkins (a simulated character).
-3.  Milo joins Roberts and his companion Echo (a simulation interface) aboard the *Wanderer* (a simulated ship).
+3.  Milo joins Roberts and his companion Echo (a simulation interface) aboard the *Lacuna* (a simulated ship).
 4.  He is led through a series of scripted "walks" or missions, designed to make him feel like part of a resistance movement.
 5.  He is fed "evidence" of the Wires' conspiracy, including a fabricated log from the generation ship *Starseeker*, to solidify his belief in the rebellion.
 6.  Milo's role as a "writer" is cultivated by the simulation, leading him to believe his purpose is to tell the "truth."

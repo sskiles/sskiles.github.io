@@ -24,7 +24,7 @@ I looked from the sphere—Echo—to Roberts, and then to Wilkins's datapad. A s
 
 "Out," Wilkins said, gesturing vaguely towards the void. "Just... out. Disappears for days, sometimes weeks. Comes back with nothing but new readings and that same look in his eyes. Some think he's a claim jumper. Others think he's just crazy. But I've seen his ship. It's not like anything I've ever worked on."
 
-We arrived at a small, decommissioned cargo bay at the station's most remote point. There, tethered by magnetic clamps, was the ship. The *Wanderer*. Its seamless, matte-black hull seemed to drink the light. It looked less like a machine and more like a solid, sculpted piece of the void itself.
+We arrived at a small, decommissioned cargo bay at the station's most remote point. There, tethered by magnetic clamps, was the ship. The *Lacuna*. Its seamless, matte-black hull seemed to drink the light. It looked less like a machine and more like a solid, sculpted piece of the void itself.
 
 Roberts floated to a spot on the hull and placed his palm against it. A section of the black material dissolved, receding to form a perfect, circular opening. It was as silent and effortless as a thought. Roberts, followed closely by the silent Echo, floated inside. He turned, looked at me, and gestured for me to enter.
 

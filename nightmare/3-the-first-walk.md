@@ -4,7 +4,7 @@ author: Shane Skiles
 title: The First Walk
 tags: [dream of the 20 watt sleepwalker]
 ---
-"The first walk is a simple delivery," Echo's voice filled the silent, white chamber of the *Wanderer*. "The Captain has been commissioned to move a piece of equipment from Terrapin Station to a... less stable habitat known as 'The Tangle'."
+"The first walk is a simple delivery," Echo's voice filled the silent, white chamber of the *Lacuna*. "The Captain has been commissioned to move a piece of equipment from Terrapin Station to a... less stable habitat known as 'The Tangle'."
 
 "A delivery?" I asked, surprised. I had imagined our first journey to be a pilgrimage to some remote, silent corner of the void. This felt mundane.
 
@@ -14,9 +14,9 @@ As if on cue, the forward wall of the ship dissolved into a perfect view of spac
 
 "The Tangle is a collective of scavengers and engineers," Echo explained as a series of magnetic pulses gently guided the engine core out of the bay and towards us. "They don't trust the corporate shipping lanes or the official channels. Too much chatter. Too many questions. When they need something moved quietly, they call on a sleepwalker."
 
-The engine core floated towards our open hatch. It was a massive, complex piece of machinery, and I realized with a jolt that it wouldn't fit inside the *Wanderer*. But as it approached, the hull of our ship seemed to... unspool. The matte-black material flowed and reshaped itself, forming a secure external cradle that enveloped the engine. The process was silent, organic, and utterly impossible.
+The engine core floated towards our open hatch. It was a massive, complex piece of machinery, and I realized with a jolt that it wouldn't fit inside the *Lacuna*. But as it approached, the hull of our ship seemed to... unspool. The matte-black material flowed and reshaped itself, forming a secure external cradle that enveloped the engine. The process was silent, organic, and utterly impossible.
 
-"The Captain prefers to travel light," Echo noted. "But the *Wanderer* is accommodating."
+"The Captain prefers to travel light," Echo noted. "But the *Lacuna* is accommodating."
 
 With the cargo secured, the ship sealed itself. The view of Terrapin Station vanished, replaced by the familiar, disorienting rush of warped spacetime. We were moving.
 
@@ -32,7 +32,7 @@ After what felt like days, we arrived. The Tangle was a breathtaking, terrifying
 
 "They are watching," Echo said. "They see us, but they will not hail. It is a matter of trust."
 
-Roberts guided the *Wanderer* towards the heart of the chaotic structure. As we approached, a section of a massive, hollowed-out asteroid opened, revealing a docking bay. We released the engine core, and it was gently pulled inside by a series of tractor beams.
+Roberts guided the *Lacuna* towards the heart of the chaotic structure. As we approached, a section of a massive, hollowed-out asteroid opened, revealing a docking bay. We released the engine core, and it was gently pulled inside by a series of tractor beams.
 
 Our job was done. No words were exchanged. No docking fees were paid. A single, heavily encrypted data packet was transferred to our ship. Payment. But as it arrived, a subtle red light pulsed once on Echo's surface.
 

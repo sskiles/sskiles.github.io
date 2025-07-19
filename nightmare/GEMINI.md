@@ -17,11 +17,11 @@ This file provides context for the ongoing short story project to facilitate eas
 ## Key Characters
 
 - **Milo:** The protagonist and narrator. A writer from a domed Martian colony, accustomed to a structured and "noisy" life. He is seeking the story of Roberts to write something authentic.
-- **Roberts:** The "sleepwalker." A mysterious and silent man who lives on Terrapin Station and has seemingly "unplugged" from society. He communicates non-verbally and pilots the *Wanderer*.
+- **Roberts:** The "sleepwalker." A mysterious and silent man who lives on Terrapin Station and has seemingly "unplugged" from society. He communicates non-verbally and pilots the *Lacuna*.
 - **Wilkins:** A trader and general mechanic on Terrapin Station. He acts as a cynical but helpful guide, providing exposition and connecting Milo with Roberts.
-- **Echo:** A small, spherical, white robot that acts as the *Wanderer's* steward and Roberts's voice. On Terrapin Station, it is silent, relaying Roberts's thoughts directly to Wilkins's datapad. It only speaks with its own voice while aboard the *Wanderer*, acting as the inquisitive and expressive counterpart to Roberts's silence.
+- **Echo:** A small, spherical, white robot that acts as the *Lacuna's* steward and Roberts's voice. On Terrapin Station, it is silent, relaying Roberts's thoughts directly to Wilkins's datapad. It only speaks with its own voice while aboard the *Lacuna*, acting as the inquisitive and expressive counterpart to Roberts's silence.
 
-## The Ship: The *Wanderer*
+## The Ship: The *Lacuna*
 
 - **Appearance:** A small ship with a seamless, matte-black hull that absorbs light. It has no visible viewports, hatches, or propulsion systems.
 - **Interior:** A single, ovoid chamber with white, light-emitting walls. Surgically clean and minimalist.
@@ -33,7 +33,7 @@ This file provides context for the ongoing short story project to facilitate eas
 ## Plot So Far
 
 1.  Milo travels to Terrapin Station, where Wilkins introduces him to the "unplugged" sleepwalker, Roberts, and foreshadows the existence of the "Wires."
-2.  Milo experiences the station's oppressive AI "chatter" before boarding the *Wanderer* with Roberts and his silent companion, Echo.
+2.  Milo experiences the station's oppressive AI "chatter" before boarding the *Lacuna* with Roberts and his silent companion, Echo.
 3.  Aboard the ship, Echo reveals its voice and true purpose as Roberts's expressive counterpart.
 4.  **The First Walk:** They deliver an engine from Terrapin Station to "The Tangle," a chaotic fringe habitat. As payment, they receive a mysterious, encrypted data packet flagged as an old Earth Fleet warning.
 5.  **Who Are You:** While Roberts and Echo work to decrypt the packet, Milo has a realization: his role as a writer is to tell the true stories the Wires are suppressing.

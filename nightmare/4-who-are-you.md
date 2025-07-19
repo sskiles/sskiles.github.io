@@ -4,7 +4,7 @@ author: Shane Skiles
 title: Who Are You
 tags: [dream of the 20 watt sleepwalker]
 ---
-We were drifting in the silent space between walks, the *Wanderer* a tiny island of calm in the vast, dark ocean. Roberts was in his usual meditative state, a still point in the turning world. I had grown accustomed to the silence, but my writer's curiosity was a restless thing. I had so many questions, not just about Roberts, but about the universe he inhabited.
+We were drifting in the silent space between walks, the *Lacuna* a tiny island of calm in the vast, dark ocean. Roberts was in his usual meditative state, a still point in the turning world. I had grown accustomed to the silence, but my writer's curiosity was a restless thing. I had so many questions, not just about Roberts, but about the universe he inhabited.
 
 "Echo," I began, my voice soft, "back on Mars, we get news feeds. Earth says the colonies are struggling, that we need their support to survive. The lunar colonies say Earth is trying to control them, that Mars is a corporate puppet. We say they're both exaggerating, trying to maintain their influence."
 
