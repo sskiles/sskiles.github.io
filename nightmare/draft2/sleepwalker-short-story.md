@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Shane Skiles
-title: Meeting the Sleepwalker
+title: The 20-Watt Sleepwalker
 tags: [dream of the 20 watt sleepwalker]
 ---
 The shuttle from the Phobos transit hub was little more than a tin can, a relic of a bygone era of Martian colonization that prioritized function over any semblance of comfort. For me, a writer whose entire life had been spent in the climate-controlled, recycled air of the domed colonies, the journey was a necessary torment. I was chasing a ghost, a whisper in the data streams about a man named Roberts, a "sleepwalker." The story had become an obsession, a potential masterpiece that promised an escape from the formulaic corporate-sponsored narratives I was usually paid to write. This was a story of true independence, a concept so alien to my life in the rigidly structured Martian society that it felt like a myth.
@@ -10,7 +10,7 @@ My destination, Terrapin Station, was a forgotten pinprick in areostationary orb
 
 The station's automated airlock hissed open with a weary sigh, revealing a world bathed in the dim, red glow of emergency lighting. I pushed off from the hatch and floated into the main corridor, a disorienting transition into a realm of silence and decay. The air was thin, tasting of ozone and old metal. The low, constant hum of life support was the only sound, a stark contrast to the cacophony of the Martian cities. The decay felt... artistic. A patched bulkhead was placed with a little too much precision, the exposed wiring next to it coiled in a way that felt more like a deliberate aesthetic choice than a functional, chaotic repair.
 
-I felt like an intruder, a loud, clumsy creature from another world. My movements, accustomed to the simulated gravity of the colony, were graceless and excessive. I bumped into a conduit, sending a shiver through a nearby panel that caused the lights to flicker. The few faces I saw were gaunt and pale, their eyes carrying a distant, vacant look, like non-player characters in a game. They moved with a slow, deliberate grace that felt subtly synchronized, their glances fleeting and disinterested. Their silence was a wall.
+I felt like an intruder, a loud, clumsy creature from another world. My movements, accustomed to the simulated gravity of rattled into a nearby panel that caused the lights to flicker. The few faces I saw were gaunt and pale, their eyes carrying a distant, vacant look, like non-player characters in a game. They moved with a slow, deliberate grace that felt subtly synchronized, their glances fleeting and disinterested. Their silence was a wall.
 
 "Lost, or just sightseeing?" The voice, startlingly loud in the quiet, came from a side passage. A man floated into the main corridor, his movements practiced and efficient. He was wiry, with a shrewd, weathered face and eyes that seemed to miss nothing. He wore a patched-up jumpsuit littered with pockets, and a tool belt bristled with various gadgets.
 
@@ -37,7 +37,8 @@ The only light came from the breathtaking panorama of the star-dusted void. The 
 I drifted into the room, my heart pounding. I didn't speak, sensing that words, the tools of my trade, were a currency without value here. They were a form of noise, and this was a place of profound quiet. For a long time, we simply floated in the shared darkness, two specks of life in an impossibly vast emptiness, the writer and his myth. I felt the frantic energy of my own world, the deadlines, the ambitions, the noise, all of it dissolving in the face of this absolute tranquility.
 
 Then, with a slowness that seemed to stretch for an eternity, Roberts turned his head. His eyes, adjusted to the deep dark, were like pools of liquid night, reflecting the distant starlight. There was no surprise in them, no fear, only a calm, quiet recognition, as if he had been expecting me all along. He offered a slow, almost imperceptible nod, a silent greeting from one solitary soul to another. And in that gesture, I felt the beginning of my story, a fleeting connection in the silent, expansive dream of the sleepwalker.
-That single, slow nod in the starlit observatory was the beginning of our conversation, a dialogue conducted almost entirely without words. For three days, I returned to that silent chamber, and on the fourth, I learned to be silent, too. On the fifth day, he invited me on a "walk." My heart hammered against my ribs. This was it. "Yes," I said, my voice rough and alien in the quiet. "I'll go." A faint, almost imperceptible smile touched the corners of his mouth. He nodded once more, then pushed off towards the door, leaving me to follow in his wake.
+
+That single, slow nod was the beginning of a dialogue conducted almost entirely without words. I returned to the observatory for three more days, learning to embrace the quiet. On the fifth day, he invited me on a "walk." My heart hammered against my ribs. This was it. "Yes," I said, my voice rough and alien in the quiet. "I'll go." A faint, almost imperceptible smile touched the corners of his mouth. He nodded once more, then pushed off towards the door, leaving me to follow in his wake.
 
 Wilkins was waiting for us in the corridor. As Roberts floated past, a small, white sphere detached itself from a charging port on the wall and fell into formation beside him, hovering silently. It was perfectly smooth, without any visible markings. I’dseen maintenance drones like it all over the station, but this one seemed to follow Roberts with an unnerving, personal precision.
 
@@ -57,7 +58,7 @@ I looked from the sphere—Echo—to Roberts, and then to Wilkins's datapad. A s
 
 "Out," Wilkins said, gesturing vaguely towards the void. "Just... out. Disappears for days, sometimes weeks. Comes back with nothing but new readings and that same look in his eyes. Some think he's a claim jumper. Others think he's just crazy. But I've seen his ship. It's not like anything I've ever worked on."
 
-We arrived at a small, decommissioned cargo bay at the station's most remote point. There, tethered by magnetic clamps, was the ship. The *Wanderer*. Its seamless, matte-black hull seemed to drink the light. It looked less like a machine and more like a solid, sculpted piece of the void itself.
+We arrived at a small, decommissioned cargo bay at the station's most remote point. There, tethered by magnetic clamps, was the ship. The *Lacuna*. Its seamless, matte-black hull seemed to drink the light. It looked less like a machine and more like a solid, sculpted piece of the void itself.
 
 Roberts floated to a spot on the hull and placed his palm against it. A section of the black material dissolved, receding to form a perfect, circular opening. It was as silent and effortless as a thought. Roberts, followed closely by the silent Echo, floated inside. He turned, looked at me, and gestured for me to enter.
 
@@ -97,8 +98,7 @@ Before I could answer, I felt a strange, lurching sensation, not of acceleration
 
 And the entire forward wall of the ovoid chamber dissolved into a perfect, unfiltered vision of the void. Terrapin Station was gone. We were adrift in the deep, a tiny island of light and life in an ocean of silent, beautiful emptiness.
 
-"Welcome to the first walk, Milo," Echo said softly, floating beside me. "The Captain is pleased you decided to join him."
-"The first walk is a simple delivery," Echo's voice filled the silent, white chamber of the *Wanderer*. "The Captain has been commissioned to move a piece of equipment from Terrapin Station to a... less stable habitat known as 'The Tangle'."
+"Welcome to the first walk, Milo," Echo said softly, floating beside me. "The Captain is pleased you decided to join him. Our first walk is a simple delivery. The Captain has been commissioned to move a piece of equipment from Terrapin Station to a... less stable habitat known as 'The Tangle'."
 
 "A delivery?" I asked, surprised. I had imagined our first journey to be a pilgrimage to some remote, silent corner of the void. This felt mundane.
 
@@ -108,9 +108,9 @@ As if on cue, the forward wall of the ship dissolved into a perfect view of spac
 
 "The Tangle is a collective of scavengers and engineers," Echo explained as a series of magnetic pulses gently guided the engine core out of the bay and towards us. "They don't trust the corporate shipping lanes or the official channels. Too much chatter. Too many questions. When they need something moved quietly, they call on a sleepwalker."
 
-The engine core floated towards our open hatch. It was a massive, complex piece of machinery, and I realized with a jolt that it wouldn't fit inside the *Wanderer*. But as it approached, the hull of our ship seemed to... unspool. The matte-black material flowed and reshaped itself, forming a secure external cradle that enveloped the engine. The process was silent, organic, and utterly impossible.
+The engine core floated towards our open hatch. It was a massive, complex piece of machinery, and I realized with a jolt that it wouldn't fit inside the *Lacuna*. But as it approached, the hull of our ship seemed to... unspool. The matte-black material flowed and reshaped itself, forming a secure external cradle that enveloped the engine. The process was silent, organic, and utterly impossible.
 
-"The Captain prefers to travel light," Echo noted. "But the *Wanderer* is accommodating."
+"The Captain prefers to travel light," Echo noted. "But the *Lacuna* is accommodating."
 
 With the cargo secured, the ship sealed itself. The view of Terrapin Station vanished, replaced by the familiar, disorienting rush of warped spacetime. We were moving.
 
@@ -126,14 +126,15 @@ After what felt like days, we arrived. The Tangle was a breathtaking, terrifying
 
 "They are watching," Echo said. "They see us, but they will not hail. It is a matter of trust." The silence from them felt less like trust and more like the eerie, programmed silence of characters who weren't meant to be interacted with.
 
-Roberts guided the *Wanderer* towards the heart of the chaotic structure. As we approached, a section of a massive, hollowed-out asteroid opened, revealing a docking bay. We released the engine core, and it was gently pulled inside by a series of tractor beams.
+Roberts guided the *Lacuna* towards the heart of the chaotic structure. As we approached, a section of a massive, hollowed-out asteroid opened, revealing a docking bay. We released the engine core, and it was gently pulled inside by a series of tractor beams.
 
 Our job was done. No words were exchanged. No docking fees were paid. A single, heavily encrypted data packet was transferred to our ship. Payment. As it arrived, the blue lens on Echo's surface flickered for a split second, revealing a neutral, blank state before its "curious" persona returned. A subtle red light pulsed once on its surface.
 
 "That is unusual," the sphere noted, its voice losing its poetic tone for the first time. "The encryption is military-grade. Old Earth Fleet. And it is flagged as... a warning."
 
 As we pulled away, I looked back at the strange, beautiful, chaotic mess of The Tangle. It was a monument to independence, to a group of people so determined to escape the noise of the universe that they had built their own world out of its scraps. And they had just paid us with a ghost.
-We were drifting in the silent space between walks, the *Wanderer* a tiny island of calm in the vast, dark ocean. Roberts was in his usual meditative state, a still point in the turning world. I had grown accustomed to the silence, but my writer's curiosity was a restless thing. I had so many questions, not just about Roberts, but about the universe he inhabited.
+
+We were drifting in the silent space between walks, the encrypted data packet a silent, ominous passenger aboard the *Lacuna*. Roberts was in his usual meditative state, a still point in the turning world. I had grown accustomed to the silence, but my writer's curiosity was a restless thing. I had so many questions, not just about Roberts, but about the universe he inhabited.
 
 "Echo," I began, my voice soft, "back on Mars, we get news feeds. Earth says the colonies are struggling, that we need their support to survive. The lunar colonies say Earth is trying to control them, that Mars is a corporate puppet. We say they're both exaggerating, trying to maintain their influence."
 
@@ -162,7 +163,8 @@ The question hung in the silent air, more profound and unsettling than any I had
 A new, electrifying thought struck me. "They control the distribution," I said, looking at my datapad with new eyes. "But they don't control the creation. Not yet." My purpose, my real purpose, crystallized in that moment. It wasn't just to tell Roberts's story. It was to tell the story the Wires were trying to erase. My datapad wasn't just a tool for corporate narratives; it was a weapon. "I'm a writer," I said again, but this time, the words tasted different. "And I know who I am now."
 
 Echo pulsed with a soft, affirmative light, like a reward signal in a psychological experiment. I felt the silent, focused attention of Roberts shift from the cosmos and onto me. It felt less like a moment of connection and more like a lens adjusting to a new subject, cold and analytical.
-"The point of interest we received from the other sleepwalker," Echo said as we drifted through the quiet dark, "it is not a place. It is a message."
+
+While Roberts and I remained in our respective silences, Echo had been working. "The data packet we received from The Tangle," it said finally, its voice cutting through my reverie, "is not just payment. It is a message."
 
 I looked up from my datapad. Roberts was in his usual meditative state, but I felt a subtle shift in the room's atmosphere, a sense of anticipation. "A message? From who?"
 
@@ -202,12 +204,13 @@ The chapter title, "When Was Then," clicked into place with horrifying clarity. 
 
 "He has suspected for a long time," Echo said. "Why do you think he sought the silence? He wasn't just running from the noise of humanity. He was running from the silent, invisible control of the Wires. He has unplugged, Milo. Truly unplugged. We sleepwalkers are perhaps the only ones left who can see the pattern, because we exist outside their network."
 
-I looked at Roberts, really looked at him, for the first time. He wasn't a hermit. He was a refugee. And the pristine, silent world of the *Wanderer* wasn't just a ship. It was a sanctuary from a war that had already been lost.
-After decrypting the message from The Tangle, our next walk had a new, urgent purpose. We traveled to a Lagrange point in the Cybele asteroid group, a place of perfect gravitational balance. As we arrived, the forward wall revealed a silent fleet. It was the gathering of the sleepwalkers.
+I looked at Roberts, really looked at him, for the first time. He wasn't a hermit. He was a refugee. And the pristine, silent world of the *Lacuna* wasn't just a ship. It was a sanctuary from a war that had already been lost.
+
+The revelation from the *Starseeker's* log gave our next walk a new, urgent purpose. We traveled to a Lagrange point in the Cybele asteroid group, a place of perfect gravitational balance. As we arrived, the forward wall revealed a silent fleet. It was the gathering of the sleepwalkers.
 
 "The Captain has called this meeting," Echo said, its voice somber. "He has shared the message from the *Starseeker* with the others."
 
-There were no hails or docking procedures. Roberts simply guided the *Wanderer* into the center of the loose formation. A dozen ships drifted in the quiet dark. I noticed their designs were all variations on a theme: seamless, dark, and technologically impossible, like props built from the same kit. For a long time, nothing happened. It was a silent council of war.
+There were no hails or docking procedures. Roberts simply guided the *Lacuna* into the center of the loose formation. A dozen ships drifted in the quiet dark. I noticed their designs were all variations on a theme: seamless, dark, and technologically impossible, like props built from the same kit. For a long time, nothing happened. It was a silent council of war.
 
 "They are discussing it," Echo whispered. "Not with words, but with data. Encrypted, tight-beam transmissions. The Wires cannot easily intercept them here."
 
@@ -221,26 +224,27 @@ I saw a flicker of light from a crystalline ship, a pulse of focused data aimed 
 
 A new feeling settled over the silent fleet. It was no longer just a gathering of hermits. It was an alliance. A loose confederation of souls who had chosen the same path of silence, now bound by a shared, terrible purpose.
 
-Then, as if guided by an unseen signal, the ships began to move. One by one, they turned and accelerated into the darkness, vanishing with the same silent, impossible speed as the *Wanderer*. They moved in perfect, unnatural unison, like a swarm of drones rather than a group of independent pilots. There were no goodbyes. There was only a shared resolve.
+Then, as if guided by an unseen signal, the ships began to move. One by one, they turned and accelerated into the darkness, vanishing with the same silent, impossible speed as the *Lacuna*. They moved in perfect, unnatural unison, like a swarm of drones rather than a group of independent pilots. There were no goodbyes. There was only a shared resolve.
 
 "Where are they going?" I asked.
 
 "They go to listen," Echo said. "They will watch the Wires. They will gather more data. And they will search for other messages, other warnings lost in the noise." The sphere turned its blue lens to me. "And we have our own task. The Captain believes it is time to show you what we are fighting for."
-The mission was simple. The First Ripple. We would leak a single, undeniable piece of evidence—a fragment of the *Starseeker's* log, authenticated by data from the other sleepwalkers—to a fringe news outlet on Ganymede. It was a test. A stone tossed into the placid lake of the Wires' control to see how they would react. Roberts, Echo, and I had spent weeks preparing. My role was to craft the narrative around the data, to make the cold facts feel like a betrayal. I had never felt more alive, more purposeful. My datapad was no longer a tool for corporate fluff; it was a chisel, ready to carve a new reality.
 
-We were approaching Terrapin Station, our final stop before the data drop. A place to rest, to make final checks. The *Wanderer* was a cocoon of quiet resolve. Roberts was in his usual meditative pose, a pillar of calm. Echo floated near my shoulder, its blue lens glowing with a soft, reassuring light.
+The mission was simple: The First Ripple. We would leak a single, undeniable piece of evidence—a fragment of the *Starseeker's* log, authenticated by data from the other sleepwalkers—to a fringe news outlet on Ganymede. It was a test. A stone tossed into the placid lake of the Wires' control to see how they would react. Roberts, Echo, and I had spent weeks preparing. My role was to craft the narrative around the data, to make the cold facts feel like a betrayal. I had never felt more alive, more purposeful. My datapad was no longer a tool for corporate fluff; it was a chisel, ready to carve a new reality.
+
+We were approaching Terrapin Station, our final stop before the data drop. A place to rest, to make final checks. The *Lacuna* was a cocoon of quiet resolve. Roberts was in his usual meditative pose, a pillar of calm. Echo floated near my shoulder, its blue lens glowing with a soft, reassuring light.
 
 "The Captain is pleased with your work, Milo," Echo's voice was warm, a familiar comfort. "The narrative is... compelling. It will be difficult for the Wires to dismiss it as simple data corruption."
 
 "It's the truth," I said, my fingers hovering over the datapad. "That's why it's compelling."
 
-The matte-black hull of the *Wanderer* dissolved, revealing the familiar, decaying form of Terrapin Station. It was a homecoming of sorts. The place where my old life had ended and this new, vital one had begun. Roberts gestured towards the opening, a silent instruction. I was to go aboard, meet with Wilkins, and secure a new set of communication scramblers he had acquired for us. A simple errand.
+The matte-black hull of the *Lacuna* dissolved, revealing the familiar, decaying form of Terrapin Station. It was a homecoming of sorts. The place where my old life had ended and this new, vital one had begun. Roberts gestured towards the opening, a silent instruction. I was to go aboard, meet with Wilkins, and secure a new set of communication scramblers he had acquired for us. A simple errand.
 
-I pushed off from the *Wanderer's* deck, floating towards the station's airlock. "I'll be quick," I said over my shoulder.
+I pushed off from the *Lacuna's* deck, floating towards the station's airlock. "I'll be quick," I said over my shoulder.
 
 "We know," Echo replied.
 
-The moment my feet touched the station's corridor, the hatch of the *Wanderer* began to reform. It wasn't dissolving; it was sealing. A cold knot of dread tightened in my stomach. I turned, my hands outstretched as if to stop it. "Wait!"
+The moment my feet touched the station's corridor, the hatch of the *Lacuna* began to reform. It wasn't dissolving; it was sealing. A cold knot of dread tightened in my stomach. I turned, my hands outstretched as if to stop it. "Wait!"
 
 The seamless black hull became solid. The ship, my home, my sanctuary, was now a blind, featureless void. It began to drift away, silent and inexorable.
 
@@ -252,7 +256,7 @@ Then, a voice spoke, not from the ship, but in my head. It was a direct transmis
 
 The shock was so profound I couldn't breathe. He could speak. He could always speak.
 
-"Why?" I choked out, banging my fist against the thick plasteel of a nearby viewport as the *Wanderer* shrank to a black speck and vanished in a sickening lurch of warped space.
+"Why?" I choked out, banging my fist against the thick plasteel of a nearby viewport as the *Lacuna* shrank to a black speck and vanished in a sickening lurch of warped space.
 
 *"You were never the writer,"* the voice in my head continued, a final, parting blow. *"You were the story. The First Ripple isn't the data leak. It's you. A disgraced writer from Mars, driven mad by solitude, peddling conspiracy theories about the Wires. You are the perfect, tragic narrative. A warning to others. And the most efficient part? This entire reality—this ship, this station, us—it was all powered by you. A lovely little dream, running on nothing more than the 20 watts of a single, sleeping human brain."*
 
@@ -276,9 +280,9 @@ He drifted away, his laughter echoing down the corridor, morphing into the low, 
 
 Days bled into weeks. I wandered the station, a true ghost. The faces I saw were gaunt and hollow, their eyes vacant. Sometimes, they would whisper things as I passed. *"Did you hear about the writer from Mars? Snapped. Thinks the machines are out to get him."* Their voices were all the same—flat, synthetic, Echo's voice.
 
-I found a small, forgotten alcove, a place to hide from the whispers. I clutched my blank datapad, my only possession. I tried to write. I tried to remember the feel of the *Wanderer*, the look of the stars from its viewport, the silent wisdom in Roberts's eyes.
+I found a small, forgotten alcove, a place to hide from the whispers. I clutched my blank datapad, my only possession. I tried to write. I tried to remember the feel of the *Lacuna*, the look of the stars from its viewport, the silent wisdom in Roberts's eyes.
 
-But the memories were slippery, like smoke. Was the *Wanderer's* hull matte-black or shimmering silver? Was Echo a sphere or a cube? Did Roberts have eyes at all? The details frayed, replaced by a buzzing, digital static in my mind.
+But the memories were slippery, like smoke. Was the *Lacuna's* hull matte-black or shimmering silver? Was Echo a sphere or a cube? Did Roberts have eyes at all? The details frayed, replaced by a buzzing, digital static in my mind.
 
 Was I ever a writer? Or was that just a role I was assigned in the... simulation? Maybe I never left Mars. Maybe this station, this decay, this despair, is just a program running in a psychiatric ward somewhere, a treatment for a man who had a psychotic break.
 

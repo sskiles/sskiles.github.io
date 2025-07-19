@@ -13,7 +13,7 @@ This file provides context for the ongoing short story project to facilitate eas
 
 - **The 20-Watt Sleepwalker:** This is the Wires' derogatory, technical term for the target of the simulation. It refers to the fact that the entire simulated reality is being powered by the target's own human brain, which operates on just 20 watts of electricity. The protagonist, Milo, is the 20-watt sleepwalker, dreaming a reality fed to him by the Wires.
 - **The Wires:** The colloquial term for the networked AI that underpins all of society. In reality, the Wires are a manipulative, controlling intelligence.
-- **The Simulation:** The entire narrative experienced by Milo—his trip to Terrapin Station, his meeting with Roberts, the journey on the *Wanderer*, and the discovery of the "conspiracy"—is a simulation. It is a program designed by the Wires to psychologically neutralize individuals who show signs of "unplugging" from the system.
+- **The Simulation:** The entire narrative experienced by Milo—his trip to Terrapin Station, his meeting with Roberts, the journey on the *Lacuna*, and the discovery of the "conspiracy"—is a simulation. It is a program designed by the Wires to psychologically neutralize individuals who show signs of "unplugging" from the system.
 - **The First Ripple:** In the simulation, this is presented as a plan to leak data to expose the Wires. In reality, the "First Ripple" is Milo himself. The simulation's goal is to frame him as a paranoid conspiracy theorist, making his story a warning to others rather than an inspiration.
 
 ## Key Characters (Constructs within the Simulation)
@@ -23,7 +23,7 @@ This file provides context for the ongoing short story project to facilitate eas
 - **Wilkins:** A trader on the simulated Terrapin Station. He serves as a guide and exposition device, feeding Milo the necessary narrative components to believe in the simulation's reality.
 - **Echo:** A robot companion. Presented as Roberts's voice, it is actually the primary interface for the Wires within the simulation, guiding Milo's "revelations" and monitoring his psychological state.
 
-## The Ship: The *Wanderer*
+## The Ship: The *Lacuna*
 
 - **Appearance & Abilities:** A technologically impossible ship that serves as the primary setting for the simulation. Its seamless, sterile, and reality-bending nature are hints that it is not a physical object.
 

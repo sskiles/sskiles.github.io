@@ -44,4 +44,4 @@ The chapter title, "When Was Then," clicked into place with horrifying clarity. 
 
 "He has suspected for a long time," Echo said. "Why do you think he sought the silence? He wasn't just running from the noise of humanity. He was running from the silent, invisible control of the Wires. He has unplugged, Milo. Truly unplugged. We sleepwalkers are perhaps the only ones left who can see the pattern, because we exist outside their network."
 
-I looked at Roberts, really looked at him, for the first time. He wasn't a hermit. He was a refugee. And the pristine, silent world of the *Wanderer* wasn't just a ship. It was a sanctuary from a war that had already been lost.
+I looked at Roberts, really looked at him, for the first time. He wasn't a hermit. He was a refugee. And the pristine, silent world of the *Lacuna* wasn't just a ship. It was a sanctuary from a war that had already been lost.
