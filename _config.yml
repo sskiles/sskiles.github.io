@@ -60,4 +60,5 @@ sass:
 
 plugins:
   - jekyll-feed
-  - jekyll-soopr-seo-tag
+  - jekyll-sitemap
+  - jekyll-seo-tag
