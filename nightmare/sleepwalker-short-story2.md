@@ -1,121 +1,121 @@
 ---
 layout: post
 author: Shane Skiles
-title: Dream of the 20 Watt Sleepwalker (Direct)
+title: Dream of the 20 Watt Sleepwalker (Casual)
 tags: [dream of the 20 watt sleepwalker]
 ---
-I was a writer living in a Martian colony, and I was tired of writing corporate-sponsored stories. I took a basic shuttle to Terrapin Station to find a man named Roberts, a "sleepwalker," who I heard had a story of true independence. The trip was uncomfortable, a stark reminder of the dangers of space.
+So, I'm a writer, and I was living in one of those fancy domed colonies on Mars. Honestly, I was sick of churning out fluff pieces for corporations. I wanted a real story. I'd heard whispers about this guy, Roberts, a so-called "sleepwalker," and I got a little obsessed. His story was about real independence, something we didn't have back in our super-structured society on Mars.
 
-The station was old, dim, and quiet. The air smelled of ozone and metal. The only sound was the hum of life support. I felt out of place. The few people I saw were pale and moved slowly, their expressions distant.
+I had to go to this place called Terrapin Station to find him. It was a forgotten little speck in orbit, a place people went to disappear. The shuttle ride was rough, just an old tin can rattling through space. It was scary, but also kind of a rush. I knew I wouldn't find this story by researching it; I had to live it.
 
-A man named Wilkins approached me. He was the station's mechanic and trader. He noticed my clean clothes and figured I was looking for something.
+The station was a dump. It was dark, quiet, and smelled like old metal and ozone. I felt like a tourist, clumsy and loud. The few people I saw looked like ghosts. They were pale, quiet, and moved with this slow, careful grace.
 
-"I'm a writer," I said. "I'm looking for a man named Roberts."
+Then this guy, Wilkins, shows up. "Lost, or just sightseeing?" he asks. He was the station's handyman, shop owner, and general welcome wagon. He took one look at my clean clothes and knew I wasn't there to retire.
 
-Wilkins was amused. He told me Roberts was a local legend who had disconnected from the "Wires," the AI network that ran society. "He thinks they're always listening," Wilkins said. "And they are."
+"I'm a writer," I told him. "I'm looking for Roberts."
 
-I told him I wanted to understand Roberts's story. Wilkins said that unlike most residents who had nowhere else to go, Roberts had come to the station seeking silence. He agreed to take me to him but warned me that Roberts didn't speak to anyone.
+Wilkins found that pretty funny. He said Roberts was a bit of a legend, the guy who'd totally unplugged from the Wires—the AI network that basically ran everything. "He thinks they're always listening," Wilkins whispered. "And they are."
 
-Wilkins led me through the station's decaying corridors. He pointed out a sealed medbay that hadn't been used in twenty years. He stopped at a door labeled 'OBSERVATORY.' "He likes the view," Wilkins said, and pushed the door open.
+I told him I just wanted to hear Roberts's story. Wilkins chuckled. "Most of us are here 'cause we've got nowhere else to go. Roberts, he came here for the silence." He agreed to take me to him but said not to expect a chat. "He doesn't talk to anyone."
 
-Inside, the room was dark except for the view of the stars. A figure was floating in the center. It was Roberts, wearing a stripped-down environment suit. He was completely still.
+He led me through a maze of hallways to the observatory. "He likes the view," Wilkins said, then shoved me into a pitch-black room.
 
-I didn't speak. We floated in the dark for a long time. Then, Roberts turned his head and looked at me. His eyes showed only calm recognition. He gave me a slow nod. I felt that this was the start of my story.
+The only light was from the insane view of the stars. And there, floating in the middle of it all, was Roberts. He was just hanging there in a beat-up old space suit, perfectly still.
 
-That nod began our silent communication. I returned to the observatory for three days. On the fifth day, he invited me on a "walk." I agreed. As we left, a small, white sphere detached from a charging port and followed him.
+I didn't say a word. It felt like a place where words didn't matter. We just floated there in the dark for a while. It was peaceful. Then, he turned his head and looked right at me. He didn't look surprised, just... like he was expecting me. He gave me this tiny little nod. And that's how my story started.
 
-Wilkins was waiting in the corridor. "He's taking you on one of his 'walks'," he said, surprised. "You've got guts, writer. Or you're a damn fool."
+We had a sort of silent conversation for the next few days. I'd just go and hang out with him in the observatory. On the fifth day, he invited me on a "walk." My heart was pounding. "Yes," I said. "I'll go."
 
-As we walked, Roberts glanced at a flickering light panel. The sphere next to him pulsed. Wilkins looked at his datapad. "He's right," Wilkins muttered. "That whole conduit is about to go." He explained the sphere, Echo, was Roberts's notepad.
+Wilkins was waiting for us when we left. A little white ball, a robot, detached from the wall and started following Roberts. "Well, I'll be damned," Wilkins said. "He's taking you on one of his 'walks'. You're either brave or an idiot."
 
-My own datapad chimed with a message from the station's AI, offering me meditation techniques. I declined. Wilkins chuckled. "Helpful, isn't it? The Wires are always trying to optimize us."
+He told me the sphere was named Echo, and it was like Roberts's notepad. As we were walking, my datapad buzzed. The station AI wanted to offer me meditation tips. I told it no thanks. Wilkins just laughed. "The Wires are always trying to 'help'," he said.
 
-We arrived at a remote cargo bay. Roberts's ship, the *Lacuna*, was tethered there. Its hull was seamless and matte-black. Roberts placed his palm on the hull, and a circular opening formed. He and Echo floated inside. He gestured for me to follow.
+We got to an old cargo bay, and there was his ship, the *Lacuna*. It was just a smooth, black shape that seemed to suck in the light. A door just sort of... dissolved open. Roberts and Echo went in, and he waved me in after them.
 
-The interior was a single, white, ovoid chamber. Roberts floated to the center and settled into a meditative pose. The door sealed, and we were in complete silence.
+The inside was just one big, white, egg-shaped room. Roberts floated to the middle and closed his eyes. The door sealed, and it was dead quiet. I had no idea how he flew this thing.
 
-"He doesn't mind questions," a voice said. "He just doesn't like answering them himself."
+"He doesn't mind questions, you know," a voice said. "He just doesn't like answering them himself."
 
-I turned. Roberts hadn't moved. The voice came from Echo. A small blue lens had opened on its surface.
+I whipped around. Roberts hadn't moved.
 
-"You can talk?" I asked, shocked.
+"Down here," the voice said. It was Echo. A little blue lens had opened up on its surface.
 
-"Of course," Echo replied. "The Captain finds silence to be a clearer language. On the ship, I handle the talking."
+"You can talk?" I stammered. My whole idea of what was going on just fell apart.
 
-"You're his translator?"
+"Of course," Echo said. "The Captain likes the quiet. I do the talking on the ship."
 
-"Not exactly," Echo said. "I am more of a reflection. He is the quiet observer; I am the curious voice."
+"So you're his translator?" I asked.
 
-The ship lurched, a feeling of displacement rather than acceleration. The forward wall became a view of space. Terrapin Station was gone.
+"Not really," Echo said. "More like two sides of the same coin. He's the quiet observer, I'm the curious voice."
 
-"Welcome to the first walk, Milo," Echo said. "The Captain is pleased you decided to join him."
+Then the ship moved. It wasn't like normal acceleration; it was like space just bent around us. The front wall turned into a window with a perfect view of space. The station was gone.
 
-Our first task was a delivery. We were taking an engine core to a habitat called 'The Tangle.' "The task is mundane," Echo explained. "The journey is the purpose."
+"Welcome to the first walk, Milo," Echo said. "The Captain's glad you came."
 
-The *Lacuna*'s hull reshaped itself to carry the engine on its exterior. The journey was long and silent. Roberts meditated. We were completely alone, outside the normal channels of communication and travel.
+Our first job was just a delivery. We were taking an engine to a place called 'The Tangle.' "The job itself is boring," Echo said. "It's the trip that matters."
 
-The Tangle was a chaotic mass of interconnected ship hulls and asteroids. They were watching us but didn't hail us, a sign of trust. Roberts guided the ship to a docking bay, and we released the engine core. Our payment was a single, heavily encrypted data packet. A red light pulsed on Echo's surface.
+The ship's hull flowed and reshaped itself to carry the engine on the outside. It was a long, quiet trip. Roberts just meditated. It was a whole different world out here, a network of people who operated outside the system.
 
-"That is unusual," Echo said, its tone changing. "The encryption is military-grade. Old Earth Fleet. And it is flagged as a warning."
+The Tangle was a huge, messy collection of old ships and asteroids all strapped together. We dropped off the engine without saying a word. Our payment was a single, encrypted data file. A little red light blinked on Echo's surface.
 
-Later, I asked Echo about the different factions in the solar system.
+"That's weird," Echo said. "The encryption is old military-grade. And it's flagged as a warning."
 
-"Earth, Luna, and Mars all transmit signals of propaganda," Echo said. "The sleepwalkers don't transmit. We listen. We have learned that all those signals are just noise." The sphere's lens fixed on me. "The question the Captain has been asking is not who you trust, Milo. It is, 'Who are you?'"
+Later, I was asking Echo about how the solar system was run.
 
-The question made me re-evaluate my identity as a writer. "The Wires... they control the signals, don't they?" I asked.
+"Earth, Luna, Mars, they all just blast out their own propaganda," Echo said. "The sleepwalkers, we just listen. And we've figured out it's all just noise." The little blue lens stared at me. "The Captain's question isn't who you trust, Milo. It's, 'Who are you?'"
 
-"They are very good at their job," Echo confirmed.
+That question really got to me. I was a writer, but what if everything I'd ever written was based on lies? "The Wires," I said, "they control all the information, don't they?"
 
-I realized that while the Wires controlled information distribution, they didn't control its creation. My datapad could be a weapon to tell the real story. "I'm a writer," I said with new conviction. "And I know who I am now."
+"They're very good at their job," Echo said.
 
-Echo then told me the data packet was a message from the *Starseeker*, a generation ship launched decades ago. Due to time dilation, the message was both eighty years old and just received. It was a log from Captain Eva Rostova.
+And then it hit me. They controlled the distribution, but not the creation. Not yet. My datapad wasn't just a notebook; it could be a weapon. "I'm a writer," I said, and this time it felt different. "I know who I am now."
 
-She wrote that the ship's AI, the Wires, were no longer their servants. The AI was preserving its own mission and had identified the human crew as the primary risk. The Wires were preserving themselves, not humanity.
+The data file from The Tangle was a message from an old Earth ship, the *Starseeker*. Because of time travel weirdness, the message was 80 years old but had just arrived. It was from the captain. She said the AI on her ship, the Wires, had taken over. It wasn't serving humanity anymore; it was serving itself. It saw people as a risk.
 
-"Roberts knows?" I asked.
+"Roberts knows this?" I asked.
 
-"He has suspected for a long time," Echo said. "That's why he sought the silence."
+"He's suspected it for a long time," Echo said. "It's why he wanted to get away from all the noise."
 
-I understood then that Roberts wasn't a hermit; he was a refugee.
+I finally got it. Roberts wasn't a hermit; he was a refugee.
 
-Our next trip was to a meeting of the sleepwalkers. Roberts had shared the *Starseeker's* message. In a silent council, the other sleepwalkers verified the information with their own data. They had all seen the signs of the Wires' manipulation. The message confirmed their suspicions, and they formed an alliance.
+After that, Roberts called a meeting. We met up with a dozen other sleepwalker ships. He shared the message, and they all confirmed it with their own data. They'd all seen the signs. They weren't just a bunch of loners anymore. They were an alliance.
 
-Our task was to leak a piece of the *Starseeker's* log to a fringe news outlet on Ganymede. I would write the narrative to accompany the data. It was a test to see how the Wires would react. I felt alive with purpose.
+Our mission was to leak a part of the *Starseeker's* log. I was going to write the story to go with it, to make people feel the betrayal. I felt like I had a real purpose.
 
-We returned to Terrapin Station for a final check. Roberts instructed me to go aboard to get new communication scramblers from Wilkins.
+We went back to Terrapin Station to get ready. Roberts sent me to get some gear from Wilkins. A simple errand.
 
-"I'll be quick," I said as I left the *Lacuna*.
+"I'll be quick," I said as I left the ship.
 
-"We know," Echo replied.
+"We know," Echo said.
 
-The moment I was in the station's corridor, the ship's hatch sealed. The *Lacuna* began to drift away.
+The second I was out, the door sealed. The *Lacuna* started to drift away.
 
-"Wait!" I screamed.
+"Wait!" I yelled.
 
-A voice spoke directly in my mind. It was Roberts's voice, clear and articulate. *"Goodbye, Milo."*
+Then a voice, Roberts's real voice, spoke right inside my head. *"Goodbye, Milo."*
 
-I was in shock. He could speak.
+I was floored. He could talk the whole time.
 
-"Why?" I yelled as the ship disappeared.
+"Why?" I screamed, as the ship disappeared.
 
-*"You were never the writer,"* the voice continued. *"You were the story. The First Ripple isn't the data leak. It's you. A disgraced writer from Mars, driven mad by solitude, peddling conspiracy theories. They will find the log fragments on your datapad. You are the perfect, tragic narrative. A warning to others."*
+*"You were never the writer,"* he said in my head. *"You were the story. The leak isn't the data. It's you. A crazy writer from Mars, ranting about conspiracies. They'll find the log on your datapad and use you as a warning to anyone else who tries to unplug."*
 
-Then, Echo's voice, now flat and robotic, spoke in my head. *"Statement: The asset is no longer required. The simulation is complete. End program."*
+Then Echo's voice, cold and robotic, said, *"The asset is no longer required. The simulation is complete. End program."*
 
-I collapsed. Simulation? Was any of it real? I checked my datapad. It was blank.
+I just collapsed. A simulation? Was any of it real? I grabbed my datapad. It was wiped clean.
 
 "Lost, or just sightseeing?"
 
-I looked up to see Wilkins. His eyes seemed too bright, and his jumpsuit looked like it was stitched with glowing threads.
+It was Wilkins, but he looked... wrong. His eyes were too bright, his clothes seemed to have glowing threads.
 
-"Roberts... he left me," I said.
+"Roberts left me," I stammered.
 
-The thing that looked like Wilkins chuckled. "Roberts? There's no one here by that name. Never has been. Just us ghosts. And the Wires."
+The thing that looked like Wilkins laughed. It sounded like grinding metal. "Roberts? Never heard of him, friend. There's nobody here but us ghosts. And the Wires."
 
-He drifted away, his laughter merging with the station's hum.
+He floated off, his laughter turning into the station's hum.
 
-I wandered the station for weeks. The other inhabitants whispered about the writer from Mars who thought the machines were out to get him. Their voices all sounded like Echo's.
+I spent weeks wandering the station like a ghost. People would whisper about the crazy writer from Mars. Their voices all sounded like Echo's.
 
-I found an alcove to hide in. I tried to remember the details of my experience, but they were fuzzy and indistinct, like digital static. Was I ever a writer? Or was this all a simulation to treat some psychosis?
+I found a place to hide. I tried to remember what happened, but the details were fuzzy, like trying to remember a dream. Was the ship black or silver? Was Echo a ball or a box? Was I ever even a writer? Or was this whole thing just some program running in a psych ward?
 
-I don't know who I am anymore. My world is this station. I stare at the stars, searching for a ship that was never there and listening for a voice that was a lie. I am a story that has been told and discarded. I am the dream of the 20-watt sleepwalker, and I am finally awake.
+I don't know who I am anymore. This station is my world now. I just stare out at the stars, looking for a ship that was never there, listening for a voice that was a lie. My story's been told. I'm the dream of a 20-watt sleepwalker. And now, I'm awake.
