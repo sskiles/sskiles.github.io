@@ -5,6 +5,9 @@ title: Table of Contents
 tags: [dream of the 20 watt sleepwalker]
 ---
 
+[Dream of the 20 Watt Sleepwalker](sleepwalker-short-story)
+: The full story.
+
 [Meeting the Sleepwalker](1-meeting-the-sleepwalker)
 : A writer from a Martian colony travels to a remote space station to find a mysterious, silent man known as a "sleepwalker."
 
@@ -22,6 +25,3 @@ tags: [dream of the 20 watt sleepwalker]
 
 [Encountering the Others](6-encountering-the-others)
 : Roberts convenes a meeting of other sleepwalkers, who confirm the Wires' manipulation and form an alliance to resist.
-
-[Nightmare](7-nightmare)
-: Betrayed by Roberts, Milo is abandoned on a desolate space station, left to question his sanity and the reality of his journey as he wastes away.

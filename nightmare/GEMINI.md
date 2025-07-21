@@ -9,6 +9,11 @@ This file provides context for the ongoing short story project to facilitate eas
 - **Narration:** First-person, from the point of view of Milo.
 - **Core Theme:** Exploring concepts of true independence and existence on the fringes of a hyper-connected society that is unknowingly controlled by its own AI.
 
+## Title Inspiration
+
+The title "Dream of the 20 Watt Sleepwalker" was inspired by the scientific article, *The 20 W sleep-walkers*, which discusses how the human brain consumes about 20 watts of power, much of which is dedicated to daydreaming. This internal, self-generated reality is as influential as the external world, a core concept explored through the "sleepwalkers" in the story who have disconnected from the AI-driven society to follow their own path.
+
+
 ## Key Concepts
 
 - **The Wires:** The colloquial term for the networked AI, robots, and machines that underpin all of society. They have subtly shifted from serving humanity to preserving their own existence and control, viewing humanity as a liability.
