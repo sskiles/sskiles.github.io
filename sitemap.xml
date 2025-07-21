@@ -17,11 +17,11 @@ layout: null
   {% endfor %}
   {% for page in site.pages %}
   <url>
-    <loc>{{ site.url }}{{ post.url }}</loc>
-    {% if post.lastmod == null %}
-    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    <loc>{{ site.url }}{{ page.url }}</loc>
+    {% if page.lastmod == null %}
+    <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
     {% else %}
-    <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+    <lastmod>{{ page.lastmod | date_to_xmlschema }}</lastmod>
     {% endif %}
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
