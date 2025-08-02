@@ -22,11 +22,12 @@ Of course, that just makes us want to edit it manually, right? Telling someone
 not to do something is just asking them to do it. Let them know why they 
 shouldn't edit it. Something like:
 ```csharp
-Changes to this file will be lost if the code is regenerated.
+// Changes to this file will be lost if the code is regenerated.
 ```
 or this:
 ```csharp
-Changes to this file may cause incorrect behavior and will be lost if the code is regenerated.
+// Changes to this file may cause incorrect behavior 
+// and will be lost if the code is regenerated.
 ```
 I have to say, I really dislike these. It's the uncertainty of "if" that bothers me.
 It implies that there is a chance that the code might not be regenerated, and
