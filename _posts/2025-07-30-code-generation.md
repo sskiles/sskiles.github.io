@@ -2,7 +2,7 @@
 layout: post
 author: Shane Skiles
 title: Code Generation
-tags: [code generation, iincrementalgenerator]
+tags: [c#, code generation, iincrementalgenerator]
 ---
 
 Okay, back to our unregularly scheduled programming. Today, let's see if we can get a
@@ -119,8 +119,7 @@ That means the generator has successfully created a new source file,
 compiled it into the project, and your console application is able to call it.
 
 If you want to see the generated code in Visual Studio, open Solution Explorer, 
-and start expanding `MyConsoleApp` > `Dependencies` > `Analyzers` > `MySourceGenerator` 
-> `MySourceGenerator.MyGenerator` > `GeneratedCode.g.cs`. 
+and start expanding `MyConsoleApp` > `Dependencies` > `Analyzers` > `MySourceGenerator` > `MySourceGenerator.MyGenerator` > `GeneratedCode.g.cs`. 
 Once you are finally there - double-click on it to view the generated code.
 
 Useful cases for source generators include:
