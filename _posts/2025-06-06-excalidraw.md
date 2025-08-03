@@ -6,7 +6,7 @@ tags: [excalidraw]
 
 I came across a neat tool called <a href="https://excalidraw.com/">Excalidraw</a>
 recently. Personally, I'm not all that
-much of a whiteboard person, but I know people that live a die 
+much of a whiteboard person, but I know people that live and die 
 by the dry erase marker. This is a tool for both of us. If I ever need to
 sketch something out, I'm going to do it here. 
 

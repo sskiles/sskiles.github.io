@@ -51,11 +51,11 @@ Func<T1, T2, TResult> MemoizeConcurrent<T1, T2, TResult>(Func<T1, T2, TResult> f
 
 The memoization functions above are for only two parameters. A fully generic solution 
 would be able to handle up to `Func<T1,T2,T3,...,T15,T16,TResult>` as a 
-method/result if you wanted to go that for. That seems unnecessary, but who's to say.
+method/result if you wanted to go that far. That seems unnecessary, but who's to say.
 
 This is a fun approach. 
 This technique takes a function as an argument and returns a new "memoized" function.
-The function argument is turned into a lamdba function that captures the memoizing dictionary 
+The function argument is turned into a lambda function that captures the memoizing dictionary 
 in a closure, this lambda function is the result of the memoization. So, when the lambda 
 is called, the dictionary is checked for the result. If the result is found, 
 that result is returned. If the result is not found, the function is called and 

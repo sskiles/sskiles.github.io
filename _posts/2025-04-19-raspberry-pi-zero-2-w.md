@@ -20,7 +20,7 @@ less than $50. I bought the board, case and microSD card from
 <a href="https://www.adafruit.com/">Adafruit</a> and the card reader from
 <a href="https://vilros.com/">Vilros</a>. 
 
-Raspberry Pi provides it's own 
+Raspberry Pi provides its own 
 <a href="https://www.raspberrypi.com/software/">Software Imager</a> to install an OS
 on the microSD card. The suggested OS is Raspberry Pi OS (formerly Raspbian), 
 which is a Debian-based Linux. Although, you can install other distros like 
@@ -37,7 +37,7 @@ without making him unbootable or breaking SSH (I did need to reinstall once).
 After a while, I managed to get Zero up and running in less than 70MB of RAM.
 When you're only working with 512MB, it just made me feel better to do that.
 
-The next thing I did was to install .NET - a strange first package a Linux install, I know.
+The next thing I did was to install .NET - a strange first package for a Linux install, I know.
 But, hey, I'm primarily a .NET developer. I had never installed .NET on Linux before,
 so I was curious to see how it would go. I was pleasantly surprised that the installation
 was as simple as it was. Microsoft has good 
@@ -52,7 +52,7 @@ and get it up and running.
 
 From compile to execution in release mode `dotnet run -c release` took about 2 minutes, 
 which wasn't that bad considering it was a multithreaded application that opened up 
-a few named piped. Between the compile and execution, Zero was using about 130MB of RAM. 
+a few named pipes. Between the compile and execution, Zero was using about 130MB of RAM. 
 Not bad considering 70MB was used for the OS alone. It also managed to grab just
 over 20MB of swap space. I was concerned about how heavy a .NET application would 
 be on Zero, but he seemed to be doing just fine. The executable itself was less 

@@ -16,7 +16,7 @@ break out an editor, create a new ```ExpandoObject``` and start adding propertie
 (add a ```Func``` or ```Action``` for more fun).
 It's fun to play with, but I don't recommend using it in production code. 
 
-One thing that approve of is using ```dynamic```/```ExpandoObject``` for is ad-hoc
+One thing that I approve of is using ```dynamic```/```ExpandoObject``` for is ad-hoc
 JSON serialization. If you need to create non-trivial JSON object quickly, 
 this is a great approach.
 

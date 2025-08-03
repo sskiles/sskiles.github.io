@@ -82,13 +82,13 @@ public class AsyncOperationCanceledHandler : Attribute, IMethodAsyncAdvice
 }
 ```
 I definitely plan to explore this further and see what I can come up with. However,
-I do have some concerns about readability and maintainability, possibly performace - 
+I do have some concerns about readability and maintainability, possibly performance - 
 especially in a team environment.
 
 For the readability part, it seems like it might become difficult to follow 
 or cause issues when just reading the code. Although, it might become second nature 
 to just look for the attributes. I guess it would depend on how much you use it and
-how much it end up being used.
+how much it ends up being used.
 
 As for maintainability, it could be difficult or impossible to make nuanced 
 changes to code that is being affected by aspects. Fixing an aspect could cause issues

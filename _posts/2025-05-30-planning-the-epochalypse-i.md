@@ -28,7 +28,7 @@ credit card processor too. They replaced the hardware and upgraded the OS,
 but the software stayed the same. Then they put it on a VM and just shuffled 
 it around from server to server, office to office, and it just kept working. 
 
-That's who I want to sell my services to. I want to sell piece of mind to about 
+That's who I want to sell my services to. I want to sell peace of mind to about 
 5 - 10 of those companies. Chances are nothing is going to happen, but if it does,
 help identify the problem and fix the issues. 
 
@@ -57,13 +57,13 @@ and then be done and out. Maybe start earlier, I'm not sure. After end of Q1,
 accounting will be done, and any issues will have been identified and addressed
 in the wild by then.
 
-A few questionaires, a few meetings, a few phone calls, a few emails, 
+A few questionnaires, a few meetings, a few phone calls, a few emails, 
 a few on-site visits - most of the burden would be on the client to gather the 
-information if it exists. A fair amount of the initial kick offs and brainstormings,
+information if it exists. A fair amount of the initial kick offs and brainstorming,
 can be done with multiple clients at once, letting them all share ideas and resources.
 There won't be any proprietary information or trade secrets being shared - 
 it's going to be identifying systems and processes that could be affected and why.
-Is data be stored correctly? Are there any issues that you have already identified?
+Is data being stored correctly? Are there any issues that you have already identified?
 
 If something does go wrong, we can figure it out together.
 Where is it going to go wrong? What is going to go wrong? Did you reboot it?

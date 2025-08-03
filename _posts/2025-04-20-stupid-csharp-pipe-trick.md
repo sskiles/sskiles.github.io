@@ -13,7 +13,7 @@ you'll wonder how you ever got along without knowing how to use it.
 A while back I was wondering if it would be possible to do something like that in C#.
 I don't mean writing programs to read `stdin`/`stdout`. I mean actually using `|` in code.
 The `|` operator in C# is a bitwise or operation. I thought it would be fun if I
-could reappropriate it for something more fun. The first thing that came to mind 
+could re-appropriate it for something more fun. The first thing that came to mind 
 would be to use it for filtering like you would pipe something through grep in a shell.
 
 *Insert disclaimer text. 
