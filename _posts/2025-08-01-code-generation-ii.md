@@ -78,7 +78,7 @@ Some IDEs and code editors will also use this attribute to prevent manual edits 
 I hadn't planned on this being so long, but here we are.
 So, let's put it all together. Here's what our code generator might look like:
 ```csharp
-
+var generatorName = GetType().FullName;
 var generatorVersion = typeof(MyGenerator).Assembly.GetName().Version.ToString();
 var generationTime = DateTime.Now.ToString("o");
 
@@ -115,7 +115,7 @@ And our generated code file might look like this:
 // Changes to this file may cause incorrect behavior and will be lost if
 // the code is regenerated.
 //
-// Generator: MyGenerator
+// Generator: MyNamespace.MyGeneratorClass
 // Version:   1.0.0.0
 // Timestamp: 2025-08-01T20:29:37.1169220-05:00
 // ---------------------------------------------------------------------------
