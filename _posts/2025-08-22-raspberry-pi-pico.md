@@ -16,12 +16,12 @@ And if I decide I want to try an ESP32 later, I can always get one then.
 I mentioned Vilros specifically because they are an excellent source for Raspberry Pi 
 and Arduino products. I have always had good experiences with them, and they
 offer free shipping. The Pico 2 W normally goes for $7.00, they charged $8.61 - 
-I added in a $3.99 cable and the total came to was $12.60. How ever they build in 
+I added in a $3.99 cable and the total came to $12.60. However they build in 
 the shipping and tax, I don't know, but I am happy with the price. They do have other
 shipping options, but I go with the free one for anything under $10.
 
 The Pico 2 W is a microcontroller board, not a full computer like the Raspberry Pi Zero.
-It has 4MB QSPI Flash, 520KB of RAM, a Dual Arm Cortex-M33 processors running at 150MHz,
+It has 4MB QSPI Flash, 520KB of RAM, dual Arm Cortex-M33 processors running at 150MHz,
 and... built-in WiFi and Bluetooth. It is a very capable little board. This will be my first
 time working with a microcontroller of my own, so I am looking forward to seeing 
 what I can do with it.
@@ -85,3 +85,29 @@ Anyway, I just wanted to make myself some notes and get things downloaded and re
 as best I can before the Pico arrives. I will post an update once I have it set up and
 working.
 
+Just found a telnet server for MicroPython on 
+<a href="https://github.com/cpopp/MicroTelnetServer/blob/master/utelnet/utelnetserver.py">GitHub</a>.
+That might work if webREPL doesn't.
+
+...to be continued.
+
+<hr>
+
+Update: The Pico is up and running. I've got a little boot script to flicker the
+onboard LED when prepping globals and activating the network card, blinking while
+obtaining a network address and setting time, then going solid once all set 
+on the network. After that, webREPL starts up for testing and file transfers. 
+
+I think my immediate plan is to have the main loop put it to deep sleep at midnight 
+(if it is idle and not already sleeping), then wake up hourly, connect to WiFi 
+and check scheduled tasks starting at 10am. 
+After 6pm, it will stay online and awake or in light sleep until 
+midnight. That way, it can do whatever I end up scheduling during the day, 
+and then online for me to mess with in the evening. I may end up setting up a
+little web server on it, so I can check status and maybe kick off tasks. Until then,
+I'll probably just use a little `btree` database to store scheduled tasks and whatnot.
+
+I will post more as I get things set up. The biggest issue I've run into is my 
+router blocking the Pico from connecting for an hour after a certain number of reboots 
+in a short period. I can reset the router, but I'm lazy. 
+Anyway, so far, so good. 
