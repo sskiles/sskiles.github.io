@@ -6,7 +6,9 @@
           <span class="home-date">
             {{ post.date | date: site.theme_config.date_format }} »
           </span>
-          <a style="view-transition-name: title;" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span style="view-transition-name: title;">
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </span>
         </li>
       {% endfor %}
     {% else %}
