@@ -6,20 +6,16 @@
           <span class="home-date">
             {{ post.date | date: site.theme_config.date_format }} »
           </span>
-          <span style="view-transition-name: {{ post.url | replace: "/", "" }};">
-              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          </span>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </li>
       {% endfor %}
     {% else %}
       {% for post in site.posts %}
         <li class="post-list-item">
-            <span class="home-date">
-                {{ post.date | date: site.theme_config.date_format }} »
-            </span>
-            <span style="view-transition-name: {{ post.url | replace: "/", "" }};">
-                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            </span>
+          <span class="home-date">
+            {{ post.date | date: site.theme_config.date_format }} »
+          </span>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </li>
       {% endfor %}
     {% endif %}
