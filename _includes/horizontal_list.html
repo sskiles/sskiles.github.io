@@ -4,7 +4,7 @@
 <ul class="horizontal-list">
     {% for item in include.collection %}
     <li>
-        <span style="view-transition-name: {{ post.url | replace: "/", "" }};">
+        <span style="view-transition-name: {{ item.url | replace: "/", "" }};">
             <a href="{{ item.url }}">
                 {{ item.title }}
             </a>
