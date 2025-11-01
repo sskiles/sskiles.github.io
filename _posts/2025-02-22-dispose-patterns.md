@@ -4,8 +4,8 @@ author: Shane Skiles
 tags: [c#, dispose, sync, async]
 ---
 
-I always need to refer back to something when implementing a full sync/async 
-disposal pattern in C#. Well, here it is. This implementation has a 'disposables' 
+I always want to refer back to something when implementing a full sync/async 
+disposal pattern in C#. Well, here it is. This implementation has a `disposables` 
 list to help keep track of everything you want to dispose of. 
 
 ```csharp
@@ -37,7 +37,7 @@ public class DisposableCore : IDisposable, IAsyncDisposable
     }
 
     /// <summary>
-    /// Disposes the dictionary and its resources.
+    /// Disposes the object and its resources.
     /// </summary>
     /// <param name="disposing">A boolean value indicating whether the method is called from the Dispose method.</param>
     protected virtual void Dispose(bool disposing)
@@ -52,13 +52,18 @@ public class DisposableCore : IDisposable, IAsyncDisposable
                 }
             }
 
-            // Dispose unmanaged resources here
+            /* 
+                Dispose unmanaged resources here. 
+                This block is executed regardless of the value of 'disposing'.
+                It is called from Dispose(), DisposeAsync(), and the finalizer (if implemented).
+            */
+
             _disposed = true;
         }
     }
 
     /// <summary>
-    /// Disposes the dictionary asynchronously.
+    /// Disposes the object asynchronously.
     /// </summary>
     /// <returns>A <see cref="ValueTask"/> representing the asynchronous operation.</returns>
     protected virtual async ValueTask DisposeAsyncCore()
