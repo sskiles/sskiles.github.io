@@ -37,9 +37,11 @@ After getting everything installed, it's a whole other task to get everything lo
 It's been a fun little adventure getting everything set up and configured and finding new things along the way. One package I found while looking up some UI tricks was Conky. That is a fantastic, highly configurable system monitor that will just run windowless on your background. I'm sure I'll find more tools, tips, and tricks in the near future.
 
 Currently, I am very pleased with the setup I have installed right now.
+
 - I am currently typing this in VS Code.
 - Chrome is running with ~10 tabs.
 - Spotify is playing in its own window.
 - Thonny is online and connected to a microcontroller.
 - A couple of terminals are open (one is testing setting up and tearing down `docker` services).
+
 And the system is running in just under 5 gigs of RAM, and CPU load is around 10%. Everything is rock solid and snappy. I'm surprised Chrome isn't eating that much memory by itself. The only real "optimization" I've done so far is to disable CUPS. Other than that, I still need to get myself really familiar with VS Code, and then it'll feel homey. It won't be a daily driver, but more of a "hobby hauler."
