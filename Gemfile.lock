@@ -159,7 +159,7 @@ PLATFORMS
 DEPENDENCIES
   base64
   bigdecimal
-  jekyll
+  jekyll (= 4.4.1)
   jekyll-feed
 
 BUNDLED WITH
