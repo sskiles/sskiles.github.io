@@ -1,6 +1,6 @@
 navbar_entries:
   - title: home
-    url: https://sskiles.github.io/
+    url: /
 
   - title: blog
     url: /blog

@@ -27,16 +27,17 @@ Here is an example workflow for the `GetPerson` stored procedure:
 ```csharp
 // 1. Populate Criteria
 GetPersonCriteria criteria = dboRepository.GetPersonCriteria()
-				{
-					Id = 1001,
-					City = "New York",
-					...
-				}
+{
+	Id = 1001,
+	City = "New York",
+	...
+}
 
 // 2. Get Command
 SqlCommand cmd = GetPersonRepository.CreateCommand(criteria)
 
-// 3. Populate and Execute Command
+// 3. Populate Database Connection and Execute Command
+	// You maintain complete control here.
 
 // 4. 
 Enumerable<GetPerson> results = GetPersonRepository.ReadAsync(sdr, cancellationToken);

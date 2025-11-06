@@ -1,4 +1,9 @@
 # frozen_string_literal: true
+# gemspec
 
 source "https://rubygems.org"
-gemspec
+
+gem "jekyll"
+gem "jekyll-feed"
+gem "bigdecimal"
+gem "base64"
