@@ -9,7 +9,7 @@ Whenever people complain about Google results regarding ads or AI results, I alw
 [&udm14](https://udm14.com/). This is a shortcut to 
 [https://www.google.com/?udm=14](https://www.google.com/?udm=14). Google has UDM codes which are 
 most commonly associated with Unified Data Model structured format for Google Security Operations.
-However, for the purposes here, these UDM code are rumored to stand for User Display Modes. 
+However, for the purposes here, these UDM codes are rumored to stand for User Display Modes. 
 Searching Google with "udm=14" displays only organic results with 
 no ads, 
 no AI summaries, 
@@ -21,10 +21,10 @@ Since it is only organic results, this is an invaluable tool for SEO purposes.
 For me, it is a nice refreshing way to look at Google every now and then. I don't use it all of the time. 
 I actually don't mind the AI results. I won't go into the debates regarding the 
 ethical implications, effects on content creators, accuracy, or other issues with AI summaries.
-If the first 2 sentences of the summary answer my question. I have no problem with that.
+If the first 2 sentences of the summary answer my question, I have no problem with that.
 Of course, any question of any consequence is going to be researched further. 
 
-And I usually don't mind ads too much. It helps me "ground" the results outside of my mind set.
+And I usually don't mind ads too much. It helps me "ground" the results outside of my mindset.
 What are people selling with this? 
 Classes to learn more? 
 Competing products/services?
@@ -39,7 +39,7 @@ I can never remember "udm", "utm", 14, 15, etc.. You would think "Google disensh
 would make it the first hit, but it doesn't.
 
 There are other "udm" codes hiding in the shadows (I haven't found a list of codes anywhere).
-There is a chance this is the most complete list of codes anywhere.
+There is a chance this is the most complete list of codes I've been able to compile anywhere.
 - udm=6 - Adds in a Q&A section
 - udm=7 - Only videos
 - udm=8 - Jobs
