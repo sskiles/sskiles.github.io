@@ -7,7 +7,7 @@ tags: [Google, Disenshitification, Code]
 
 Whenever people complain about Google search results related to ads or AI, I always point them to 
 [&udm14](https://udm14.com/). This is a shortcut to 
-[https://www.google.com/?udm=14](https://www.google.com/?udm=14). Google has UDM codes which are commonly associated with Unified Data Model structured format for Google Security Operations.
+[https://www.google.com/?udm=14](https://www.google.com/?udm=14). Google has UDM codes commonly associated with the Unified Data Model's structured format for Google Security Operations.
 However, for the purposes of this discussion, these UDM codes are rumored to stand for User Display Modes. 
 Searching Google with "udm=14" displays only organic results with 
 no ads, 
@@ -34,7 +34,7 @@ people are using this product/service/technology in a way I'd never considered.
 Anyway, back to the topic at hand. The "udm=14" flag is a very handy trick to remember 
 or bookmark to keep handy. One could set that as your default search page 
 and never think about it again. I'm writing about it here to tell you about it and to make it easier for me to find on other people's systems. 
-I can never remember "udm", "utm", 14, 15, etc.. One might expect "Google disenshitification"
+I can never remember "udm", "utm", 14, 15, etc. One might expect "Google disenshitification"
 to be the top search result, but it isn't.
 
 There are other "udm" codes hiding in the shadows (I haven't found a list of codes anywhere).
@@ -46,4 +46,4 @@ This might be the most complete list of codes I've been able to compile anywhere
 - udm=14 - Results only
 - udm=15 - Attractions
 
-There may be other codes that do other things, this was a list I compiled through recent experimentation. Hopefully, this tool you can add to your collection.
+There may be other codes that do other things, this was a list I compiled through recent experimentation. Hopefully, you can add this tool to your collection.
