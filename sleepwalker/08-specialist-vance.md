@@ -1,3 +1,7 @@
+---
+layout: post
+title: Specialist Vance
+---
 **Log Entry: Cycle 88, Sol 9. The Habitat Docking Bay.**
 
 The cavern of a docking bay. Dim lights. A man is already there. Wiry. All sharp angles and coiled authority, overseeing a small crew as they maneuver the engine from our hull.

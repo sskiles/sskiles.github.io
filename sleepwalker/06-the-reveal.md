@@ -1,3 +1,7 @@
+---
+layout: post
+title: The Reveal
+---
 **Log Entry: Cycle 88, Sol 8. Deep Space (cont.).**
 
 The image of the turbulence hangs in the silent cockpit. A storm of invisible conflict.

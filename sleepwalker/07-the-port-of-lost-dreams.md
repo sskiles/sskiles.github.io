@@ -1,3 +1,7 @@
+---
+layout: post
+title: The Port of Lost Dreams
+---
 **Log Entry: Cycle 88, Sol 8. Fringe Habitat.**
 
 The airlock opens.

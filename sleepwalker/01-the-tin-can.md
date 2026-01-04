@@ -1,3 +1,7 @@
+---
+layout: post
+title: The Tin Can
+---
 **Log Entry: Cycle 88, Sol 3. Phobos Transit Hub.**
 
 Strap-in webbing. Slick with sweat from a thousand other anxious passengers.

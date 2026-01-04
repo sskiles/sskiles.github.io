@@ -1,3 +1,7 @@
+---
+layout: post
+title: The First Seed
+---
 **Log Entry: Cycle 89, Sol 1. Deep Space (unregistered freighter).**
 
 How long did I wander Terrapin? Don't know. A ghost. In a tomb of rust.

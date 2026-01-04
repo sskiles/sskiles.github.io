@@ -1,3 +1,7 @@
+---
+layout: post
+title: The Nightmare
+---
 **Log Entry: Cycle 88, Sol 16. Terrapin Station Corridor.**
 
 The simple errand. The final check. My feet touch the station's grimy deck plating. I turn back to the airlock, and the seamless hull of the *Lacuna* is flowing shut. The bottom drops out of my stomach. I raise a hand. "Wait!"

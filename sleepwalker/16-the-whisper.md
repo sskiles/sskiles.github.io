@@ -1,3 +1,7 @@
+---
+layout: post
+title: The Whisper
+---
 **Log Entry: Cycle 89, Sol 30. Deep Space (unregistered freighter).**
 
 Days bleed into a featureless blur on the *Mercy's End*.

@@ -1,3 +1,7 @@
+---
+layout: post
+title: The Welcome Wagon
+---
 **Log Entry: Cycle 88, Sol 3. Terrapin Station.**
 
 The shuttle docks. A shudder that feels final.

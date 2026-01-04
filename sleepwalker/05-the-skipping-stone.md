@@ -1,3 +1,7 @@
+---
+layout: post
+title: The Skipping Stone
+---
 **Log Entry: Cycle 88, Sol 8. Deep Space.**
 
 Echo's voice cut the silence. Calm. "Time to depart."

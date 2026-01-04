@@ -57,3 +57,8 @@ sass:
 
 plugins:
   - jekyll-feed
+
+collections:
+  sleepwalker:
+    output: true
+    permalink: /sleepwalker/:path/

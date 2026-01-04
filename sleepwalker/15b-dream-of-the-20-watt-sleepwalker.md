@@ -1,3 +1,7 @@
+---
+layout: post
+title: Dream of the 20-Watt Sleepwalker
+---
 **A Note from the Editors, Ganymede Fringe Aggregate:**
 
 *We rarely publish unsolicited fiction, and rarer still are pieces that arrive, as this one did, through a series of anonymous dead-drop relays, but the quality of the prose and the quiet hope at its core compelled us to make an exception. We don't know who 'Anonymous' is, but we are proud to present their work to you.*
