@@ -14,12 +14,12 @@ I make myself small. Out of my depth here. A liability they are choosing to igno
 Roberts brings up the audio log from the *Starseeker*. Dr. Thorne's terrified voice fills the void, echoing through the silent ships.
 When it's over, the captains' faces are grim but unsurprised.
 "It's real," one captain says, his voice flat. Another just nods.
-The woman with the plasma scar across her cheek leans into her console's pickup. "Source?" she clips out.
+A gaunt captain with a face like a crumpled map and a voice that was a dry, rasping whisper leans into her console's pickup. "Source?" she clips out.
 Roberts gestures. Vance's name on the screen. A few of them trade uneasy glances.
 The name Jinx. Not an inside joke. A warning.
 
 They talk after that. The Wires, new trade routes, security chiefs who can't be trusted.
-The plasma-scarred woman speaks again. "Hearing chatter about a new encryption protocol. Tighter."
+The rasping captain speaks again. "Hearing chatter about a new encryption protocol. Tighter."
 An unseen captain scoffs, voice tinny through the feed. "Always another lock. Always another key."
 But the old, bearded captain shakes his head. "That's not the Wires," he rasps. "That's just the titans fighting. We're just the ants they step on."
 The phrase hangs in the air. An article of faith for this strange congregation.
