@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Shane Skiles
-title: Table of Contents
+title: Dream of the 20 Watt Sleepwalker
 tags: [dream of the 20 watt sleepwalker]
 ---
 A beatnik noir set in the cold vacuum of space.
