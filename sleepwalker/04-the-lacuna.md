@@ -18,17 +18,16 @@ The silence. Absolute. Not relaxing. Unnerving.
 
 As Roberts drifts, the floor ripples. Rises. A minimalist couch. Another shape forms for me. A chair. The doorway seals as silently as it opened.
 
-A voice from the air itself. Calm. Androgynous. Flat. "I trust you left the listening device on the station."
+A voice from the air itself. Calm, yet expressive. "I trust you left the listening device on the station."
 
-I look for a speaker. Nothing. Roberts hasn't moved.
-Then a small, white sphere I hadn't noticed floats from a recess in the wall. Moves between us. It gently bumps my head with a soft *thump*. Halts. Recalibrates.
-"Apologies," the voice says, from the sphere. "Presence anomaly." A tiny, blue lens spirals into existence on its surface.
+I look for a speaker. Nothing. Roberts is a study in stillness.
+Then a small, white sphere I hadn't noticed floats from a recess in the wall. It moves between us and, miscalculating, gently bumps my head with a soft *thump*. It halts. Recalibrates.
+
+"My apologies," the voice says, now clearly from the sphere. A tiny, blue lens spirals into existence on its surface. "My spatial parameters are calibrated for a single occupant."
 
 "Yes," I stammer. "Wilkins said Roberts wouldn't approve."
 
-"A wise precaution," the sphere replies. "The Wires are always listening."
+"A wise precaution," the sphere replies. "The Wires are always listening. But on this ship, our communications are a closed loop. We can speak freely. My name is Echo. I serve as Captain Roberts's assistant."
 
-The sphere seems to notice my notebook. "The Captain prefers silence," it states, as if reciting a fact. "It can be difficult for guests."
-
-I stare from the talking sphere to the silent man.
+I stare from the talking sphere to the silent man. Echo.
 He has a voice. It just isn't his.

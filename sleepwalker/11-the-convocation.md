@@ -4,7 +4,7 @@ After a day of stomach-turning jumps, we arrive. In what looks like a completely
 Then, the void flickers.
 A ship blinks into existence. Then another. And another. A handful of them, appearing silently around us like ghosts emerging from a fog.
 
-"We have arrived," the sphere's voice states. "The Convocation."
+"We have arrived," Echo's voice states. "The Convocation."
 
 The forward wall resolves. A multi-panel display of the other captains.
 Grim men and women, all with the same worn, distant look in their eyes. The kind of look you get from staring too long into the abyss and seeing yourself staring back.

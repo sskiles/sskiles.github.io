@@ -5,13 +5,20 @@ Airlock cycles. Thin air, smelling of ozone and hot metal. The silence after the
 This station is a museum of makeshift repairs. Patched bulkheads, exposed conduits, flickering lights. A place where things come to break down for good.
 
 My clean colony clothes feel like a costume. My movements too sharp, accustomed to a gravity that's a luxury now.
-A mechanic in patched overalls corners me. Gives my clothes a look that could strip paint.
-"Information costs extra out here," he grunts. The opening line of a negotiation.
+
+"Lost, or just sightseeing?"
+
+The voice cut the quiet. From a side passage, a man. Solid frame, but light on his feet. Jumpsuit a patchwork of repairs. His eyes were sharp, shrewd. They sized me up in a second.
+
+"A bit of both," I managed.
+
+"Wilkins," he grunted. No handshake. Just a nod at my clothes. "Welcome wagon. Information costs extra."
 
 "I'm looking for a man named Roberts," I say.
 
-"'Roberts'?" Something like a smile cracks his weathered face. "Local legend, that one. A man who didn't just log off, but truly 'unplugged.'"
-He thumps a shoddy conduit held with tape. "Talk too loud 'round here and the static starts to sound like your own voice, only smarter," he rasps. "Best to keep your thoughts behind your teeth."
+"'Roberts'?" A dry crack in his weathered face. Something like a smile. "Local legend. The man who didn't just log off, but truly 'unplugged.'"
+His voice drops, becomes raspy. "Back in the domes, everyone's running on twenty watts, dreaming their lives away while the Wires whisper sweet nothings in their ears. Roberts... he decided to wake up."
+He thumps a shoddy conduit held with tape. "The Wires are always listening. Best to keep your thoughts behind your teeth."
 Used to dismiss that talk as frontier paranoia. Out here, it's practical advice.
 "I need to talk to him."
 
@@ -30,4 +37,4 @@ A figure silhouetted against it. Motionless in zero-g.
 It has to be him.
 He doesn't move. Looks less like a man, more like a part of the celestial mechanics.
 He turns his head. Slow. Deliberate.
-Not surprised. He's been waiting.
+Not surprised. Just a slow nod of recognition.

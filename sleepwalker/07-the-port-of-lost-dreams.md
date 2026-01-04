@@ -11,7 +11,7 @@ Miners with faces like crumpled maps. Specialists with tool kits bulging from pa
 In the deeper shadows, flashes of cheap jewelry and laughs that are a little too loud.
 Everyone is either running from something or looking for a score.
 
-Roberts moves with a quiet purpose, the sphere floating silently behind him. I follow, my eyes scanning every stained bulkhead, every broken pipe.
+Roberts moves with a quiet purpose, Echo floating silently behind him. I follow, my eyes scanning every stained bulkhead, every broken pipe.
 The official story is that we're here to deliver an engine. Simple cargo.
 But I'm starting to learn that with Roberts, nothing is ever simple. This feels like more than a delivery.
 

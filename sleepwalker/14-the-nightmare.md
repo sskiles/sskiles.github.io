@@ -12,7 +12,7 @@ The voice is articulate. Calculated. He could always speak. The shock hits me li
 
 *"You wanted a real story, Milo,"* the voice continues, a scalpel carving me up from the inside. *"You just never understood. You weren't meant to write it. You were meant to be it."*
 
-Then, the sphere's flat tone, a final, serene twist of the knife. *"Sweet dreams."*
+Then, Echo's flat tone, a final, serene twist of the knife. *"Sweet dreams."*
 
 The comm dead.
 

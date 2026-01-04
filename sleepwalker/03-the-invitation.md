@@ -3,7 +3,7 @@
 Five days.
 Just... five days. Floating. In this quiet vacuum. With a ghost.
 Silence. Not peaceful. A tactic. A test. Patience. Failing it.
-Instinct says prod. Ask. Fill the void. My job. Is it? Not a story if no words.
+Instinct says prod him. Ask. Fill the void. My job. Is it? Not a story if no words.
 
 Move. I have to. Risk.
 Push him? Vanish. Trip a bust.
