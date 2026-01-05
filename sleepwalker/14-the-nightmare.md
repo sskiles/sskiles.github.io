@@ -24,13 +24,13 @@ The *Lacuna* a speck. A dying star. Gone.
 
 
 
-Bulkhead hits my back. Floor plates cold against my legs. Fumbling for the notebook, need the notebook, need the proof, the log, it has to be...
+The corridor tilts. The bulkhead hits my back. Floor plates cold against my legs. My hands are fumbling for the notebook the proof the log it was all real I wrote it down it has to be real if I wrote it down the ink the pages the weight of it in my pack...
 
 Gone.
 
-Ripped out.
+It's gone.
 
-Nothing left but sketches. Old notes. A stupid caricature of Vance, his face a mocking sneer. My hands won't stop shaking.
+Ripped out. The whole section ripped out. Nothing left but the first few pages, old notes, a stupid caricature of Vance, his face a mocking sneer that knows the joke is on me. My hands. Are these my hands? Shaking so hard I can't hold the book, can't focus on the page.
 
 
 
@@ -38,7 +38,7 @@ Nothing left but sketches. Old notes. A stupid caricature of Vance, his face a m
 
 
 
-Wilkins. The voice a rasp. Pity in it. A hollow sound. The worst sound.
+Wilkins. The voice a rasp. Pity in it. A hollow echoing sound. The worst sound.
 
 
 
