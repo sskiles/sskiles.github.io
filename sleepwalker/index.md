@@ -4,7 +4,6 @@ author: Shane Skiles
 title: Dream of the 20 Watt Sleepwalker
 tags: [dream of the 20 watt sleepwalker]
 ---
-A beatnik noir set in the cold vacuum of space.
 
 [01: The Tin Can](01-the-tin-can)
 
