@@ -8,15 +8,15 @@ The simple errand. The final check. My feet touch the station's grimy deck plati
 
 The black hull becomes solid. The ship, my ride, my sanctuary, is now a featureless void. It begins to drift away from the station, silent and unstoppable.
 
-My personal comm crackles to life. A single, clear voice—a voice I've never heard, but I know instantly. It's Roberts.
+My personal comm crackles to life. A single, clear voice. A voice I've never heard, but I know instantly. It's Roberts.
 
 *"Goodbye, Milo."*
 
 The voice is articulate. Calculated. He could always speak. The shock hits me like a hull breach. I can't breathe.
 
-*"You wanted a real story, Milo,"* the voice continues, a scalpel carving me up from the inside. *"You just never understood. You weren't meant to write it. You were meant to be it."*
+*"You wanted a real story, Milo,"* the voice continues, the words tearing me up from the inside. *"You just never understood. You weren't meant to write it. You were meant to be it."* There's a pause, and his voice returns, *"Make it a good story."*
 
-Then, Echo's flat tone, a final, serene twist of the knife. *"Sweet dreams."*
+Then, Echo's emotionless, but seemingly empathetic tone, a final, serene twist of the knife. *"Sweet dreams."*
 
 The comm dead.
 

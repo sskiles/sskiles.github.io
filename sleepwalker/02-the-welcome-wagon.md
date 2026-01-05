@@ -26,9 +26,9 @@ He thumps a shoddy conduit held with tape. "The Wires are always listening. Best
 Used to dismiss that talk as frontier paranoia. Out here, it's practical advice.
 "I need to talk to him."
 
-A dry chuckle, like grinding rust. He gives me a long look, sizing me up one last time. "Alright, writer. I'll take you." His eyes flick to my datapad. "But you're not bringing that. The man you're looking for doesn't like things that listen."
+A dry chuckle, like grinding rust. He gives me a long look, sizing me up one last time. "Alright, writer. I'll take you." His eyes flick to my datapad. "But you're not bringing that. The man you're looking for doesn't like things that listen." He gestures to my datapad. "I'll be sure to keep it safe for you."
 
-A toll. Fair enough. Swap the dead datapad for my coffee-stained notebook and pen. Only tool that still works, anyway.
+It sounds like I won't be seeing it again. A toll. Fair enough. Swap the dead datapad for my coffee-stained notebook and pen. Only tool that still works, anyway.
 He leads me to a heavy door marked 'OBSERVATORY'. Pushes it open into absolute blackness.
 
 The door hisses shut behind me.

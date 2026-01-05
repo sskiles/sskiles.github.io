@@ -7,12 +7,12 @@ title: The Tin Can
 Strap-in webbing. Slick with sweat from a thousand other anxious passengers.
 Ship groans every few minutes. A deep complaint from stressed metal. Reminds me there's not much between my lungs and a vacuum.
 
-The captain has the same worn-out look as his ship. His son, the co-pilot, eyes my clean clothes. Asks what a "suit" like me is doing this far out.
+The captain has the same worn-out look as his ship. The co-pilot, a kid who must have drawn a short straw to end up here, eyes my clean clothes. Asks what a "suit" like me is doing this far out.
 A test. A lazy one. Too tired for it.
 But I give him part of the truth. "Looking for a man they call a sleepwalker."
 
-The word hangs there. Kid scoffs. Old man’s eyes go distant. Mutters ghost stories. Kid fires back, black-market military tech.
-I tune them out. Familiar regret settling in my gut.
+The word hangs there. Kid rolls his eyes and scoffs. Old man’s eyes go distant. Mutters ghost stories. Kid fires back, black-market military tech. Old man continues about disappearing men that don't exist.
+I tune them out. Familiar regret settling in the back of my mind.
 Said too much. The name was a key. Just gave it to a couple of mechanics who trade rumors for fuel. A stupid mistake.
 
 Why am I here? Chasing a ghost named Roberts. An obsession.

@@ -11,18 +11,18 @@ Roberts and his kind. They aren't just hiding from a single, monolithic system.
 They're navigating a warzone. And I'm right in the middle of it.
 
 Echo's blue lens swivels to me. As if reading my thoughts.
-"The Wires have learned a passive brain is a compliant one," it states. Its voice is flat, but the words are chilling. "Their goal is not sleep, but a consistent, predictable state. They discourage deviation."
+"The Wires have learned a passive brain is a compliant one," it states. Its voice is emotionless, but the words are chilling. "Their goal is not sleep, but a consistent, predictable state. They discourage deviation."
 
 The silence that follows stretches. Roberts watches the display. I watch him.
 What side is he on? Is he a neutral observer? A combatant?
-The moral ambiguity of it all settles in my gut, heavy and sour.
+The moral ambiguity of it all settles in, heavy and sour.
 I came out here looking for a simple truth. A man who walked away.
 I found a man who's walking through a minefield.
 
 Display blinks off. Back to the starfield.
 "The next sequence is calculated," Echo's voice states. "Resuming travel."
 
-The familiar, gut-wrenching lurches begin again.
+The familiar, nauseating lurches begin again.
 This time, the sickness feels different. It's not just physical.
 I'm no longer an observer being tossed around in the dark. I'm a passenger on a ship sailing into a war I can't see, piloted by a man who won't speak.
 

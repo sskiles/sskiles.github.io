@@ -12,7 +12,7 @@ The Wires are patient. A raving madman is better propaganda than a quiet disappe
 A way out. A decommissioned med-freighter, the *Mercy's End*. No questions asked. They're used to broken people. Found an empty cabin in a forgotten ward. Hid. Clutching a ruined notebook.
 
 Silence between stars. Tried to write it all down.
-The *Lacuna*. Roberts. The voice on the comm. The *Starseeker*.
+The *Lacuna*. Roberts. Never a flicker of anything. The voice on the comm. The *Starseeker*.
 The plain, unvarnished truth.
 
 Then I read it.
