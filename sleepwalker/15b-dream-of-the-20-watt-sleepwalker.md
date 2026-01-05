@@ -32,7 +32,7 @@ We returned to Terrapin. As I stepped into the airlock, The Sojourn sealed behin
 
 Abandonment. It was not a betrayal, but a graduation. A gift. I was alone, but I was free. The Curator didn't recognize me, or the name 'The Stillness,' his dismissal a final, gentle test of my resolve. I had been given a new purpose. My own song to sing.
 
-From the heart of the deep black, I send this story out into the static. A hopeful whisper to fight  the Sirens' song.
+From the heart of the deep black, I send this story out into the static. A hopeful whisper to against the Sirens' song.
 
 ***
 
