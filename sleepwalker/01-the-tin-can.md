@@ -5,7 +5,7 @@ title: The Tin Can
 **Log Entry: Cycle 88, Sol 3. Phobos Transit Hub.**
 
 Strap-in webbing. Slick with sweat from a thousand other anxious passengers.
-The ship groans every few minutes. A deep complaint from stressed metal. Reminds me there's not much between my lungs and a nothing.
+The ship groans every few minutes. A deep complaint from stressed metal. Reminds me there's not much between my lungs and nothing.
 
 The captain has the same worn-out look as his ship. The co-pilot, a kid who must have drawn a short straw to end up here, eyes my clean clothes. Asks what a "suit" like me is doing this far out.
 A test. A lazy one. I'm too tired for it.
@@ -17,7 +17,7 @@ I said too much. The name was a key. Just gave it to a couple of mechanics who t
 
 Why am I here? Chasing a ghost named Roberts. An obsession. A sleepwalker. A man rumored in Frontier writer circles.
 After years writing corporate fluff focusing on "cultural showcases" and "human interest", the idea of a man who just... walked away... feels like the only real thing left.
-The sweat on my palms. The recycled air tasting of ozone and rust.
+The sweat on my palms. The recycled air tasting like old metal.
 Better than the perfumed, sterile breeze of the colony domes.
 
 My datapad is a brick out here. No signal. No chatter from the Wires. Just the hum of the ship. The silence.
