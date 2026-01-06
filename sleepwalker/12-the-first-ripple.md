@@ -10,7 +10,7 @@ But Roberts and the others... they're fighting back in their own quiet way. And 
 
 The decision was made in that silent meeting. The First Ripple. We'll seed a fringe news outlet with bait: a fragment of the *Starseeker* log. A test. A stone tossed into the placid lake of the Wires' control to see what kind of monster surfaces.
 
-My job is to make it sing. To turn the raw data—audio snippets, frantic text—into a story.
+My job is to make it sing. To turn the raw data. The audio snippets... frantic text... into a story.
 
 My pen scratches across the paper, translating the fragmented terror of Dr. Thorne into a narrative that has a beginning, a middle, and a soul-crushing end. This isn't corporate fluff. This is the truth, sharp and ugly. These words don't feel hollow. They feel heavy. Real.
 
