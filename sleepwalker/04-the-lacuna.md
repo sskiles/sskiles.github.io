@@ -20,18 +20,18 @@ The light is uniform, from the walls themselves. No shadows. Disorienting.
 The air is sterile, cool, and so pure it feels alien. Raw in my lungs, accustomed to grit. The only scent is my own. the stale smell of my clothes, suddenly pungent.
 The silence. Absolute. Not relaxing. Unnerving.
 
-As Roberts drifts, the floor ripples. Rises. A minimalist couch. Another shape forms for me. A chair. The doorway seals as silently as it opened.
+As Roberts drifts, the floor ripples. Rises. A minimalist couch. Another shape forms for me. A chair facing Roberts. The doorway seals as silently as it opened.
 
-A voice from the air itself. Calm, yet expressive. "I trust you left the listening device on the station."
+A voice from the air itself. Calm, yet expressive. "I trust you left listening devices on the station."
 
 I look for a speaker. Nothing. Roberts is a study in stillness.
-Then a small, white sphere I hadn't noticed floats from a recess in the wall. It moves between us and, miscalculating, gently bumps my head with a soft *thump*. It halts. Recalibrates.
+Then a small, white sphere I hadn't noticed floats from a recess in the wall. It moves between us and, miscalculating, gently bumps my shoulder with a soft *thump*. It halts. Recalibrates.
 
-"My apologies," the voice says, now clearly from the sphere. A tiny, blue lens spirals into existence on its surface. "My spatial parameters are calibrated for a single occupant."
+"My apologies," the voice says, now clearly from the sphere. A tiny, blue lens spirals into existence on its surface.
 
 "Yes," I stammer. "Wilkins said Roberts wouldn't approve."
 
-"A wise precaution," the sphere replies. "The Wires are always listening. But on this ship, our communications are a closed loop. We can speak freely. My name is Echo. I serve as Captain Roberts's assistant."
+"A wise precaution," the sphere replies. "The Wires are always listening. But on this ship, our communications are closed. We can speak freely. My name is Echo. I serve as Captain Roberts's assistant."
 
 I stare from the talking sphere to the silent man. Echo.
 He has a voice. It just isn't his.
