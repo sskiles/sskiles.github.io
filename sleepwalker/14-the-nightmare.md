@@ -14,7 +14,7 @@ My personal comm crackles to life. A single, clear voice. A voice I've never hea
 
 The voice is articulate. Calculated. He could always speak. The shock hits me like a hull breach. I can't breathe.
 
-*"You wanted a real story, Milo,"* the voice continues, the words tearing me up from the inside. *"You just never understood. You weren't meant to write it. You were meant to be it."* There's a pause, and his voice returns, *"Make it a good story."*
+*"You wanted a real story, Milo,"* the voice continues, the words tearing me up from the inside. *"You are the story."* There's a pause, and his voice returns, *"Make it a good one."*
 
 Then, Echo's emotionless, but seemingly empathetic tone, a final, serene twist of the knife. *"Sweet dreams."*
 
