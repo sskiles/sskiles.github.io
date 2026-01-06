@@ -14,17 +14,17 @@ Echo's blue lens swivels to me. As if reading my thoughts.
 "The Wires have learned a passive brain is a compliant one," it states. Its voice is emotionless, but the words are chilling. "Their goal is not sleep, but a consistent, predictable state. They discourage deviation."
 
 The silence that follows stretches. Roberts watches the display. I watch him.
-What side is he on? Is he a neutral observer? A combatant?
+What side is he on? Is he a neutral observer? A sabateur?
 The moral ambiguity of it all settles in, heavy and sour.
 I came out here looking for a simple truth. A man who walked away.
-I found a man who's walking through a minefield.
+I found a man who's walking through the Wires.
 
 Display blinks off. Back to the starfield.
 "The next sequence is calculated," Echo's voice states. "Resuming travel."
 
 The familiar, nauseating lurches begin again.
 This time, the sickness feels different. It's not just physical.
-I'm no longer an observer being tossed around in the dark. I'm a passenger on a ship sailing into a war I can't see, piloted by a man who won't speak.
+I'm no longer an observer being tossed around in the dark. I'm a passenger on a ship sailing into a conflict I can't see, piloted by a man who won't speak.
 
 The lurching stops. The sudden stillness is almost as jarring as the movement.
 "We have arrived," Echo announces.
