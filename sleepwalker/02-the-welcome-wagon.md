@@ -21,7 +21,7 @@ The voice cut the quiet. From a side passage, a man. Solid frame, but light on h
 "I'm looking for a man named Roberts," I say.
 
 "'Roberts'?" A dry crack in his weathered face. Something like a smile. "Local legend. The man who didn't just log off, but truly 'unplugged.'"
-His voice drops, becomes raspy. "Back in the domes, everyone's running on twenty watts, dreaming their lives away while the Wires whisper sweet nothings in their ears. Roberts... he decided to wake up."
+His voice drops, becomes raspy. "Back in the domes, everyone's wasting their twenty watts, dreaming their lives away while the Wires whisper sweet nothings in their ears. Roberts... he decided to wake up."
 He thumps a shoddy conduit held with tape. "The Wires are always listening. Best to keep your thoughts to yourself."
 Used to dismiss that talk as frontier paranoia. Out here, it's practical advice.
 "I need to talk to him."
