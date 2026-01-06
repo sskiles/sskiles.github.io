@@ -20,7 +20,7 @@ He doesn't move. A statue against fusion and dust.
 
 "I'm here because you did what I thought was impossible. Walked away from the noise. From the feeds, the chatter... all of it. I just need to know if it's real."
 
-Silence. Heavier now. I've blown it. Stupid. Asked a ghost for a map from a man who burned his.
+Silence. Heavier now. I've blown it. Stupid. Asked a ghost for a story of a man who left his behind.
 
 Then, he rotates. Slow. Zero-g. Looks *at* me, not through me.
 An assessment. A long moment.

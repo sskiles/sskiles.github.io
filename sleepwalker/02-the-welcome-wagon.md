@@ -16,7 +16,7 @@ The voice cut the quiet. From a side passage, a man. Solid frame, but light on h
 
 "A bit of both," I managed.
 
-"Wilkins," he grunted. No handshake. Just a nod at my clothes. "Welcome wagon. Information costs extra."
+"Wilkins," he grunted. No handshake. Just a nod at my clothes. "I'm the welcome wagon," his voice trails off. "Information costs extra," a line intended just for me I'm sure.
 
 "I'm looking for a man named Roberts," I say.
 

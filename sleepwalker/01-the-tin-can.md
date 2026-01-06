@@ -17,7 +17,7 @@ Said too much. The name was a key. Just gave it to a couple of mechanics who tra
 
 Why am I here? Chasing a ghost named Roberts. An obsession. A sleepwalker. A man rumored in Frontier writer circles.
 After years writing corporate fluff focusing on "cultural showcases" and "human interest", the idea of a man who just... walked away... feels like the only real thing left.
-The grit under my nails. The recycled air tasting of ozone and rust.
+The swet on my palms. The recycled air tasting of ozone and rust.
 Better than the perfumed, sterile breeze of the colony domes.
 
 My datapad is a dead brick out here. No signal. No chatter from the Wires. Just the hum of the ship. The silence.

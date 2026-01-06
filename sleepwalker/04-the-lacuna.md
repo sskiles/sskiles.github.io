@@ -11,13 +11,13 @@ The jury's still out.
 He leads me to a decommissioned cargo bay. And there it is.
 At first, I think it's just a section of the bay sealed off. A wall of pure black.
 Then my eyes adjust. Not a wall. A hole in space the shape of a ship.
-A seamless, matte-black ovoid that seems to drink the station's dim light. No visible engines, no docking clamps, no seams. A silent contradiction to every piece of functional, rust-bucket tech I've ever seen.
+A seamless, matte-black shape that seems to swallow the station's dim light. No visible engines, no docking clamps, no seams. A silent contradiction to every piece of functional, rust-bucket tech I've ever seen.
 
 Roberts floats to a spot on the hull, places his palm against it. The material doesn't retract. It flows. A perfect circle of blackness recedes into itself without a sound. He gestures. I push off, leaving the familiar grime behind.
 
 Inside. A single, white chamber.
 The light is uniform, from the walls themselves. No shadows. Disorienting.
-The air is sterile, cool, and so pure it feels alien. Raw in my lungs, accustomed to grit. The only scent is my own—the stale smell of my clothes, suddenly pungent.
+The air is sterile, cool, and so pure it feels alien. Raw in my lungs, accustomed to grit. The only scent is my own. the stale smell of my clothes, suddenly pungent.
 The silence. Absolute. Not relaxing. Unnerving.
 
 As Roberts drifts, the floor ripples. Rises. A minimalist couch. Another shape forms for me. A chair. The doorway seals as silently as it opened.
