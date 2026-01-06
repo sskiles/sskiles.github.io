@@ -22,7 +22,7 @@ The truth is useless.
 
 Wanted to burn the notebook. Erase it all. But they left me with one thing.
 A story. A fiction.
-The thought is bitter, like ash in my mouth. To hide the truth, I have to wrap it in a lie. A story that's palatable, artfully bland. Corporate-approved fluff they might even promote.
+The thought is bitter, acid in my mouth. To hide the truth, I have to wrap it in a lie. A story that's palatable, artfully bland. Corporate-approved fluff they might even promote.
 A Trojan horse.
 
-It is the only move I have left.
+It is the only move I have left. I have to...

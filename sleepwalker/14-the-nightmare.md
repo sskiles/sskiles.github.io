@@ -46,7 +46,7 @@ Wilkins. The voice a rasp. Pity in it. A hollow echoing sound. The worst sound.
 
 
 
-"Roberts?" Empty eyes. No recognition. "Don't know the name, friend." A shrug. He drifts away. Gone too.
+"Roberts? Don't know the name, friend. You look like you've had a rough go. Maybe you should find a quiet corner and sleep it off." Empty eyes. No recognition. "Don't know the name, friend." A shrug. He drifts away. Gone too.
 
 
 
