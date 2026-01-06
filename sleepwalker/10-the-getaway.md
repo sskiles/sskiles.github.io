@@ -18,15 +18,17 @@ A frantic voice crackles back. "One week. We'll make contact."
 
 The container secured. Then a flash.
 
-Space warps behind the freighter. A sleek corporate ship. Another one off its port.
+Space warps behind the freighter. A sleek corporate ship. Then another close behind off its port. Possibly another smuggler.
 
 "Pursuit," Echo says, and we're gone.
+
 
 A lurch, stomach climbing my throat, the scene just vanishes. Another lurch, sideways through reality, teeth grinding, another...
 
 The violence of it. My jaw aches.
 
 Then, quiet. The deep dark again.
+
 
 The container is just... here. Somewhere inside the hull. Hidden.
 

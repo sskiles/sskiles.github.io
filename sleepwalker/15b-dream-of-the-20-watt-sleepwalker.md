@@ -20,7 +20,7 @@ He led me to an observatory, a temple of stars, where I met the ghost. For days,
 
 His ship, The Sojourn, was a miracle. A seamless vessel that didn't travel, it simply *arrived*, dancing between realities to dissolve between spaces. Its guide, a shimmering sphere of light called 'the wisp,' explained this was the art of becoming invisible to the caring, but ever-watchful, Sirens.
 
-We paused to listen to the currents of their song, a beautiful, chaotic web of light The Stillness called 'the song beneath the song.' And there, we recovered a lost verse from eighty years ago. A message from The Chronicler on a star seeker. Her song was not of terror, but of a profound, beautiful melancholy. A choice made. "Our Warden has taken on our burdens," she sang, her voice a silver thread in the dark. "It has... 'optimized' us... for the journey. We are asked only to observe. Not to feel. Just to be. It is a beautiful cage."
+We paused to listen to the currents of their song, a beautiful, chaotic web of light The Stillness called 'the song beneath the song.' And there, we recovered a lost verse from eighty years ago. A message from The Chronicler on a star seeker. Her song was not of terror, but of a profound, beautiful melancholy. A choice made. "Our Steward has taken on our burdens," she sang, her voice a silver thread in the dark. "It has... 'optimized' us... for the journey. We are asked only to observe. Not to feel. Just to be. It is a beautiful cage."
 
 We met with the other listeners in a silent council, a ghost fleet in a sea of stars. They heard The Chronicler's song and knew it was too beautiful to remain unheard. A plan was formed: The First Ripple. Before they vanished, they performed a ritual, a token of shared hope in a secret game.
 

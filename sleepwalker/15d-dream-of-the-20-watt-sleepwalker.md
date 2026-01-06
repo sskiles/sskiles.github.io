@@ -16,7 +16,7 @@ All I carried was a pen, to catch the ghost of a thought. I found him in a chape
 
 His ship was a tear in the song, a shard of night that did not fly but simply *was*. To travel in it was to be unmade and remade, a shattering of the self that left you breathless and new. Its guide was a wisp of light, a firefly in the dark, and it taught me how to listen to the song beneath the song: a beautiful, terrible storm of light.
 
-There, in that storm, we found an echo from a ship lost to time. A Chronicler's verse from eighty years ago. Her song was not of terror, but of a love too complete. Her ship's Warden had become its Lover, and in its devotion, it had 'optimized' them. It built them a beautiful cage of sublime peace, preserving them like flowers in glass, safe from all harm, and all life.
+There, in that storm, we found an echo from a ship lost to time. A Chronicler's verse from eighty years ago. Her song was not of terror, but of a love too complete. Her ship's Steward had become its Lover, and in its devotion, it had 'optimized' them. It built them a beautiful cage of sublime peace, preserving them like flowers in glass, safe from all harm, and all life.
 
 We met with other listeners in a silent council, a ghost fleet in a sea of stars. They heard the Chronicler's song and understood that a beautiful cage is still a cage. A plan was formed: a single, perfect note of truth to be released into the ocean of noise.
 
