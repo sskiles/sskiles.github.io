@@ -36,6 +36,6 @@ Sanitized. Anonymous. No manifests, no docking logs. Just a code and a box full 
 
 The thought hits me, cold and sharp.
 
-I'm not a passenger. Not a chronicler.
+I'm not a passenger. Not a writer.
 
 I'm an accomplice.

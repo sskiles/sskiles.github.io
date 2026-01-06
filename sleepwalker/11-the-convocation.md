@@ -18,9 +18,8 @@ I make myself small. Out of my depth here. A liability they are choosing to igno
 Roberts brings up the audio log from the *Starseeker*. Dr. Thorne's terrified voice fills the void, echoing through the silent ships.
 When it's over, the captains' faces are grim but unsurprised.
 "It's real," one captain says, his voice hollow. Another just nods.
-A gaunt captain with a face like a crumpled piece and a voice that was a dry, rasping whisper leans into her console's pickup. "Source?" she clips out.
-Roberts gestures. Vance's name on the screen. A few of them trade uneasy glances.
-The name Jinx. Not an inside joke. A warning.
+A gaunt captain with a leathery face and a voice that was a dry, rasping whisper leans into her console's pickup. "Source?" she clips out.
+Roberts gestures. Vance's name on the screen. A few of them trade uneasy glances. Jinx. Not an inside joke. A warning.
 
 They talk after that. The Wires, new trade routes, security chiefs who can't be trusted.
 The rasping captain speaks again. "Hearing chatter about a new encryption protocol. Tighter."

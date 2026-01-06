@@ -4,11 +4,11 @@ title: The Reveal
 ---
 **Log Entry: Cycle 88, Sol 8. Deep Space (cont.).**
 
-The image of the turbulence hangs in the silent cockpit. A storm of invisible conflict.
+The image of the motions, the turbulence hangs in the silent cockpit. A storm of invisible conflict.
 My little exchange with Echo replays in my mind. *A practical application.*
 Not just a turn of phrase.
 Roberts and his kind. They aren't just hiding from a single, monolithic system.
-They're navigating a warzone. And I'm right in the middle of it.
+They're navigating a mine field. And I'm right in the middle of it.
 
 Echo's blue lens swivels to me. As if reading my thoughts.
 "The Wires have learned a passive brain is a compliant one," it states. Its voice is emotionless, but the words are chilling. "Their goal is not sleep, but a consistent, predictable state. They discourage deviation."

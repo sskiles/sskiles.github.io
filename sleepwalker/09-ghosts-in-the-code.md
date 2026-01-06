@@ -41,5 +41,5 @@ Is it real? A bonus from a man named Jinx. A message from a ship lost for nearly
 
 As I sit there, trying to process, Echo's voice cuts through. "Priority contract available. Coded broadcast. High risk."
 
-Roberts looks up from the dormant display, his gaze meeting mine for a brief, intense moment. He gave a single, slow nod.
+Roberts looks up from the dormant display, his gaze meeting mine for a brief, moment. He gave a single, slow nod.
 The message is clear. The ghost in the code would have to wait. We had a job to do.

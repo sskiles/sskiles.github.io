@@ -17,7 +17,7 @@ Roberts floats to a spot on the hull, places his palm against it. The material d
 
 Inside. A single, white chamber.
 The light is uniform, from the walls themselves. No shadows. Disorienting.
-The air is sterile, cool, and so pure it feels alien. Raw in my lungs, accustomed to grit. The only scent is my own. the stale smell of my clothes, suddenly pungent.
+The air is sterile, cool, and so pure it feels alien. Raw in my lungs, accustomed to grit. The only scent is my own. The stale smell of my clothes, suddenly pungent.
 The silence. Absolute. Not relaxing. Unnerving.
 
 As Roberts drifts, the floor ripples. Rises. A minimalist couch. Another shape forms for me. A chair facing Roberts. The doorway seals as silently as it opened.

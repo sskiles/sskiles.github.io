@@ -17,6 +17,6 @@ Everyone is either running from something or looking for a score.
 
 Roberts moves with a quiet purpose, Echo floating silently behind him. I follow, my eyes scanning every stained bulkhead, every broken pipe.
 The official story is that we're here to deliver an engine. Simple cargo. Who knows.
-I'm starting to learn that with Roberts, nothing is ever simple. This feels like more than a delivery.
+I'm starting to learn that with Roberts, nothing is ever simple. This feels like it may be more than a delivery.
 
 This isn't a port. It's a place where things, and people, get lost.

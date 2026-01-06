@@ -18,4 +18,4 @@ A simple errand. A final check before the ripple spreads.
 
 I push off towards the airlock. My notebook clutched tight. My weapon. My truth.
 
-"I'll be quick." The words sound hollow, a stranger's voice.
+"I'll be quick." My words sound hollow, a stranger's voice.

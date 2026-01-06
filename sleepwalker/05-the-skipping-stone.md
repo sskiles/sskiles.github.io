@@ -9,10 +9,10 @@ Echo's voice cut the silence. Calm. "Time to depart."
 The forward wall dissolves. Terrapin Station hangs there. Then gone. Just ceases.
 
 Lurch.
-A gut-wrenching displacement. Nothing to do with acceleration. My stomach does a slow roll. Not a jump. Yanked sideways. Through reality. Another lurch. Different vector. Another. And another.
+A gut-wrenching displacement. Nothing to do with acceleration. My stomach does a slow roll. Not a jump. Yanked sideways. Through reality. Another lurch. Different direction. Another. And another.
 My voice unsteady. "What is this?"
 
-Blue lens swivels. "This is how we travel." Flat. "Untraceable. The Wires cannot see."
+Blue lens swivels. "This is how we travel." Flat. "Untraceable. The Wires cannot follow."
 
 Untraceable. Not hidden. Statistically impossible. Paranoid philosophy made real. My stomach heaves. Safety has a price.
 
@@ -24,18 +24,18 @@ I manage a grunt.
 
 Another data point for the sphere.
 
-Lurching stops. Sudden stillness. A relief. "Quiet corridor," Echo announces. "To listen."
+Lurching stops. Sudden stillness. A relief. "A quiet place," Echo announces. "To listen."
 
 Nausea subsides. I look at the wall. Not star charts.
 A display. Web of chaotic, shifting energies. Silent. Swirling. Light. A galaxy of light.
 Notebook out. Sketching. Trying to find the pattern. Anything. Imposing order. A silent aurora, I write, the ghost of a nebula bleeding through the code.
 I whisper. "What is it?"
 
-The wisp's lens swivels from notebook to display. "The Captain is listening." Flat. "To the turbulence."
+The wisp's lens swivels from notebook to display. "The Captain is listening." Flat. "To the motions."
 
-"Turbulence?" Fanciful words. Looking at the screen. "Looks more like a storm."
+"Motions?" I ask, looking at the screen. "Looks more like a storm."
 
-"Apt," Echo says. Devoid of praise. "But the Captain's work is not poetry. He is charting a course through the noise. A practical application."
+"Apt," Echo says. Devoid of praise. "He is charting a course through the noise. A practical application."
 
 The correction stings. I cross out my words. All of them. A final, angry slash of ink in the notebook.
 These sleepwalkers. Not just hiding. Navigating something else. Something I never knew existed.
