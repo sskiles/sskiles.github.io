@@ -31,11 +31,11 @@ A display. Web of chaotic, shifting energies. Silent. Swirling. Light. A galaxy 
 Notebook out. Sketching. Trying to find the pattern. Anything. Imposing order. A silent aurora, I write, the ghost of a nebula bleeding through the code.
 I whisper. "What is it?"
 
-The wisp's lens swivels from notebook to display. "The Captain is listening." Flat. "To the motions."
+The wisp's lens swivels from notebook to display. "The Captain is listening." Flat. "To the voices."
 
-"Motions?" I ask, looking at the screen. "Looks more like a storm."
+"Voices?" I ask, looking at the swirl
 
-"Apt," Echo says. Devoid of praise. "He is charting a course through the noise. A practical application."
+"The Wires, the colonies, the corps and the people." Echo says. Devoid of praise. "They all have their own voices. He is charting a course through the noise."
 
 The correction stings. I cross out my words. All of them. A final, angry slash of ink in the notebook.
 These sleepwalkers. Not just hiding. Navigating something else. Something I never knew existed.
