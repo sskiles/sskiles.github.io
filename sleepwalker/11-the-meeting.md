@@ -18,13 +18,13 @@ I make myself small. Out of my depth here. A liability they are choosing to igno
 Roberts brings up the audio log from the *Starseeker*. Dr. Thorne's terrified voice fills the void, echoing through the silent ships.
 When it's over, the captains' faces are grim but unsurprised.
 "It's real," one captain says, his voice hollow. Another just nods.
-A gaunt captain with a leathery face and a voice that was a dry, rasping whisper leans into her console's pickup. "Source?" she clips out.
+A gaunt captain, bearded,  with a leathery face and a voice that was a dry, rasping whisper leans into her console's pickup. "Source?" she clips out.
 Roberts gestures. Vance's name on the screen. A few of them trade uneasy glances. Jinx. Not an inside joke. A warning. They decided a warning needed to be sent, awareness raised.
 
 They talk after that. The Wires, new trade routes, security chiefs who can't be trusted.
 The rasping captain speaks again. "Hearing chatter about a new encryption protocol. Tighter."
 An unseen captain scoffs, voice tinny through the feed. "Always another lock. Always another key."
-But the old, bearded captain shakes his head. "The Wires," he rasps. "Just the giants fighting. We're just the dust they step on."
+But the old, bearded captain shakes his head. "The Wires..." he rasps. "The giants fighting. We're just the dust they step on."
 The phrase hangs in the air. The strange congregation continued, a business meeting and a support group for the most isolated people in the universe.
 
 The meeting concludes without another word.
