@@ -4,7 +4,7 @@ title: The Getaway
 ---
 **Log Entry: Cycle 88, Sol 14. The Umbra of 433 Eros.**
 
-After another series of disorienting jumps, we're hanging in the shadow of an asteroid, waiting. This is the "high risk" contract Echo mentioned. A no-questions-asked pickup.
+After another series of disorienting jumps, we're hanging in the shadow of an asteroid, waiting. The "high risk" contract Echo mentioned. A no-questions-asked pickup.
 
 A single point of light resolves into an old, scarred freighter, one of its docking ports visibly damaged. They're running from something.
 
@@ -18,9 +18,12 @@ A frantic voice crackles back. "One week. We'll make contact."
 
 The container secured. Then a flash.
 
+
+
 Space warps behind the freighter. A sleek corporate ship. Then another close behind off its port. Possibly another smuggler.
 
 "Pursuit," Echo says, and we're gone.
+
 
 
 A lurch, stomach climbing my throat, the scene just vanishes. Another lurch, sideways through reality, teeth grinding, another...

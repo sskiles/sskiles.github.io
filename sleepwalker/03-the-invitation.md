@@ -4,7 +4,7 @@ title: The Invitation
 ---
 **Log Entry: Cycle 88, Sol 8. Observatory.**
 
-Two days. For two days, we have floated in this quiet emptiness. Just me and a ghost. The silence isn't peaceful. It's a tactic. A test of patience. And I'm failing it.
+Two days. For two days, we have floated in quiet emptiness. Just me and a ghost. The silence isn't peaceful. It's a tactic. A test of patience. And I'm failing it.
 
 Instinct says prod him. Ask. Fill the void. My job. Isn't it? Not a story if there are no words.
 

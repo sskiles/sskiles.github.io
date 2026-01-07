@@ -4,7 +4,7 @@ title: The Return
 ---
 **Log Entry: Cycle 88, Sol 16. Approaching Terrapin Station.**
 
-More jumps again. Less nauseating this time. My stomach has mostly adjusted.
+More jumps again. Less nauseating. My stomach has mostly adjusted.
 
 The *Lacuna* shimmers. Terrapin Station hangs before us. A decaying silhouette. A homecoming to a house that isn't yours anymore. I'm not the same person who left.
 

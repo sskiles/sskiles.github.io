@@ -8,7 +8,8 @@ The airlock opens.
 The air is thin. Tastes of ozone, burnt lubricants, and stale ale.
 The sudden assault of smells is almost overwhelming after the dead air of the *Lacuna*.
 The lights are utilitarian, casting long shadows that cling to the corners. This place isn't forgotten; it's just been left to rot.
-My stomach churns. Not with excitement. This is the kind of place where people get into trouble they can't afford.
+This is the kind of place where people get into trouble they can't afford.
+My stomach churns. Not with excitement.
 
 The few figures I see drift with a familiar, zero-g weariness.
 Miners with faces like crumpled maps. Specialists with tool kits bulging from patched jumpsuits.

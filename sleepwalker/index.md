@@ -25,7 +25,7 @@ tags: [dream of the 20 watt sleepwalker]
 
 [10: The Getaway](10-the-getaway)
 
-[11: The Convocation](11-the-convocation)
+[11: The Meeting](11-the-meeting)
 
 [12: The First Ripple](12-the-first-ripple)
 

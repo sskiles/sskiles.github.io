@@ -6,7 +6,7 @@ title: The Welcome Wagon
 
 The shuttle docks. A shudder that feels final.
 Airlock cycles. Thin air, smelling of ozone and hot metal. The silence after the shuttle's drone is heavy.
-This station is a museum of makeshift repairs. Patched bulkheads, exposed conduits, flickering lights. A place where things come to break down for good.
+The station is a museum of makeshift repairs. Patched bulkheads, exposed conduits, flickering lights. A place where things come to break down for good.
 
 My clean colony clothes feel like a costume. My movements too sharp, accustomed to a gravity that's a luxury now.
 

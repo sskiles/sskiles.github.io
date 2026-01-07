@@ -31,7 +31,7 @@ Then a small, white sphere I hadn't noticed floats from a recess in the wall. It
 
 "Yes," I stammer. "Wilkins said Roberts wouldn't approve."
 
-"A wise precaution," the sphere replies. "The Wires are always listening. But on this ship, our communications are closed. We can speak freely. My name is Echo. I serve as Captain Roberts's assistant."
+"A wise precaution," the sphere replies. "The Wires are always listening. But on ship, our communications are closed. We can speak freely. My name is Echo. I serve as Captain Roberts's assistant."
 
 I stare from the talking sphere to the silent man. Echo.
 He has a voice. It just isn't his.
