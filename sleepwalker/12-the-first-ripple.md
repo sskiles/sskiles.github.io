@@ -2,7 +2,7 @@
 layout: post
 title: The First Ripple
 ---
-**Log Entry: Cycle 88, Sol 15. Aboard the Lacuna.**
+**Log Entry: Cycle 88, Sol 11. Aboard the Lacuna.**
 
 The Meeting was a dizzying blur. Faces on a screen, ships in the void, a shared, silent understanding. The Wires are real, pulling strings on a scale I can barely comprehend.
 

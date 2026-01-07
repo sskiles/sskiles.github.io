@@ -2,7 +2,7 @@
 layout: post
 title: The Reveal
 ---
-**Log Entry: Cycle 88, Sol 8. Deep Space (cont.).**
+**Log Entry: Cycle 88, Sol 6. Deep Space (cont.).**
 
 The image of the motions, the turbulence hangs in the silent cockpit. A storm of invisible conflict.
 My little exchange with Echo replays in my mind. *They all have voices.*

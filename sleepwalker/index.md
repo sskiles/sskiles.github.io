@@ -5,6 +5,8 @@ title: Dream of the 20 Watt Sleepwalker
 tags: [dream of the 20 watt sleepwalker]
 ---
 
+[Full Story](@15b-dream-of-the-20-watt-sleepwalker)
+
 [01: The Tin Can](01-the-tin-can)
 
 [02: The Welcome Wagon](02-the-welcome-wagon)

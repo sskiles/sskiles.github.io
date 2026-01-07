@@ -2,7 +2,7 @@
 layout: post
 title: The Getaway
 ---
-**Log Entry: Cycle 88, Sol 14. The Umbra of 433 Eros.**
+**Log Entry: Cycle 88, Sol 7. The Umbra of 433 Eros.**
 
 After another series of disorienting jumps, we're hanging in the shadow of an asteroid, waiting. The "high risk" contract Echo mentioned. A no-questions-asked pickup.
 

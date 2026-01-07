@@ -2,7 +2,7 @@
 layout: post
 title: The Invitation
 ---
-**Log Entry: Cycle 88, Sol 8. Observatory.**
+**Log Entry: Cycle 88, Sol 5. Observatory.**
 
 Two days. For two days, we have floated in quiet emptiness. Just me and a ghost. The silence isn't peaceful. It's a tactic. A test of patience. And I'm failing it.
 

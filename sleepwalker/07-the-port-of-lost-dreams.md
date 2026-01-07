@@ -2,7 +2,7 @@
 layout: post
 title: The Port of Lost Dreams
 ---
-**Log Entry: Cycle 88, Sol 8. Fringe Habitat.**
+**Log Entry: Cycle 88, Sol 6. Fringe Habitat.**
 
 The airlock opens.
 The air is thin. Tastes of ozone, burnt lubricants, and stale ale.

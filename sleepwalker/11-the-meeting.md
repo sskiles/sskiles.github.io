@@ -2,7 +2,7 @@
 layout: post
 title: The Meeting
 ---
-**Log Entry: Cycle 88, Sol 14. The In-Between.**
+**Log Entry: Cycle 88, Sol 9. The In-Between.**
 
 After a day of stomach-turning jumps, we arrive. In what looks like a completely unremarkable patch of deep space.
 Then, the void flickers.

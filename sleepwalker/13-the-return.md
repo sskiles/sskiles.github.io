@@ -2,7 +2,7 @@
 layout: post
 title: The Return
 ---
-**Log Entry: Cycle 88, Sol 16. Approaching Terrapin Station.**
+**Log Entry: Cycle 88, Sol -. Approaching Terrapin Station.**
 
 More jumps again. Less nauseating. My stomach has mostly adjusted.
 

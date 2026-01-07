@@ -2,7 +2,7 @@
 layout: post
 title: The Lacuna
 ---
-**Log Entry: Cycle 88, Sol 8. (cont.)**
+**Log Entry: Cycle 88, Sol 6. (cont.)**
 
 Following Roberts is like chasing a shadow through the decaying station. We pass Wilkins at a junction. He gives me a look of grudging respect.
 "You've got guts, writer," he mutters. "Or you're a damn fool."

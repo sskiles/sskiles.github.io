@@ -2,7 +2,7 @@
 layout: post
 title: Ghosts in the Code
 ---
-**Log Entry: Cycle 88, Sol 9. Aboard the Lacuna.**
+**Log Entry: Cycle 88, Sol 6. Aboard the Lacuna.**
 
 The jump out is just as disorienting as the others. One moment, docked. The next, deep black again. The habitat gone, as if it never was.
 The ship is quiet now. A bubble of peace after the grit of the station.
