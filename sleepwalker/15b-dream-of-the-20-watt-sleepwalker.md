@@ -10,7 +10,7 @@ title: Dream of the 20-Watt Sleepwalker
 
 ### Dream of the 20-Watt Sleepwalker
 
-In the corporate domes, the Sirens' song promises a curated, optimized reality. A safe promise. But safety has a taste, perfumed, sterile air and knowing your dreams are not your own. I heard a rumor on the fringe about a man who went quiet. A man who found a way to just... be. I had to know.
+In the corporate domes, the Sirens' song promises a curated, optimized reality. A safe promise. But safety has a taste, perfumed, sterile air and knowing your 20 watt dreams are not your own. I heard a rumor on the fringe about a man who went quiet. A man who found a way to just... be. I had to know.
 
 The only tools that worked were a pen and a stained notebook. On Terrapin Station, a place of rust and slow decay, the station manager, a man with a tired look in his eyes, confirmed the stories. "The Sirens promise a pleasant dream," he'd said with a shrug. "He just chose to wake up."
 
