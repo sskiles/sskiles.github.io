@@ -7,20 +7,20 @@ title: The Tin Can
 Strap-in webbing. Slick with sweat from a thousand other anxious passengers.
 The ship groans every few minutes. A deep complaint from stressed metal. Reminds me there's not much between my lungs and nothing.
 
-The captain has the same worn-out look as his ship. The co-pilot, a kid who must have drawn a short straw to end up here, eyes my clean clothes. Asks what a "suit" like me is doing this far out.
-A test. A lazy one. I'm too tired for it.
-But I give him part of the truth. "Looking for a man they call a sleepwalker."
+The captain has the same worn-out look as his ship. The co-pilot, a kid who must have drawn a short straw to end up here, eyes my clean clothes. He asks what a "suit" like me is doing this far out.
+Sizing me up. Poorly. I'm too tired for it.
+I give him part of the truth. "Looking for a man they call a sleepwalker."
 
-The word hangs there. Kid rolls his eyes and scoffs. Old man goes distant. Mutters ghost stories. Kid fires back, black-market military tech. Old man continues about disappearing men that don't exist.
+The words hangs there. Kid rolls his eyes and scoffs. Old man goes distant, starts mutters ghost stories. Kid fires back, black-market military tech. The old man continues about disappearing men that don't exist.
 I tune them out. Familiar regret settling in the back of my mind.
-I said too much. The name was a key. Just gave it to a couple of mechanics who trade rumors for fuel. A stupid mistake.
+I said too much. The name was a key. And I just gave it to a couple of mechanics who trade rumors for fuel. A stupid mistake.
 
 Why am I here? Chasing a ghost named Roberts. An obsession. A sleepwalker. A man rumored in Frontier writer circles.
 After years writing corporate fluff focusing on "cultural showcases" and "human interest", the idea of a man who just... walked away... feels like the only real thing left.
-The sweat on my palms. The recycled air tasting like old metal.
+Sweat on my palms. The recycled air tasting like old metal.
 Better than the perfumed, sterile breeze of the colony domes.
 
-My datapad is a brick out here. No signal. No chatter from the Wires. Just the hum of the ship. The silence.
+My datapad is a brick out here. No signal. No chatter from the Wires. Just the rumble of the ship. The silence.
 Unnerving. You get used to the noise, the constant feed. Forget what it's like to be alone with your thoughts.
 
 The real stories were never in the data streams. They're out here.

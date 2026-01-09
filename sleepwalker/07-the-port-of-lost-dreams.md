@@ -16,8 +16,11 @@ Miners with faces like crumpled maps. Specialists with tool kits bulging from pa
 In the deeper shadows, flashes of cheap jewelry and laughs that are a little too loud.
 Everyone is either running from something or looking for a score.
 
-Roberts moves with a quiet purpose, Echo floating silently behind him. I follow, my eyes scanning every stained bulkhead, every broken pipe.
-The official story is that we're here to deliver an engine. Simple cargo. Who knows.
+Roberts moves with a quiet purpose, Echo floating silently behind him. I follow, my eyes scanning every stained bulkhead, every broken pipe. A small crew starts unloading the cargo from our hull.
+
+Echo quietly brings me up to speed. The main contact for the station is a man called Jinx. Things go sideways when he touches them. Always wanting a favor. A manifest wiped clean. The kind man who has more enemies than friends. 
+
+The official story is that we're here to deliver an engine. Who knows.
 I'm starting to learn that with Roberts, nothing is ever simple. This feels like it may be more than a delivery.
 
 This isn't a port. It's a place where things, and people, get lost.

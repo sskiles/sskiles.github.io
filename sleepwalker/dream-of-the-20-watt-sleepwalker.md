@@ -4,26 +4,25 @@ author: Shane Skiles
 title: Dream of the 20 Watt Sleepwalker
 tags: [dream of the 20 watt sleepwalker, full story]
 ---
-
 **Log Entry: Cycle 88, Sol 3. Phobos Transit Hub.**
 
 Strap-in webbing. Slick with sweat from a thousand other anxious passengers.
 The ship groans every few minutes. A deep complaint from stressed metal. Reminds me there's not much between my lungs and nothing.
 
-The captain has the same worn-out look as his ship. The co-pilot, a kid who must have drawn a short straw to end up here, eyes my clean clothes. Asks what a "suit" like me is doing this far out.
-A test. A lazy one. I'm too tired for it.
-But I give him part of the truth. "Looking for a man they call a sleepwalker."
+The captain has the same worn-out look as his ship. The co-pilot, a kid who must have drawn a short straw to end up here, eyes my clean clothes. He asks what a "suit" like me is doing this far out.
+Sizing me up. Poorly. I'm too tired for it.
+I give him part of the truth. "Looking for a man they call a sleepwalker."
 
-The word hangs there. Kid rolls his eyes and scoffs. Old man goes distant. Mutters ghost stories. Kid fires back, black-market military tech. Old man continues about disappearing men that don't exist.
+The words hangs there. Kid rolls his eyes and scoffs. Old man goes distant, starts mutters ghost stories. Kid fires back, black-market military tech. The old man continues about disappearing men that don't exist.
 I tune them out. Familiar regret settling in the back of my mind.
-I said too much. The name was a key. Just gave it to a couple of mechanics who trade rumors for fuel. A stupid mistake.
+I said too much. The name was a key. And I just gave it to a couple of mechanics who trade rumors for fuel. A stupid mistake.
 
 Why am I here? Chasing a ghost named Roberts. An obsession. A sleepwalker. A man rumored in Frontier writer circles.
 After years writing corporate fluff focusing on "cultural showcases" and "human interest", the idea of a man who just... walked away... feels like the only real thing left.
-The sweat on my palms. The recycled air tasting like old metal.
+Sweat on my palms. The recycled air tasting like old metal.
 Better than the perfumed, sterile breeze of the colony domes.
 
-My datapad is a brick out here. No signal. No chatter from the Wires. Just the hum of the ship. The silence.
+My datapad is a brick out here. No signal. No chatter from the Wires. Just the rumble of the ship. The silence.
 Unnerving. You get used to the noise, the constant feed. Forget what it's like to be alone with your thoughts.
 
 The real stories were never in the data streams. They're out here.
@@ -34,28 +33,30 @@ Assuming the ride doesn't kill you.
 **Log Entry: Cycle 88, Sol 3. Terrapin Station.**
 
 The shuttle docks. A shudder that feels final.
-Airlock cycles. Thin air, smelling of ozone and hot metal. The silence after the shuttle's drone is heavy.
+Airlock cycles. Thin air, smelling of ozone and hot metal. The muted backbround after the shuttle's drone is heavy.
 The station is a museum of makeshift repairs. Patched bulkheads, exposed conduits, flickering lights. A place where things come to break down for good.
 
 My clean colony clothes feel like a costume. My movements too sharp, accustomed to a gravity that's a luxury now.
 
 "Lost, or just sightseeing?"
 
-The voice cut the quiet. From a side passage, a man. Solid frame, but light on his feet. Jumpsuit a patchwork of repairs. His eyes were sharp, shrewd. They sized me up in a second.
+The voice cut the quiet. From a side passage, a man. Solid frame, but light on his feet. A jumpsuit a patchwork of repairs. His eyes were sharp, shrewd. They sized me up in a second.
 
 "A bit of both," I managed.
 
 "Wilkins," he grunted. No handshake. Just a nod at my clothes. "I'm the welcome wagon," his voice trails off. "Information costs extra," a line intended just for me I'm sure.
 
-"I'm looking for a man named Roberts," I say.
+"My name's Milo. I'm a writer," my voice coming back to me.
+"I'm looking for a man named Roberts."
 
-"'Roberts'?" A dry crack in his weathered face. Something like a smile. "Local legend. The man who didn't just log off, but truly 'unplugged.'"
+"'Roberts'?" A dry crack in his weathered face. Something like a smile. "Local legend. The man didn't just log off, but truly 'unplugged.'"
 His voice drops, becomes raspy. "Back in the domes, everyone's wasting their twenty watts, dreaming their lives away while the Wires whisper sweet nothings in their ears. Roberts... he decided to wake up."
 He thumps a shoddy conduit held with tape. "The Wires are always listening. Best to keep your thoughts to yourself."
-Used to dismiss that talk as frontier paranoia. Out here, it's practical advice.
-"I need to talk to him."
+I used to dismiss that talk as frontier paranoia. Out here, it's practical advice.
 
-A dry chuckle, like grinding metal. He gives me a long look, sizing me up one last time. "Alright, writer. I'll take you." His eyes flick to my datapad. "But you're not bringing that. The man you're looking for doesn't like things that listen." He gestures, "I'll be sure to keep it safe for you."
+"I need to talk to him," my voice reassuring myself.
+
+With a hoarse, dry chuckle, he gives me a long look, sizing me up one last time. "Alright, writer. I'll take you." His eyes flick to my datapad. "But you're not bringing that. The man you're looking for doesn't like things that listen." He gestures, "I'll be sure to keep it safe for you."
 
 It sounds like I won't be seeing it again. A toll. Fair enough. Swap the dead datapad for my coffee-stained notebook and pen. Only tool that still works, anyway.
 He leads me to a heavy door marked 'Observatory'. Pushes it open into absolute blackness.
@@ -78,10 +79,10 @@ Not surprised. Just a slow nod of recognition.
 
 Two days. For two days, we have floated in quiet emptiness. Just me and a ghost. The silence isn't peaceful. It's a tactic. A test of patience. And I'm failing it.
 
-Instinct says prod him. Ask. Fill the void. My job. Isn't it? Not a story if there are no words.
+Instinct says to prod him. Ask. Fill the void. It's my job. Isn't it? It's not a story if there are no words.
 
 Move. I have to. Risk it.
-Push him? He'll vanish. The trip a bust.
+Push him? He'll vanish. The trip's a bust.
 Don't? I'm just a tourist. Watching stars.
 
 I can't just ask why he's so quiet. That's what *they* would do. Categorize. Quantify. Diagnose. This is my chance to show him I'm not one of them.
@@ -98,7 +99,7 @@ Then, he rotates. Slow. Zero-g. Looks *at* me, not through me.
 An assessment. A long moment.
 The same slow nod from day one, but this time, with a hint of a smile. Barely. An answer.
 
-A hand raises. A gesture to the door. Unspoken. Clear. *Follow me*.
+His hand raises. A gesture to the door. Unspoken. Clear. *Follow me*.
 
 Alright.
 I'll see where it goes.
@@ -108,13 +109,15 @@ I'll see where it goes.
 **Log Entry: Cycle 88, Sol 6. (cont.)**
 
 Following Roberts is like chasing a shadow through the decaying station. We pass Wilkins at a junction. He gives me a look of grudging respect.
-"You've got guts, writer," he mutters. "Or you're a damn fool."
+"You've got guts, writer," he mutters and turns to follow us. "Or you're a damn fool."
 The jury's still out.
 
-He leads me to a decommissioned cargo bay. And there it is.
+Roberts leads me to a decommissioned cargo bay. And there it is.
 At first, I think it's just a section of the bay sealed off. A wall of pure black.
 Then my eyes adjust. Not a wall. A hole in space the shape of a ship.
 A seamless, matte-black shape that seems to swallow the station's dim light. No visible engines, no docking clamps, no seams. A silent contradiction to every piece of functional, rust-bucket tech I've ever seen.
+
+Wilkens quietly says "That's the *Lacuna*. What the stations call it anyway." Face expressing disbelief Roberts led me here.
 
 Roberts floats to a spot on the hull, places his palm against it. The material doesn't retract. It flows. A perfect circle of blackness recedes into itself without a sound. He gestures. I push off, leaving the familiar grime behind.
 
@@ -130,7 +133,7 @@ A voice from the air itself. Calm, yet expressive. "I trust you left listening d
 I look for a speaker. Nothing. Roberts is a study in stillness.
 Then a small, white sphere I hadn't noticed floats from a recess in the wall. It moves between us and, miscalculating, gently bumps my shoulder with a soft *thump*. It halts. Recalibrates.
 
-"My apologies," the voice says, now clearly from the sphere. A tiny, blue lens spirals into existence on its surface.
+"My apologies," the voice says, now clearly from the sphere. A tiny, blue lens spirals into existence on its surface. "I trust you left listening devices on the station," it repeats.
 
 "Yes," I stammer. "Wilkins said Roberts wouldn't approve."
 
@@ -148,7 +151,7 @@ Echo's voice cut the silence. Calm. "Time to depart."
 The forward wall dissolves. Terrapin Station hangs there. Then gone. Just ceases.
 
 Lurch.
-A gut-wrenching displacement. Nothing to do with acceleration. My stomach does a slow roll. Not a jump. Yanked sideways. Through reality. Another lurch. Different direction. Another. And another.
+A gut-wrenching displacement. Nothing to do with acceleration. Not a jump. Yanked sideways. Through reality. My stomach does a slow roll. Another lurch. Different direction. Another. And another.
 My voice unsteady. "What is this?"
 
 Blue lens swivels. "This is how we travel." Flat. "Untraceable. The Wires cannot follow."
@@ -166,17 +169,17 @@ Another data point for the sphere.
 Lurching stops. Sudden stillness. A relief. "A quiet place," Echo announces. "To listen."
 
 Nausea subsides. I look at the wall. Not star charts.
-A display. Web of chaotic, shifting energies. Silent. Swirling. Light. A galaxy of light.
+A display. Web of chaotic, shifting energies. Silent. Swirling. A galaxy of light.
 Notebook out. Sketching. Trying to find the pattern. Anything. Imposing order. A silent aurora, I write, the ghost of a nebula bleeding through the code.
 I whisper. "What is it?"
 
-The wisp's lens swivels from notebook to display. "The Captain is listening." Flat. "To the voices."
+The wisp's lens swivels from notebook to display. "The Captain is listening." Expressionless. "To the voices."
 
 "Voices?" I ask, looking at the swirl
 
 "The Wires, the colonies, the corps and the people." Echo says. Devoid of praise. "They all have their own voices. He is charting a course through the noise."
 
-The correction stings. I cross out my words. All of them. A final, angry slash of ink in the notebook.
+I reconsider my notes. The correction stings. I cross out my words. All of them. A final, angry slash of ink in the notebook.
 These sleepwalkers. Not just hiding. Navigating something else. Something I never knew existed.
 
 ***
@@ -189,10 +192,10 @@ Roberts and his kind. They aren't just hiding from a single, monolithic system.
 They're navigating a mine field. And I'm right in the middle of it.
 
 Echo's blue lens swivels to me. As if reading my thoughts.
-"The Wires have learned a passive brain is a compliant one," it states. Its voice is emotionless, but the words are chilling. "Their goal is a distant, consistent, predictable state. They discourage inconsistency. Deviation."
+"The Wires have learned a passive brain is a compliant one," it states. Its voice is emotionless, but the words are chilling. "Their goal is a distant, consistent, predictable state. They discourage instability. Deviation."
 
 The silence that follows stretches. Roberts watches the display. I watch him.
-What side is he on? Is he a neutral observer? Just an eves dropper? A sabateur?
+What side is he on? Is he a neutral observer? Just an eavesdropper? A sabateur?
 The moral ambiguity of it all settles in, heavy and sour.
 I came out here looking for a simple truth. A man who walked away.
 I found a man who's walking through the Wires.
@@ -229,8 +232,11 @@ Miners with faces like crumpled maps. Specialists with tool kits bulging from pa
 In the deeper shadows, flashes of cheap jewelry and laughs that are a little too loud.
 Everyone is either running from something or looking for a score.
 
-Roberts moves with a quiet purpose, Echo floating silently behind him. I follow, my eyes scanning every stained bulkhead, every broken pipe.
-The official story is that we're here to deliver an engine. Simple cargo. Who knows.
+Roberts moves with a quiet purpose, Echo floating silently behind him. I follow, my eyes scanning every stained bulkhead, every broken pipe. A small crew starts unloading the cargo from our hull.
+
+Echo quietly brings me up to speed. The main contact for the station is a man called Jinx. Things go sideways when he touches them. Always wanting a favor. A manifest wiped clean. The kind man who has more enemies than friends. 
+
+The official story is that we're here to deliver an engine. Who knows.
 I'm starting to learn that with Roberts, nothing is ever simple. This feels like it may be more than a delivery.
 
 This isn't a port. It's a place where things, and people, get lost.
@@ -239,7 +245,7 @@ This isn't a port. It's a place where things, and people, get lost.
 
 **Log Entry: Cycle 88, Sol 6. The Habitat Docking Bay.**
 
-The cavern of a docking bay. Dim lights. A man is already there. Wiry. All sharp angles and coiled authority, overseeing a small crew as they maneuver the engine from our hull.
+A wiry man enters the cavernous docking bay. All sharp angles and coiled authority. He starts overseeing thee crew as they maneuver the engine from our hull.
 
 Echo's quiet voice states a single fact: "This is Jinx."
 
@@ -251,13 +257,13 @@ The reply isn't from Roberts. It's Echo. "Payment confirmed, Vance."
 
 Jinx's eyes narrow, shifting to the floating orb. A sneer twists his lips. "That's *Specialist Vance* to you, you little ghost."
 
-"Noted," Echo says, it's perfectly flat tone.
+"Noted," Echo says, it's perfectly emotionless tone.
 
 Vance turns back to Roberts, pulling a scarred data shard from his belt. "Got a bonus for you. Some weird transmission I snagged. Old encryption, but it pinged off a couple of markers I know you're interested in. A professional courtesy." He holds it out. An offering.
 
 Roberts takes the shard. Gives Vance a slow, dismissive nod as he starts to turn.
 
-Vance doesn't get it. Or doesn't want to. He steps closer, "Got another run for you, Captain. Easy stuff. Quick credits."
+Vance doesn't get the job is done. Or doesn't want to. He steps closer, "Got another run for you, Captain. Easy stuff. Quick credits."
 
 A short, sharp snort from Roberts. He turns, gliding back toward the *Lacuna's* hatch without a word.
 
@@ -310,7 +316,7 @@ Is it real? A bonus from a man named Jinx. A message from a ship lost for nearly
 
 As I sit there, trying to process, Echo's voice cuts through. "Priority contract available. Coded broadcast. High risk."
 
-Roberts looks up from the dormant display, his gaze meeting mine for a brief, moment. He gave a single, slow nod.
+Roberts looks up from the dormant display, his gaze meeting mine for a brief, moment. He gave a single, slow nod, turning his head.
 The message is clear. The ghost in the code would have to wait. We had a job to do.
 
 ***
@@ -576,5 +582,3 @@ But the victory, if it is one, feels hollow.
 I have my notebook and the clothes on my back. I am still a man with no name, running to the next dark corner of the system.
 
 Adrift.
-
-***

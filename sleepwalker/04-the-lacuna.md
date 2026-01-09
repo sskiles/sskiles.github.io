@@ -5,13 +5,15 @@ title: The Lacuna
 **Log Entry: Cycle 88, Sol 6. (cont.)**
 
 Following Roberts is like chasing a shadow through the decaying station. We pass Wilkins at a junction. He gives me a look of grudging respect.
-"You've got guts, writer," he mutters. "Or you're a damn fool."
+"You've got guts, writer," he mutters and turns to follow us. "Or you're a damn fool."
 The jury's still out.
 
-He leads me to a decommissioned cargo bay. And there it is.
+Roberts leads me to a decommissioned cargo bay. And there it is.
 At first, I think it's just a section of the bay sealed off. A wall of pure black.
 Then my eyes adjust. Not a wall. A hole in space the shape of a ship.
 A seamless, matte-black shape that seems to swallow the station's dim light. No visible engines, no docking clamps, no seams. A silent contradiction to every piece of functional, rust-bucket tech I've ever seen.
+
+Wilkens quietly says "That's the *Lacuna*. What the stations call it anyway." Face expressing disbelief Roberts led me here.
 
 Roberts floats to a spot on the hull, places his palm against it. The material doesn't retract. It flows. A perfect circle of blackness recedes into itself without a sound. He gestures. I push off, leaving the familiar grime behind.
 
@@ -27,7 +29,7 @@ A voice from the air itself. Calm, yet expressive. "I trust you left listening d
 I look for a speaker. Nothing. Roberts is a study in stillness.
 Then a small, white sphere I hadn't noticed floats from a recess in the wall. It moves between us and, miscalculating, gently bumps my shoulder with a soft *thump*. It halts. Recalibrates.
 
-"My apologies," the voice says, now clearly from the sphere. A tiny, blue lens spirals into existence on its surface.
+"My apologies," the voice says, now clearly from the sphere. A tiny, blue lens spirals into existence on its surface. "I trust you left listening devices on the station," it repeats.
 
 "Yes," I stammer. "Wilkins said Roberts wouldn't approve."
 
