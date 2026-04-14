@@ -14,7 +14,7 @@ After firing it back up (and remembering the password!), I did a once-over of ev
 - I didn't want a "difficult" distro; I remember spending days recompiling a Gentoo system—I'm too old for that now.
 - I just wanted something that worked.
 
-I decided to try Ubuntu. The install was fine, as expected. Then I started installing and updating tooling. I relied on web documentation for some of the install instructions. Well, I guess that was all on me. Mixing `apt` and `flatpak` just didn't play well. Fix one thing, then break another. Combine that with an annoying mouse jump (bad trackpad, I'm guessing), which came back persistently—I was done. I was going to wipe clean and start again.
+I decided to try Ubuntu. The install was fine, as expected. Then I started installing and updating tooling. I relied on web documentation for some of the install instructions. Well, I guess that was all on me. Mixing `apt` and `flatpak` just didn't play well. Fix one thing, then break another. Combine that with an annoying mouse jump (bad trackpad, I'm guessing), which came back persistently — I was done. I was going to wipe clean and start again.
 
 This time, I decided to put Debian on it. I'm familiar with Debian; I love it for server systems. I have a flavor of Debian on my Pi Zero. Good, solid choice. Let's see how it does as a desktop. The install was smooth. It gave a choice of desktop environments; I chose Xfce. After finishing the setup and getting logged in, I just played around with the UI for a bit (no unexpected mouse jumps), and all seemed good. Now it was time to start installing everything needed to make it a home.
 

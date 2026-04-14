@@ -12,7 +12,8 @@ If you're going to run a Jekyll site locally, you need to install Ruby and a few
 This is a general breakdown of everything needed for most basic Jekyll sites and setting up a local server.
 
 ```bash
-sudo apt install build-essential ruby-dev zlib1g-dev libffi-dev libssl-dev libxml2-dev libxslt1-dev libcurl4-openssl-dev libsqlite3-dev nginx```
+sudo apt install build-essential ruby-dev zlib1g-dev libffi-dev libssl-dev libxml2-dev libxslt1-dev libcurl4-openssl-dev libsqlite3-dev nginx
+```
 
 This gives you compilers, Ruby development headers and libraries along with dependencies for various Ruby Gems. Nginx is for the testing part of this.
 
@@ -27,19 +28,25 @@ Once you have GEM_HOME and PATH configured, this should install them into your u
 
 Next, run:
 
-`gem install bundler jekyll`
+```
+gem install bundler jekyll
+```
 
 This installs Jekyll, the site generator, and Bundler, the Ruby's dependency manager.
 
 Next, navigate to you existing site and run:
 
-`bundle install`
+```
+bundle install
+```
 
 This will install all of the gems needed to run your site. 
 
 If everything has gone as well, you should be able to run your site now by running the command:
 
-`bundle exec jekyll serve --incremental`
+```
+bundle exec jekyll serve --incremental
+```
 
 This will start up a local server on `http://127.0.0.1:4000` to view your site.
 The `--incremental` switch makes any changes to the site immediately visible.
@@ -83,5 +90,5 @@ Anyway, I just got done setting this up and thought it was a fun and useful litt
 Hopefully, someone might this useful.
 
 Shane
-ne
+
 
