@@ -26,7 +26,6 @@ One of my favorite uses of the ExpandoObject is for serialization/deserializatio
 Here is a short example of how that works:
 
 ```csharp
-
         dynamic expando = new ExpandoObject();
         expando.strings = new List<string> {"a", "b", "c"};
         expando.ints = new List<int>{1,2,3};
@@ -55,7 +54,7 @@ I will still probably write a longer piece on it, but for now, I will just go ov
 The ExpandoObject is a great way to capture the state of a program/procedure.
 Just toss all of your variables into an Expando and serialize everything out.
 A SQLite database is a great place to store that data for easy retrieval.
-Create a simple table (name, description, JSON, timestamp, etc.) and store it in there.
+Create a simple table (name, description JSON, timestamp, etc.) and store it in there.
 
 Anyway, that was my semi-useful C# trick for today.
 If you've ever seen it in production code, I'm sorry.
