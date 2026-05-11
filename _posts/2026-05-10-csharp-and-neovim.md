@@ -48,6 +48,11 @@ Anything that can be done through a UI can be done through the `dotnet` command.
 In some cases, it is simpler and quicker to do it from the command line instead of a UI.
 And, if it can be done through the command line, it can be scripted out for simple/easy replication/repetition.
 
+Anyway, now you know how to set up Neovim with a C# LSP for C# development.
+Now you can (somewhat) easily edit, compile, and run C# programs from a Linux terminal.
+This is a _very_ lightweight way to develop C# as far as resources go.
+So, now if you are ever trapped on a Linux machine without a GUI, and you need to knock out a C# program, you know what to do :)
 
+Have fun, `:q!`
 
 Shane
