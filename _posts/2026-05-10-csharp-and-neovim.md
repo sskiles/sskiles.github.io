@@ -59,7 +59,7 @@ Shane
 
 P.S.
 Add this to the `init.lua` to resume editting on the same line after quitting if Neovim doesn't do it by default:
-```
+```lua
 vim.api.nvim_create_autocmd("BufReadPost", {
   callback = function()
     local mark = vim.api.nvim_buf_get_mark(0, '"')
